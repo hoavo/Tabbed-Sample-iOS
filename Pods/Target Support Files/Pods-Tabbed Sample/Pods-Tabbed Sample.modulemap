@@ -1,0 +1,6 @@
+framework module Pods_Tabbed_Sample {
+  umbrella header "Pods-Tabbed Sample-umbrella.h"
+
+  export *
+  module * { export * }
+}
