@@ -20,7 +20,7 @@
     },
     "fonts" : {
       "primaryFont" : "Avenir-Book",
-      "boldFont" : "Avenir-Bold",
+      "boldFont" : "Avenir-Black",
       "lightFont" : "Avenir-Light"
     },
     "nav" : {

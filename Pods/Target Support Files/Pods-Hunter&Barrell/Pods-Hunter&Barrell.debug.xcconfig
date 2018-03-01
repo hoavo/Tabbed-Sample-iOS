@@ -1,0 +1,10 @@
+FRAMEWORK_SEARCH_PATHS = $(inherited) "$PODS_CONFIGURATION_BUILD_DIR/Bolts-iOS11.0" "$PODS_CONFIGURATION_BUILD_DIR/FBSDKCoreKit-iOS11.0" "$PODS_CONFIGURATION_BUILD_DIR/FBSDKLoginKit-iOS11.0" "$PODS_CONFIGURATION_BUILD_DIR/JSONModel-iOS11.0" "$PODS_CONFIGURATION_BUILD_DIR/PopdeemSDK-iOS11.0" "$PODS_CONFIGURATION_BUILD_DIR/Realm-iOS11.0" "$PODS_CONFIGURATION_BUILD_DIR/STTwitter-iOS11.0" "$PODS_CONFIGURATION_BUILD_DIR/Shimmer-iOS11.0" "${PODS_ROOT}/Crashlytics/iOS" "${PODS_ROOT}/Fabric/iOS"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/Crashlytics" "${PODS_ROOT}/Headers/Public/Fabric"
+LD_RUNPATH_SEARCH_PATHS = $(inherited) '@executable_path/Frameworks' '@loader_path/Frameworks'
+OTHER_CFLAGS = $(inherited) -iquote "$PODS_CONFIGURATION_BUILD_DIR/Bolts-iOS11.0/Bolts.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/FBSDKCoreKit-iOS11.0/FBSDKCoreKit.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/FBSDKLoginKit-iOS11.0/FBSDKLoginKit.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/JSONModel-iOS11.0/JSONModel.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/PopdeemSDK-iOS11.0/PopdeemSDK.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/Realm-iOS11.0/Realm.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/STTwitter-iOS11.0/STTwitter.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/Shimmer-iOS11.0/Shimmer.framework/Headers" -isystem "${PODS_ROOT}/Headers/Public" -isystem "${PODS_ROOT}/Headers/Public/Crashlytics" -isystem "${PODS_ROOT}/Headers/Public/Fabric"
+OTHER_LDFLAGS = $(inherited) -ObjC -l"c++" -l"z" -framework "Bolts" -framework "Crashlytics" -framework "FBSDKCoreKit" -framework "FBSDKLoginKit" -framework "Fabric" -framework "JSONModel" -framework "PopdeemSDK" -framework "Realm" -framework "STTwitter" -framework "Security" -framework "Shimmer" -framework "SystemConfiguration" -framework "UIKit"
+PODS_BUILD_DIR = $BUILD_DIR
+PODS_CONFIGURATION_BUILD_DIR = $PODS_BUILD_DIR/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_PODFILE_DIR_PATH = ${SRCROOT}/.
+PODS_ROOT = ${SRCROOT}/Pods

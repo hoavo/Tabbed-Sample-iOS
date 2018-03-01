@@ -6,7 +6,13 @@
   Copyright © 2018 Niall Quinn. All rights reserved.
 */
 
-"popdeem.home.header.titleText" = "Share your #RibsandBurgers experience and earn additional rewards";
+"popdeem.home.header.titleText" = "Share your #RibsAndBurgers experience and earn additional rewards";
 "popdeem.home.title" = "Rewards";
 "popdeem.home.segmentedControl.wallet" = "Profile";
 "popdeem.home.segmentedControl.rewards" = "Rewards";
+"popdeem.tiers.bottomLabelString" = "Share your Ribs and Burgers experience to increase your status and unlock new rewards";
+"popdeem.tiers.tier1Name" = "Bronze";
+"popdeem.tiers.tier2Name" = "Silver";
+"popdeem.tiers.tier3Name" = "Gold";
+"popdeem.tiers.levelUp" = "Congratulations, you earned %@ ambassador status";
+"popdeem.tiers.levelDown" = "You are now a %@ ambassador";

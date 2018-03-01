@@ -102,24 +102,24 @@ strip_invalid_archs() {
 
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
-  install_framework "${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/JSONModel/JSONModel.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/PopdeemSDK/PopdeemSDK.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/Realm/Realm.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/STTwitter/STTwitter.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/Shimmer/Shimmer.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/Bolts-iOS10.0/Bolts.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/FBSDKCoreKit-iOS10.0/FBSDKCoreKit.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/FBSDKLoginKit-iOS10.0/FBSDKLoginKit.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/JSONModel-iOS10.0/JSONModel.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/PopdeemSDK-iOS10.0/PopdeemSDK.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/Realm-iOS10.0/Realm.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/STTwitter-iOS10.0/STTwitter.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/Shimmer-iOS10.0/Shimmer.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
-  install_framework "${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/JSONModel/JSONModel.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/PopdeemSDK/PopdeemSDK.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/Realm/Realm.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/STTwitter/STTwitter.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/Shimmer/Shimmer.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/Bolts-iOS10.0/Bolts.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/FBSDKCoreKit-iOS10.0/FBSDKCoreKit.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/FBSDKLoginKit-iOS10.0/FBSDKLoginKit.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/JSONModel-iOS10.0/JSONModel.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/PopdeemSDK-iOS10.0/PopdeemSDK.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/Realm-iOS10.0/Realm.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/STTwitter-iOS10.0/STTwitter.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/Shimmer-iOS10.0/Shimmer.framework"
 fi
 if [ "${COCOAPODS_PARALLEL_CODE_SIGN}" == "true" ]; then
   wait

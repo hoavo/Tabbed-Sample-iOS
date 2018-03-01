@@ -8,6 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		3905BE9C200383AD0054638F /* theme.json in Resources */ = {isa = PBXBuildFile; fileRef = 3905BE9B200383AD0054638F /* theme.json */; };
+		3916FF2720471BAD00FCA385 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3916FF2620471BAD00FCA385 /* AppDelegate.m */; };
+		3916FF2A20471BAD00FCA385 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3916FF2920471BAD00FCA385 /* ViewController.m */; };
+		3916FF2D20471BAD00FCA385 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3916FF2B20471BAD00FCA385 /* Main.storyboard */; };
+		3916FF2F20471BAD00FCA385 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3916FF2E20471BAD00FCA385 /* Assets.xcassets */; };
+		3916FF3220471BAD00FCA385 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3916FF3020471BAD00FCA385 /* LaunchScreen.storyboard */; };
+		3916FF3520471BAD00FCA385 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3916FF3420471BAD00FCA385 /* main.m */; };
+		3916FF3A20471CDE00FCA385 /* theme.json in Resources */ = {isa = PBXBuildFile; fileRef = 3916FF3920471CDE00FCA385 /* theme.json */; };
+		3916FF3C2047200900FCA385 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3916FF3B2047200900FCA385 /* Localizable.strings */; };
 		392BB4E220037E5900995769 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 392BB4E120037E5900995769 /* AppDelegate.m */; };
 		392BB4E520037E5900995769 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 392BB4E420037E5900995769 /* FirstViewController.m */; };
 		392BB4E820037E5A00995769 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 392BB4E720037E5A00995769 /* SecondViewController.m */; };
@@ -17,12 +25,44 @@
 		392BB4F320037E5A00995769 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 392BB4F220037E5A00995769 /* main.m */; };
 		392BB4FA20037EAD00995769 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 392BB4F920037EAD00995769 /* Podfile */; };
 		3963575C202C5B6C00BF494B /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3963575B202C5B6C00BF494B /* Localizable.strings */; };
+		3975B466203C927300459709 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3975B465203C927300459709 /* AppDelegate.m */; };
+		3975B469203C927300459709 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3975B468203C927300459709 /* ViewController.m */; };
+		3975B46C203C927300459709 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3975B46A203C927300459709 /* Main.storyboard */; };
+		3975B46E203C927300459709 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3975B46D203C927300459709 /* Assets.xcassets */; };
+		3975B471203C927300459709 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3975B46F203C927300459709 /* LaunchScreen.storyboard */; };
+		3975B474203C927300459709 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3975B473203C927300459709 /* main.m */; };
+		3975B479203C964000459709 /* theme.json in Resources */ = {isa = PBXBuildFile; fileRef = 3975B478203C964000459709 /* theme.json */; };
+		3975B47B203C96EC00459709 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3975B47A203C96EC00459709 /* Localizable.strings */; };
+		3988AB4D2035DD6700DC2102 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3988AB4C2035DD6700DC2102 /* AppDelegate.m */; };
+		3988AB502035DD6700DC2102 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3988AB4F2035DD6700DC2102 /* ViewController.m */; };
+		3988AB532035DD6700DC2102 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3988AB512035DD6700DC2102 /* Main.storyboard */; };
+		3988AB552035DD6700DC2102 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3988AB542035DD6700DC2102 /* Assets.xcassets */; };
+		3988AB582035DD6700DC2102 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3988AB562035DD6700DC2102 /* LaunchScreen.storyboard */; };
+		3988AB5B2035DD6700DC2102 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3988AB5A2035DD6700DC2102 /* main.m */; };
+		3988AB602035E2B100DC2102 /* theme.json in Resources */ = {isa = PBXBuildFile; fileRef = 3988AB5F2035E2B100DC2102 /* theme.json */; };
+		3988AB622035E2B900DC2102 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3988AB612035E2B900DC2102 /* Localizable.strings */; };
+		4F180C88B714F501766B459C /* Pods_Hunter_Barrell.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 426A2F4A608D9F8D662EA585 /* Pods_Hunter_Barrell.framework */; };
+		6D2B2A6AB5677A66618FF558 /* Pods_Sweet_Coffee.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BD046D764AB9108783FBE675 /* Pods_Sweet_Coffee.framework */; };
+		7128AE5E714C195A9DC2C6CB /* Pods_Ribs___Burgers.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B633783239C10CDC261E0E2 /* Pods_Ribs___Burgers.framework */; };
 		794AD91FDF17328645F09A84 /* Pods_Tabbed_Sample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 381400A79C04325F1B9E509F /* Pods_Tabbed_Sample.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		26BA799EAF588107A89DDCED /* Pods-Sweet&Coffee.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Sweet&Coffee.release.xcconfig"; path = "Pods/Target Support Files/Pods-Sweet&Coffee/Pods-Sweet&Coffee.release.xcconfig"; sourceTree = "<group>"; };
 		381400A79C04325F1B9E509F /* Pods_Tabbed_Sample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Tabbed_Sample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3905BE9B200383AD0054638F /* theme.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = theme.json; sourceTree = "<group>"; };
+		3916FF2320471BAD00FCA385 /* Ribs & Burgers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ribs & Burgers.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3916FF2520471BAD00FCA385 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		3916FF2620471BAD00FCA385 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		3916FF2820471BAD00FCA385 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		3916FF2920471BAD00FCA385 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		3916FF2C20471BAD00FCA385 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3916FF2E20471BAD00FCA385 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3916FF3120471BAD00FCA385 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3916FF3320471BAD00FCA385 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3916FF3420471BAD00FCA385 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3916FF3920471CDE00FCA385 /* theme.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = theme.json; sourceTree = "<group>"; };
+		3916FF3B2047200900FCA385 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
 		392BB4DD20037E5900995769 /* Tabbed Sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tabbed Sample.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		392BB4E020037E5900995769 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		392BB4E120037E5900995769 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -37,16 +77,72 @@
 		392BB4F220037E5A00995769 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		392BB4F920037EAD00995769 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		3963575B202C5B6C00BF494B /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
+		3975B462203C927200459709 /* Hunter&Barrell.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hunter&Barrell.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3975B464203C927300459709 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		3975B465203C927300459709 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		3975B467203C927300459709 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		3975B468203C927300459709 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		3975B46B203C927300459709 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3975B46D203C927300459709 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3975B470203C927300459709 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3975B472203C927300459709 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3975B473203C927300459709 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3975B478203C964000459709 /* theme.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = theme.json; sourceTree = "<group>"; };
+		3975B47A203C96EC00459709 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
+		3988AB492035DD6700DC2102 /* Sweet&Coffee.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sweet&Coffee.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3988AB4B2035DD6700DC2102 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		3988AB4C2035DD6700DC2102 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		3988AB4E2035DD6700DC2102 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		3988AB4F2035DD6700DC2102 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		3988AB522035DD6700DC2102 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3988AB542035DD6700DC2102 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3988AB572035DD6700DC2102 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3988AB592035DD6700DC2102 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3988AB5A2035DD6700DC2102 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3988AB5F2035E2B100DC2102 /* theme.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = theme.json; sourceTree = "<group>"; };
+		3988AB612035E2B900DC2102 /* Localizable.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
+		3B633783239C10CDC261E0E2 /* Pods_Ribs___Burgers.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = "Pods_Ribs___Burgers.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		426A2F4A608D9F8D662EA585 /* Pods_Hunter_Barrell.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Hunter_Barrell.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		632E9C0028CBD802B4018A76 /* Pods-Ribs & Burgers.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Ribs & Burgers.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Ribs & Burgers/Pods-Ribs & Burgers.debug.xcconfig"; sourceTree = "<group>"; };
+		63C1F94C44D47E08CCE54FA2 /* Pods-Sweet&Coffee.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Sweet&Coffee.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Sweet&Coffee/Pods-Sweet&Coffee.debug.xcconfig"; sourceTree = "<group>"; };
 		891A45BFC44B6822DB491A86 /* Pods-Tabbed Sample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tabbed Sample.release.xcconfig"; path = "Pods/Target Support Files/Pods-Tabbed Sample/Pods-Tabbed Sample.release.xcconfig"; sourceTree = "<group>"; };
+		9B245476CE9BEC39AA82D16E /* Pods-Ribs & Burgers.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Ribs & Burgers.release.xcconfig"; path = "Pods/Target Support Files/Pods-Ribs & Burgers/Pods-Ribs & Burgers.release.xcconfig"; sourceTree = "<group>"; };
+		BD046D764AB9108783FBE675 /* Pods_Sweet_Coffee.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Sweet_Coffee.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C136A911BC91C73607F45D1E /* Pods-Tabbed Sample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tabbed Sample.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Tabbed Sample/Pods-Tabbed Sample.debug.xcconfig"; sourceTree = "<group>"; };
+		F5C33031B6CF99E6C0BC0BD5 /* Pods-Hunter&Barrell.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Hunter&Barrell.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Hunter&Barrell/Pods-Hunter&Barrell.debug.xcconfig"; sourceTree = "<group>"; };
+		FABDD5D20CA2FF2565FC2F23 /* Pods-Hunter&Barrell.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Hunter&Barrell.release.xcconfig"; path = "Pods/Target Support Files/Pods-Hunter&Barrell/Pods-Hunter&Barrell.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		3916FF2020471BAD00FCA385 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7128AE5E714C195A9DC2C6CB /* Pods_Ribs___Burgers.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		392BB4DA20037E5900995769 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				794AD91FDF17328645F09A84 /* Pods_Tabbed_Sample.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3975B45F203C927200459709 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4F180C88B714F501766B459C /* Pods_Hunter_Barrell.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3988AB462035DD6700DC2102 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6D2B2A6AB5677A66618FF558 /* Pods_Sweet_Coffee.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -57,6 +153,9 @@
 			isa = PBXGroup;
 			children = (
 				381400A79C04325F1B9E509F /* Pods_Tabbed_Sample.framework */,
+				BD046D764AB9108783FBE675 /* Pods_Sweet_Coffee.framework */,
+				426A2F4A608D9F8D662EA585 /* Pods_Hunter_Barrell.framework */,
+				3B633783239C10CDC261E0E2 /* Pods_Ribs___Burgers.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -66,8 +165,32 @@
 			children = (
 				C136A911BC91C73607F45D1E /* Pods-Tabbed Sample.debug.xcconfig */,
 				891A45BFC44B6822DB491A86 /* Pods-Tabbed Sample.release.xcconfig */,
+				63C1F94C44D47E08CCE54FA2 /* Pods-Sweet&Coffee.debug.xcconfig */,
+				26BA799EAF588107A89DDCED /* Pods-Sweet&Coffee.release.xcconfig */,
+				F5C33031B6CF99E6C0BC0BD5 /* Pods-Hunter&Barrell.debug.xcconfig */,
+				FABDD5D20CA2FF2565FC2F23 /* Pods-Hunter&Barrell.release.xcconfig */,
+				632E9C0028CBD802B4018A76 /* Pods-Ribs & Burgers.debug.xcconfig */,
+				9B245476CE9BEC39AA82D16E /* Pods-Ribs & Burgers.release.xcconfig */,
 			);
 			name = Pods;
+			sourceTree = "<group>";
+		};
+		3916FF2420471BAD00FCA385 /* Ribs & Burgers */ = {
+			isa = PBXGroup;
+			children = (
+				3916FF2520471BAD00FCA385 /* AppDelegate.h */,
+				3916FF3B2047200900FCA385 /* Localizable.strings */,
+				3916FF3920471CDE00FCA385 /* theme.json */,
+				3916FF2620471BAD00FCA385 /* AppDelegate.m */,
+				3916FF2820471BAD00FCA385 /* ViewController.h */,
+				3916FF2920471BAD00FCA385 /* ViewController.m */,
+				3916FF2B20471BAD00FCA385 /* Main.storyboard */,
+				3916FF2E20471BAD00FCA385 /* Assets.xcassets */,
+				3916FF3020471BAD00FCA385 /* LaunchScreen.storyboard */,
+				3916FF3320471BAD00FCA385 /* Info.plist */,
+				3916FF3420471BAD00FCA385 /* main.m */,
+			);
+			path = "Ribs & Burgers";
 			sourceTree = "<group>";
 		};
 		392BB4D420037E5900995769 = {
@@ -75,6 +198,9 @@
 			children = (
 				392BB4F920037EAD00995769 /* Podfile */,
 				392BB4DF20037E5900995769 /* Tabbed Sample */,
+				3988AB4A2035DD6700DC2102 /* Sweet&Coffee */,
+				3975B463203C927300459709 /* Hunter&Barrell */,
+				3916FF2420471BAD00FCA385 /* Ribs & Burgers */,
 				392BB4DE20037E5900995769 /* Products */,
 				286B2DB78CF3B008A90E2E26 /* Pods */,
 				086FE1F3008739444A68B88D /* Frameworks */,
@@ -85,6 +211,9 @@
 			isa = PBXGroup;
 			children = (
 				392BB4DD20037E5900995769 /* Tabbed Sample.app */,
+				3988AB492035DD6700DC2102 /* Sweet&Coffee.app */,
+				3975B462203C927200459709 /* Hunter&Barrell.app */,
+				3916FF2320471BAD00FCA385 /* Ribs & Burgers.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -109,9 +238,66 @@
 			path = "Tabbed Sample";
 			sourceTree = "<group>";
 		};
+		3975B463203C927300459709 /* Hunter&Barrell */ = {
+			isa = PBXGroup;
+			children = (
+				3975B464203C927300459709 /* AppDelegate.h */,
+				3975B465203C927300459709 /* AppDelegate.m */,
+				3975B467203C927300459709 /* ViewController.h */,
+				3975B468203C927300459709 /* ViewController.m */,
+				3975B46A203C927300459709 /* Main.storyboard */,
+				3975B46D203C927300459709 /* Assets.xcassets */,
+				3975B46F203C927300459709 /* LaunchScreen.storyboard */,
+				3975B472203C927300459709 /* Info.plist */,
+				3975B473203C927300459709 /* main.m */,
+				3975B478203C964000459709 /* theme.json */,
+				3975B47A203C96EC00459709 /* Localizable.strings */,
+			);
+			path = "Hunter&Barrell";
+			sourceTree = "<group>";
+		};
+		3988AB4A2035DD6700DC2102 /* Sweet&Coffee */ = {
+			isa = PBXGroup;
+			children = (
+				3988AB612035E2B900DC2102 /* Localizable.strings */,
+				3988AB5F2035E2B100DC2102 /* theme.json */,
+				3988AB4B2035DD6700DC2102 /* AppDelegate.h */,
+				3988AB4C2035DD6700DC2102 /* AppDelegate.m */,
+				3988AB4E2035DD6700DC2102 /* ViewController.h */,
+				3988AB4F2035DD6700DC2102 /* ViewController.m */,
+				3988AB512035DD6700DC2102 /* Main.storyboard */,
+				3988AB542035DD6700DC2102 /* Assets.xcassets */,
+				3988AB562035DD6700DC2102 /* LaunchScreen.storyboard */,
+				3988AB592035DD6700DC2102 /* Info.plist */,
+				3988AB5A2035DD6700DC2102 /* main.m */,
+			);
+			path = "Sweet&Coffee";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		3916FF2220471BAD00FCA385 /* Ribs & Burgers */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3916FF3620471BAD00FCA385 /* Build configuration list for PBXNativeTarget "Ribs & Burgers" */;
+			buildPhases = (
+				E9F026D0700BB7308885AE1D /* [CP] Check Pods Manifest.lock */,
+				3916FF1F20471BAD00FCA385 /* Sources */,
+				3916FF2020471BAD00FCA385 /* Frameworks */,
+				3916FF2120471BAD00FCA385 /* Resources */,
+				F62BBC817ED64A7AD0237E30 /* [CP] Embed Pods Frameworks */,
+				DEF1C0FED3C32093F0F0AD63 /* [CP] Copy Pods Resources */,
+				3916FF3D2047214900FCA385 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Ribs & Burgers";
+			productName = "Ribs & Burgers";
+			productReference = 3916FF2320471BAD00FCA385 /* Ribs & Burgers.app */;
+			productType = "com.apple.product-type.application";
+		};
 		392BB4DC20037E5900995769 /* Tabbed Sample */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 392BB4F620037E5A00995769 /* Build configuration list for PBXNativeTarget "Tabbed Sample" */;
@@ -133,6 +319,48 @@
 			productReference = 392BB4DD20037E5900995769 /* Tabbed Sample.app */;
 			productType = "com.apple.product-type.application";
 		};
+		3975B461203C927200459709 /* Hunter&Barrell */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3975B475203C927300459709 /* Build configuration list for PBXNativeTarget "Hunter&Barrell" */;
+			buildPhases = (
+				DDDF28FCE8B91C861400F214 /* [CP] Check Pods Manifest.lock */,
+				3975B45E203C927200459709 /* Sources */,
+				3975B45F203C927200459709 /* Frameworks */,
+				3975B460203C927200459709 /* Resources */,
+				3E0F582CAD781211CDF89944 /* [CP] Embed Pods Frameworks */,
+				0BAD9018ABD8456C62867C9B /* [CP] Copy Pods Resources */,
+				3975B47C203C980400459709 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Hunter&Barrell";
+			productName = "Hunter&Barrell";
+			productReference = 3975B462203C927200459709 /* Hunter&Barrell.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3988AB482035DD6700DC2102 /* Sweet&Coffee */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3988AB5E2035DD6700DC2102 /* Build configuration list for PBXNativeTarget "Sweet&Coffee" */;
+			buildPhases = (
+				2B6343E72531919A5B4D8896 /* [CP] Check Pods Manifest.lock */,
+				3988AB452035DD6700DC2102 /* Sources */,
+				3988AB462035DD6700DC2102 /* Frameworks */,
+				3988AB472035DD6700DC2102 /* Resources */,
+				F5BD26BB79297D88158D1F9A /* [CP] Embed Pods Frameworks */,
+				48BFEA12C28352FE64181B2B /* [CP] Copy Pods Resources */,
+				3988AB632035E67100DC2102 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Sweet&Coffee";
+			productName = "Sweet&Coffee";
+			productReference = 3988AB492035DD6700DC2102 /* Sweet&Coffee.app */;
+			productType = "com.apple.product-type.application";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -142,9 +370,21 @@
 				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = "Niall Quinn";
 				TargetAttributes = {
+					3916FF2220471BAD00FCA385 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Manual;
+					};
 					392BB4DC20037E5900995769 = {
 						CreatedOnToolsVersion = 9.2;
 						ProvisioningStyle = Manual;
+					};
+					3975B461203C927200459709 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Manual;
+					};
+					3988AB482035DD6700DC2102 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
@@ -162,11 +402,26 @@
 			projectRoot = "";
 			targets = (
 				392BB4DC20037E5900995769 /* Tabbed Sample */,
+				3988AB482035DD6700DC2102 /* Sweet&Coffee */,
+				3975B461203C927200459709 /* Hunter&Barrell */,
+				3916FF2220471BAD00FCA385 /* Ribs & Burgers */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		3916FF2120471BAD00FCA385 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3916FF3C2047200900FCA385 /* Localizable.strings in Resources */,
+				3916FF3220471BAD00FCA385 /* LaunchScreen.storyboard in Resources */,
+				3916FF3A20471CDE00FCA385 /* theme.json in Resources */,
+				3916FF2F20471BAD00FCA385 /* Assets.xcassets in Resources */,
+				3916FF2D20471BAD00FCA385 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		392BB4DB20037E5900995769 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -180,9 +435,48 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		3975B460203C927200459709 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3975B47B203C96EC00459709 /* Localizable.strings in Resources */,
+				3975B471203C927300459709 /* LaunchScreen.storyboard in Resources */,
+				3975B479203C964000459709 /* theme.json in Resources */,
+				3975B46E203C927300459709 /* Assets.xcassets in Resources */,
+				3975B46C203C927300459709 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3988AB472035DD6700DC2102 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3988AB622035E2B900DC2102 /* Localizable.strings in Resources */,
+				3988AB582035DD6700DC2102 /* LaunchScreen.storyboard in Resources */,
+				3988AB602035E2B100DC2102 /* theme.json in Resources */,
+				3988AB552035DD6700DC2102 /* Assets.xcassets in Resources */,
+				3988AB532035DD6700DC2102 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		0BAD9018ABD8456C62867C9B /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Hunter&Barrell/Pods-Hunter&Barrell-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		195D67CE8E4283D35715176B /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -190,14 +484,14 @@
 			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-Tabbed Sample/Pods-Tabbed Sample-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework",
-				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework",
-				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework",
-				"${BUILT_PRODUCTS_DIR}/JSONModel/JSONModel.framework",
-				"${BUILT_PRODUCTS_DIR}/PopdeemSDK/PopdeemSDK.framework",
-				"${BUILT_PRODUCTS_DIR}/Realm/Realm.framework",
-				"${BUILT_PRODUCTS_DIR}/STTwitter/STTwitter.framework",
-				"${BUILT_PRODUCTS_DIR}/Shimmer/Shimmer.framework",
+				"${BUILT_PRODUCTS_DIR}/Bolts-iOS10.0/Bolts.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit-iOS10.0/FBSDKCoreKit.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit-iOS10.0/FBSDKLoginKit.framework",
+				"${BUILT_PRODUCTS_DIR}/JSONModel-iOS10.0/JSONModel.framework",
+				"${BUILT_PRODUCTS_DIR}/PopdeemSDK-iOS10.0/PopdeemSDK.framework",
+				"${BUILT_PRODUCTS_DIR}/Realm-iOS10.0/Realm.framework",
+				"${BUILT_PRODUCTS_DIR}/STTwitter-iOS10.0/STTwitter.framework",
+				"${BUILT_PRODUCTS_DIR}/Shimmer-iOS10.0/Shimmer.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
@@ -215,6 +509,37 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Tabbed Sample/Pods-Tabbed Sample-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
+		2B6343E72531919A5B4D8896 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Sweet&Coffee-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3916FF3D2047214900FCA385 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Fabric/run\" f3e1331a9e08ff100bf63475f5ac2f67675253d6 350a323fe2e39bc479beb4a3dce17913883bc2eec777e0ccb9b59d1507686dca";
+		};
 		392D8F6620323E5E00BDC764 /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -227,6 +552,64 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Fabric/run\" f3e1331a9e08ff100bf63475f5ac2f67675253d6 350a323fe2e39bc479beb4a3dce17913883bc2eec777e0ccb9b59d1507686dca";
+		};
+		3975B47C203C980400459709 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Fabric/run\" f3e1331a9e08ff100bf63475f5ac2f67675253d6 350a323fe2e39bc479beb4a3dce17913883bc2eec777e0ccb9b59d1507686dca";
+		};
+		3988AB632035E67100DC2102 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Fabric/run\" f3e1331a9e08ff100bf63475f5ac2f67675253d6 350a323fe2e39bc479beb4a3dce17913883bc2eec777e0ccb9b59d1507686dca";
+		};
+		3E0F582CAD781211CDF89944 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Hunter&Barrell/Pods-Hunter&Barrell-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Bolts-iOS11.0/Bolts.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit-iOS11.0/FBSDKCoreKit.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit-iOS11.0/FBSDKLoginKit.framework",
+				"${BUILT_PRODUCTS_DIR}/JSONModel-iOS11.0/JSONModel.framework",
+				"${BUILT_PRODUCTS_DIR}/PopdeemSDK-iOS11.0/PopdeemSDK.framework",
+				"${BUILT_PRODUCTS_DIR}/Realm-iOS11.0/Realm.framework",
+				"${BUILT_PRODUCTS_DIR}/STTwitter-iOS11.0/STTwitter.framework",
+				"${BUILT_PRODUCTS_DIR}/Shimmer-iOS11.0/Shimmer.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Bolts.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKCoreKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKLoginKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JSONModel.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PopdeemSDK.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Realm.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/STTwitter.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Shimmer.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Hunter&Barrell/Pods-Hunter&Barrell-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
 		};
 		41F8EF810F020940C4874AC1 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -244,6 +627,21 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		48BFEA12C28352FE64181B2B /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Sweet&Coffee/Pods-Sweet&Coffee-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		4C3B0427E61FF5BCD77E2197 /* [CP] Copy Pods Resources */ = {
@@ -408,9 +806,134 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Tabbed Sample/Pods-Tabbed Sample-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
+		DDDF28FCE8B91C861400F214 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Hunter&Barrell-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DEF1C0FED3C32093F0F0AD63 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Ribs & Burgers/Pods-Ribs & Burgers-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E9F026D0700BB7308885AE1D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Ribs & Burgers-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F5BD26BB79297D88158D1F9A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Sweet&Coffee/Pods-Sweet&Coffee-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Bolts-iOS11.2/Bolts.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit-iOS11.2/FBSDKCoreKit.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit-iOS11.2/FBSDKLoginKit.framework",
+				"${BUILT_PRODUCTS_DIR}/JSONModel-iOS11.2/JSONModel.framework",
+				"${BUILT_PRODUCTS_DIR}/PopdeemSDK-iOS11.2/PopdeemSDK.framework",
+				"${BUILT_PRODUCTS_DIR}/Realm-iOS11.2/Realm.framework",
+				"${BUILT_PRODUCTS_DIR}/STTwitter-iOS11.2/STTwitter.framework",
+				"${BUILT_PRODUCTS_DIR}/Shimmer-iOS11.2/Shimmer.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Bolts.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKCoreKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKLoginKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JSONModel.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PopdeemSDK.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Realm.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/STTwitter.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Shimmer.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Sweet&Coffee/Pods-Sweet&Coffee-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F62BBC817ED64A7AD0237E30 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Ribs & Burgers/Pods-Ribs & Burgers-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Bolts-iOS11.0/Bolts.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit-iOS11.0/FBSDKCoreKit.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit-iOS11.0/FBSDKLoginKit.framework",
+				"${BUILT_PRODUCTS_DIR}/JSONModel-iOS11.0/JSONModel.framework",
+				"${BUILT_PRODUCTS_DIR}/PopdeemSDK-iOS11.0/PopdeemSDK.framework",
+				"${BUILT_PRODUCTS_DIR}/Realm-iOS11.0/Realm.framework",
+				"${BUILT_PRODUCTS_DIR}/STTwitter-iOS11.0/STTwitter.framework",
+				"${BUILT_PRODUCTS_DIR}/Shimmer-iOS11.0/Shimmer.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Bolts.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKCoreKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKLoginKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JSONModel.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PopdeemSDK.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Realm.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/STTwitter.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Shimmer.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Ribs & Burgers/Pods-Ribs & Burgers-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		3916FF1F20471BAD00FCA385 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3916FF2A20471BAD00FCA385 /* ViewController.m in Sources */,
+				3916FF3520471BAD00FCA385 /* main.m in Sources */,
+				3916FF2720471BAD00FCA385 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		392BB4D920037E5900995769 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -422,9 +945,45 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		3975B45E203C927200459709 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3975B469203C927300459709 /* ViewController.m in Sources */,
+				3975B474203C927300459709 /* main.m in Sources */,
+				3975B466203C927300459709 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3988AB452035DD6700DC2102 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3988AB502035DD6700DC2102 /* ViewController.m in Sources */,
+				3988AB5B2035DD6700DC2102 /* main.m in Sources */,
+				3988AB4D2035DD6700DC2102 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
+		3916FF2B20471BAD00FCA385 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3916FF2C20471BAD00FCA385 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3916FF3020471BAD00FCA385 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3916FF3120471BAD00FCA385 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
 		392BB4E920037E5A00995769 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -441,9 +1000,79 @@
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
+		3975B46A203C927300459709 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3975B46B203C927300459709 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3975B46F203C927300459709 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3975B470203C927300459709 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		3988AB512035DD6700DC2102 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3988AB522035DD6700DC2102 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3988AB562035DD6700DC2102 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3988AB572035DD6700DC2102 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
+		3916FF3720471BAD00FCA385 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 632E9C0028CBD802B4018A76 /* Pods-Ribs & Burgers.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = S648X26U8J;
+				INFOPLIST_FILE = "Ribs & Burgers/Info.plist";
+				INSTALL_OWNER = "$(USER)";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Popdeem.Ribs---Burgers";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "eab31b96-11e2-485e-b124-7cbe28b2528b";
+				PROVISIONING_PROFILE_SPECIFIER = RibsBurgers;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		3916FF3820471BAD00FCA385 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9B245476CE9BEC39AA82D16E /* Pods-Ribs & Burgers.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = S648X26U8J;
+				INFOPLIST_FILE = "Ribs & Burgers/Info.plist";
+				INSTALL_OWNER = "$(USER)";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Popdeem.Ribs---Burgers";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "eab31b96-11e2-485e-b124-7cbe28b2528b";
+				PROVISIONING_PROFILE_SPECIFIER = RibsBurgers;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
 		392BB4F420037E5A00995769 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -584,9 +1213,84 @@
 			};
 			name = Release;
 		};
+		3975B476203C927300459709 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F5C33031B6CF99E6C0BC0BD5 /* Pods-Hunter&Barrell.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = S648X26U8J;
+				INFOPLIST_FILE = "Hunter&Barrell/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Popdeem.Hunter-Barrell";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "f5fd080c-f538-4f69-a6f5-3df70ec0a69f";
+				PROVISIONING_PROFILE_SPECIFIER = HunterBarrel;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		3975B477203C927300459709 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FABDD5D20CA2FF2565FC2F23 /* Pods-Hunter&Barrell.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = S648X26U8J;
+				INFOPLIST_FILE = "Hunter&Barrell/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Popdeem.Hunter-Barrell";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "f5fd080c-f538-4f69-a6f5-3df70ec0a69f";
+				PROVISIONING_PROFILE_SPECIFIER = HunterBarrel;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		3988AB5C2035DD6700DC2102 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 63C1F94C44D47E08CCE54FA2 /* Pods-Sweet&Coffee.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = S648X26U8J;
+				INFOPLIST_FILE = "Sweet&Coffee/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Popdeem.Sweet-Coffee";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3988AB5D2035DD6700DC2102 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 26BA799EAF588107A89DDCED /* Pods-Sweet&Coffee.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = S648X26U8J;
+				INFOPLIST_FILE = "Sweet&Coffee/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Popdeem.Sweet-Coffee";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		3916FF3620471BAD00FCA385 /* Build configuration list for PBXNativeTarget "Ribs & Burgers" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3916FF3720471BAD00FCA385 /* Debug */,
+				3916FF3820471BAD00FCA385 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		392BB4D820037E5900995769 /* Build configuration list for PBXProject "Tabbed Sample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -601,6 +1305,24 @@
 			buildConfigurations = (
 				392BB4F720037E5A00995769 /* Debug */,
 				392BB4F820037E5A00995769 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3975B475203C927300459709 /* Build configuration list for PBXNativeTarget "Hunter&Barrell" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3975B476203C927300459709 /* Debug */,
+				3975B477203C927300459709 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3988AB5E2035DD6700DC2102 /* Build configuration list for PBXNativeTarget "Sweet&Coffee" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3988AB5C2035DD6700DC2102 /* Debug */,
+				3988AB5D2035DD6700DC2102 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

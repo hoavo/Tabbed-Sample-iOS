@@ -10,3 +10,30 @@ target 'Tabbed Sample' do
   pod 'Fabric'
   pod 'Crashlytics'
 end
+
+target 'Sweet&Coffee' do
+  use_frameworks!
+  
+  # Pods for Tabbed Sample
+  pod 'PopdeemSDK', :path => '../../Popdeem-SDK-iOS/PopdeemSDK.podspec'
+  pod 'Fabric'
+  pod 'Crashlytics'
+end
+
+target 'Hunter&Barrell' do
+  use_frameworks!
+  
+  # Pods for Tabbed Sample
+  pod 'PopdeemSDK', :path => '../../Popdeem-SDK-iOS/PopdeemSDK.podspec'
+  pod 'Fabric'
+  pod 'Crashlytics'
+end
+
+target 'Ribs & Burgers' do
+  use_frameworks!
+  
+  # Pods for Tabbed Sample
+  pod 'PopdeemSDK', :path => '../../Popdeem-SDK-iOS/PopdeemSDK.podspec'
+  pod 'Fabric'
+  pod 'Crashlytics'
+end
