@@ -1,6 +1,0 @@
-framework module PopdeemSDK {
-  umbrella header "PopdeemSDK-iOS10.0-umbrella.h"
-
-  export *
-  module * { export * }
-}

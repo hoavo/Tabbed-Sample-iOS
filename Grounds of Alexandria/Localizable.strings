@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Tabbed Sample
+
+  Created by Niall Quinn on 09/03/2018.
+  Copyright © 2018 Niall Quinn. All rights reserved.
+*/
+
+"popdeem.home.header.titleText" = "Share your #GroundsOfAlexandria experience and earn additional rewards";
+"popdeem.home.title" = "Rewards";
+"popdeem.home.segmentedControl.wallet" = "Profile";
+"popdeem.home.segmentedControl.rewards" = "Rewards";

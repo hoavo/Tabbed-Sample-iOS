@@ -1,6 +1,0 @@
-framework module STTwitter {
-  umbrella header "STTwitter-iOS10.0-umbrella.h"
-
-  export *
-  module * { export * }
-}

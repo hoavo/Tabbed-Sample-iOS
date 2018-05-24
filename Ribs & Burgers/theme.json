@@ -1,26 +1,26 @@
 {
   "popdeem" : {
     "colors" : {
-      "primaryAppColor" : "#053F67",
-      "secondaryAppColor" : "#053F67",
+      "primaryAppColor" : "#0D4A6F",
+      "secondaryAppColor" : "#0D4A6F",
       "primaryInverseColor" : "#FFFFFF",
-      "viewBackgroundColor" : "#e9e9e9",
+      "viewBackgroundColor" : "#FFFFFF",
       "primaryFontColor" : "#000000",
-      "secondaryFontColor" : "#656565",
+      "secondaryFontColor" : "#A2A4A6",
       "tableViewCellBackgroundColor" : "#FFFFFF",
-      "navBarTintColor" : "#053F67",
+      "navBarTintColor" : "#0D4A6F",
       "segmentedControlBackgroundColor" : "#FFFFFF",
-      "segmentedControlForegroundColor" : "#053F67",
+      "segmentedControlForegroundColor" : "#0D4A6F",
       "homeHeaderTextColor" : "#FFFFFF"
     },
     "images" : {
-      "loginImage" : "ribs&burgers_login_image",
+      "loginImage" : "randb_login_image",
       "defaultItemImage" : "pduikit_starG",
-      "homeHeaderImage" : "ribs&burgers_home_header"
+      "homeHeaderImage" : "r&b_home_header"
     },
     "fonts" : {
       "primaryFont" : "Avenir-Book",
-      "boldFont" : "Avenir-Black",
+      "boldFont" : "Avenir-Heavy",
       "lightFont" : "Avenir-Light"
     },
     "nav" : {

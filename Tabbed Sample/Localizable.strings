@@ -6,13 +6,21 @@
   Copyright © 2018 Niall Quinn. All rights reserved.
 */
 
-"popdeem.home.header.titleText" = "Share your #RibsAndBurgers experience and earn additional rewards";
+"popdeem.home.header.titleText" = "Welcome to Reds Savoy Pizza";
 "popdeem.home.title" = "Rewards";
 "popdeem.home.segmentedControl.wallet" = "Profile";
 "popdeem.home.segmentedControl.rewards" = "Rewards";
-"popdeem.tiers.bottomLabelString" = "Share your Ribs and Burgers experience to increase your status and unlock new rewards";
+"popdeem.tiers.bottomLabelString" = "Share your Reds Savoy Pizza experience to increase your status and unlock new rewards";
 "popdeem.tiers.tier1Name" = "Bronze";
 "popdeem.tiers.tier2Name" = "Silver";
 "popdeem.tiers.tier3Name" = "Gold";
 "popdeem.tiers.levelUp" = "Congratulations, you earned %@ ambassador status";
 "popdeem.tiers.levelDown" = "You are now a %@ ambassador";
+"popdeem.sociallogin.tagline" = "Welcome to Savoy Pizza.";
+"popdeem.sociallogin.body" = "Connect your social account to turn social features on. This will give you access to exclusive content and new rewards.";
+
+"popdeem.gratitude.coupon.title.1" = "You are brilliant!";
+"popdeem.gratitude.coupon.body.1" = "Thanks for checking in. Your reward has been added to your profile.";
+"popdeem.gratitude.sweepstake.title.1" = "Thanks for sharing!";
+"popdeem.gratitude.sweepstake.body.1" = "You have successfully entered the competition, check your profile to know when the winner is announced.";
+

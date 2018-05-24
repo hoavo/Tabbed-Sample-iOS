@@ -1,0 +1,6 @@
+framework module Pods_Kung_Fu_Tea {
+  umbrella header "Pods-Kung Fu Tea-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,30 @@
+{
+  "popdeem" : {
+    "colors" : {
+      "primaryAppColor" : "#3F523A",
+      "secondaryAppColor" : "#3F523A",
+      "primaryInverseColor" : "#FFFFFF",
+      "viewBackgroundColor" : "#F3EADC",
+      "primaryFontColor" : "#000000",
+      "secondaryFontColor" : "#656565",
+      "tableViewCellBackgroundColor" : "#FFFFFF",
+      "navBarTintColor" : "#3F523A",
+      "segmentedControlBackgroundColor" : "#3F523A",
+      "segmentedControlForegroundColor" : "#FFFFFF",
+      "homeHeaderTextColor" : "#FFFFFF"
+    },
+    "images" : {
+      "loginImage" : "grounds_login_image",
+      "defaultItemImage" : "pduikit_starG",
+      "homeHeaderImage" : "grounds_home_header"
+    },
+    "fonts" : {
+      "primaryFont" : "Avenir-Book",
+      "boldFont" : "Avenir-Black",
+      "lightFont" : "Avenir-Light"
+    },
+    "nav" : {
+      "useTheme" : "true"
+    }
+  }
+}

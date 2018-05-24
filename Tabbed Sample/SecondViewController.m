@@ -28,8 +28,8 @@
 }
 
 - (IBAction)directButtonAction:(id)sender {
-  PDUIDirectToSocialHomeHandler *handler = [[PDUIDirectToSocialHomeHandler alloc] init];
-  [handler handleHomeFlow];
+//    PDUIClaimV2ViewController *ctrl = [[PDUIClaimV2ViewController alloc] initFromNib];
+//    [self.navigationController pushViewController:ctrl animated:YES];
 }
 
 @end
