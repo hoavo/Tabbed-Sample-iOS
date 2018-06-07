@@ -23,6 +23,7 @@
 		<dict>
 			<key>CFBundleURLSchemes</key>
 			<array>
+				<string>twitterkit-144pFFdkYjC9p4J61YHubqKux</string>
 				<string>fb1706317436274686kungfutea</string>
 				<string>kungfuteatwitter</string>
 			</array>
@@ -59,10 +60,13 @@
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>instagram</string>
-        <string>fbapi</string>
-        <string>fb-messenger-share-api</string>
-        <string>fbauth2</string>
-        <string>fbshareextension</string>
+		<string>fb</string>
+		<string>fbapi</string>
+		<string>fb-messenger-share-api</string>
+		<string>fbauth2</string>
+		<string>fbshareextension</string>
+		<string>twitter</string>
+		<string>twitterauth</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
@@ -77,12 +81,8 @@
 	<string>We use your location to deliver local rewards</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>We use your photo library to upload images</string>
-	<key>TwitterAppConsumerKey</key>
-	<string>naAcp9v8cKRFEzmec4etPyUNC</string>
-	<key>TwitterAppConsumerSecret</key>
-	<string>oX60C1H3izbcg8cFEDcEbCp8JrXCfQzud5RK5Iie13KFPe82io</string>
-	<key>TwitterCallbackScheme</key>
-	<string>kungfuteatwitter</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>HWT Artz.ttf</string>

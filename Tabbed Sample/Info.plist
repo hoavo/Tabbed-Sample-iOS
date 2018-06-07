@@ -21,7 +21,8 @@
 		<dict>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>fb 1528213564167350</string>
+				<string>fb1995690870759142</string>
+				<string>twitterkit-rAzr7Tn0wOVBs6Oij13AYecVA</string>
 				<string>tabbedsample</string>
 			</array>
 		</dict>
@@ -43,11 +44,11 @@
 		</array>
 	</dict>
 	<key>FacebookAppID</key>
-	<string>1528213564167350</string>
+	<string>1995690870759142</string>
 	<key>FacebookDisplayName</key>
 	<string>Popdeem</string>
 	<key>FacebookNamespace</key>
-	<string>ribsandburgers</string>
+	<string>redssavoypopdeem</string>
 	<key>InstagramCallback</key>
 	<string>https://www.popdeem.com/igredirect</string>
 	<key>InstagramClientId</key>
@@ -56,6 +57,10 @@
 	<string>0b14e780896e42be88cefcddb3ac64dc</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
+		<string>twitterauth</string>
+		<string>fb</string>
+		<string>twitterkit-rAzr7Tn0wOVBs6Oij13AYecVA</string>
+		<string>twitter</string>
 		<string>instagram</string>
 		<string>fbapi</string>
 		<string>fb-messenger-share-api</string>
@@ -76,9 +81,9 @@
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>We use your photo library to upload images</string>
 	<key>TwitterAppConsumerKey</key>
-	<string>naAcp9v8cKRFEzmec4etPyUNC</string>
+	<string>rAzr7Tn0wOVBs6Oij13AYecVA</string>
 	<key>TwitterAppConsumerSecret</key>
-	<string>oX60C1H3izbcg8cFEDcEbCp8JrXCfQzud5RK5Iie13KFPe82io</string>
+	<string>rHTmAWpw1gPCoCy7AzA43j9eMqb2GJb24qcMfIHeOvepARFsmt</string>
 	<key>TwitterCallbackScheme</key>
 	<string>tabbedsample</string>
 	<key>UILaunchStoryboardName</key>

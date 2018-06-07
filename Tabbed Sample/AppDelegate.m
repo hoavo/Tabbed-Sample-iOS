@@ -11,7 +11,7 @@
 #import <Fabric/Fabric.h>
 #import <Crashlytics/Crashlytics.h>
 #import <FBSDKCoreKit/FBSDKCoreKit.h>
-
+#import <TwitterKit/TWTRKit.h>
 
 @interface AppDelegate ()
 
@@ -22,7 +22,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    [PopdeemSDK withAPIKey:@"f788c257-3b7c-401c-8219-71ec7b73cdb9"];
+    [PopdeemSDK withAPIKey:@"26eb2fcb-06e5-4976-bff4-88c30cc58f58"];
     [PopdeemSDK setUpThemeFile:@"theme"];
     [PopdeemSDK setDebug:YES];
     [PopdeemSDK enableSocialLoginWithNumberOfPrompts:300];
@@ -63,24 +63,37 @@
     // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
 }
 
-- (BOOL)application:(UIApplication *)application
-            openURL:(NSURL *)url
-  sourceApplication:(NSString *)sourceApplication
-         annotation:(id)annotation {
-    
-    if ([PopdeemSDK canOpenUrl:url sourceApplication:sourceApplication annotation:annotation]) {
-        return [PopdeemSDK application:application openURL:url sourceApplication:sourceApplication annotation:annotation];
-        
-    }
-    
-    BOOL handled = [[FBSDKApplicationDelegate sharedInstance] application:application
-                                                                  openURL:url
-                                                        sourceApplication:sourceApplication
-                                                               annotation:annotation
-                    ];
-    // Add any custom logic here.
-    return handled;
+- (BOOL) application:(UIApplication *)app openURL:(NSURL *)url options:(NSDictionary<NSString *, id> *)options
+{
+  
+  if ([PopdeemSDK application:app canOpenUrl:url options:options]) {
+    return [PopdeemSDK application:app openURL:url options:options];
+  }
+  
+  BOOL handled = [[FBSDKApplicationDelegate sharedInstance] application:app openURL:url options:options
+                  ];
+  // Add any custom logic here.
+  return handled;
 }
+
+//- (BOOL)application:(UIApplication *)application
+//            openURL:(NSURL *)url
+//  sourceApplication:(NSString *)sourceApplication
+//         annotation:(id)annotation {
+//
+//    if ([PopdeemSDK canOpenUrl:url sourceApplication:sourceApplication annotation:annotation]) {
+//        return [PopdeemSDK application:application openURL:url sourceApplication:sourceApplication annotation:annotation];
+//
+//    }
+//
+//    BOOL handled = [[FBSDKApplicationDelegate sharedInstance] application:application
+//                                                                  openURL:url
+//                                                        sourceApplication:sourceApplication
+//                                                               annotation:annotation
+//                    ];
+//    // Add any custom logic here.
+//    return handled;
+//}
 
 
 @end

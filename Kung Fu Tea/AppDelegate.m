@@ -65,20 +65,14 @@
   // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
 }
 
-- (BOOL)application:(UIApplication *)application
-            openURL:(NSURL *)url
-  sourceApplication:(NSString *)sourceApplication
-         annotation:(id)annotation {
+- (BOOL) application:(UIApplication *)app openURL:(NSURL *)url options:(NSDictionary<NSString *, id> *)options
+{
   
-  if ([PopdeemSDK canOpenUrl:url sourceApplication:sourceApplication annotation:annotation]) {
-    return [PopdeemSDK application:application openURL:url sourceApplication:sourceApplication annotation:annotation];
-    
+  if ([PopdeemSDK application:app canOpenUrl:url options:options]) {
+    return [PopdeemSDK application:app openURL:url options:options];
   }
   
-  BOOL handled = [[FBSDKApplicationDelegate sharedInstance] application:application
-                                                                openURL:url
-                                                      sourceApplication:sourceApplication
-                                                             annotation:annotation
+  BOOL handled = [[FBSDKApplicationDelegate sharedInstance] application:app openURL:url options:options
                   ];
   // Add any custom logic here.
   return handled;
