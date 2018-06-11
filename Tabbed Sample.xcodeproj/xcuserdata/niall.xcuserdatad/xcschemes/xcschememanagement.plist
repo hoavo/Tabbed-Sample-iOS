@@ -7,12 +7,12 @@
 		<key>Grounds of Alexandria.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>20</integer>
+			<integer>22</integer>
 		</dict>
 		<key>Hunter&amp;Barrell.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>21</integer>
+			<integer>20</integer>
 		</dict>
 		<key>Kung Fu Tea.xcscheme</key>
 		<dict>
@@ -22,7 +22,7 @@
 		<key>Ribs &amp; Burgers.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>22</integer>
+			<integer>21</integer>
 		</dict>
 		<key>Spoons.xcscheme</key>
 		<dict>
