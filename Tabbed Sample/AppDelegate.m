@@ -11,7 +11,7 @@
 #import <Fabric/Fabric.h>
 #import <Crashlytics/Crashlytics.h>
 #import <FBSDKCoreKit/FBSDKCoreKit.h>
-#import <TwitterKit/TWTRKit.h>
+//#import <TwitterKit/TWTRKit.h>
 
 @interface AppDelegate ()
 

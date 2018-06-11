@@ -1,16 +1,16 @@
 {
   "popdeem" : {
     "colors" : {
-      "primaryAppColor" : "#0D4A6F",
-      "secondaryAppColor" : "#0D4A6F",
-      "primaryInverseColor" : "#FFFFFF",
-      "viewBackgroundColor" : "#FFFFFF",
+      "primaryAppColor" : "#FFFFFF",
+      "secondaryAppColor" : "#3AAFE0",
+      "primaryInverseColor" : "#3AAFE0",
+      "viewBackgroundColor" : "#e9e9e9",
       "primaryFontColor" : "#000000",
-      "secondaryFontColor" : "#A2A4A6",
+      "secondaryFontColor" : "#656565",
       "tableViewCellBackgroundColor" : "#FFFFFF",
-      "navBarTintColor" : "#0D4A6F",
+      "navBarTintColor" : "#3AAFE0",
       "segmentedControlBackgroundColor" : "#FFFFFF",
-      "segmentedControlForegroundColor" : "#0D4A6F",
+      "segmentedControlForegroundColor" : "#3AAFE0",
       "homeHeaderTextColor" : "#FFFFFF"
     },
     "images" : {
