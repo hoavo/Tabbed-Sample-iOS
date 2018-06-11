@@ -76,24 +76,6 @@
   return handled;
 }
 
-//- (BOOL)application:(UIApplication *)application
-//            openURL:(NSURL *)url
-//  sourceApplication:(NSString *)sourceApplication
-//         annotation:(id)annotation {
-//
-//    if ([PopdeemSDK canOpenUrl:url sourceApplication:sourceApplication annotation:annotation]) {
-//        return [PopdeemSDK application:application openURL:url sourceApplication:sourceApplication annotation:annotation];
-//
-//    }
-//
-//    BOOL handled = [[FBSDKApplicationDelegate sharedInstance] application:application
-//                                                                  openURL:url
-//                                                        sourceApplication:sourceApplication
-//                                                               annotation:annotation
-//                    ];
-//    // Add any custom logic here.
-//    return handled;
-//}
 
 
 @end

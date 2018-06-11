@@ -81,11 +81,11 @@
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>We use your photo library to upload images</string>
 	<key>TwitterAppConsumerKey</key>
-	<string>rAzr7Tn0wOVBs6Oij13AYecVA</string>
+	<string>144pFFdkYjC9p4J61YHubqKux</string>
 	<key>TwitterAppConsumerSecret</key>
-	<string>rHTmAWpw1gPCoCy7AzA43j9eMqb2GJb24qcMfIHeOvepARFsmt</string>
+	<string>ynGwNExKrhd2q0oDriut1MrLrkXSA78j78FnSrBkFON0QV0TUh</string>
 	<key>TwitterCallbackScheme</key>
-	<string>tabbedsample</string>
+	<string>kungfutea</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>

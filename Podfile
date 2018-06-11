@@ -21,6 +21,7 @@ target 'Tabbed Sample' do
   pod 'Crashlytics'
   pod 'FBSDKLoginKit', '< 4.30'
   pod 'FBSDKCoreKit', '< 4.30'
+  pod 'STTwitter'
 end
 
 target 'Spoons' do
