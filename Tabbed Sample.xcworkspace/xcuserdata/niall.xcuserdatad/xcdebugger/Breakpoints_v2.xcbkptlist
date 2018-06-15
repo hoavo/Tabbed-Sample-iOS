@@ -52,7 +52,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../Popdeem-SDK-iOS/PopdeemSDK/UIKit/Feed/PDUIFeedImageViewController.m"
-            timestampString = "550760037.62641"
+            timestampString = "550762399.528898"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "15"
@@ -116,12 +116,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../Popdeem-SDK-iOS/PopdeemSDK/Core/Util/PDSocialMediaManager.m"
-            timestampString = "550760037.626709"
+            timestampString = "550762399.52932"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "331"
             endingLineNumber = "331"
-            landmarkName = "-chooseAccount:failure:"
+            landmarkName = "-loginOnTheWeb"
             landmarkType = "7">
             <Locations>
                <Location
@@ -155,38 +155,6 @@
                   offsetFromSymbolStart = "75">
                </Location>
             </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "../../Popdeem-SDK-iOS/PopdeemSDK/Core/Util/PDSocialMediaManager.m"
-            timestampString = "550760037.6269259"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "231"
-            endingLineNumber = "231"
-            landmarkName = "PDSocialMediaManager"
-            landmarkType = "3">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "../../Popdeem-SDK-iOS/PopdeemSDK/UIKit/Home/PDUIHomeViewModel.m"
-            timestampString = "550754510.19526"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "241"
-            endingLineNumber = "241"
-            landmarkName = "-setupView"
-            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

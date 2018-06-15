@@ -25,6 +25,7 @@
   [PopdeemSDK setUpThemeFile:@"theme"];
   [PopdeemSDK setDebug:YES];
   [PopdeemSDK enableSocialLoginWithNumberOfPrompts:300];
+  [PopdeemSDK registerForPushNotificationsApplication:application];
   [[FBSDKApplicationDelegate sharedInstance] application:application
                            didFinishLaunchingWithOptions:launchOptions];
   [Fabric with:@[[Crashlytics class]]];
@@ -35,6 +36,21 @@
     }
   }
   return YES;
+}
+
+- (void) application:(UIApplication *)application didRegisterForRemoteNotificationsWithDeviceToken:(NSData *)deviceToken {
+  [PopdeemSDK application:application didRegisterForRemoteNotificationsWithDeviceToken:deviceToken];
+}
+
+- (void) application:(UIApplication *)application didFailToRegisterForRemoteNotificationsWithError:(NSError *)error {
+  [PopdeemSDK application:application didFailToRegisterForRemoteNotificationsWithError:error];
+}
+
+- (void) application:(UIApplication *)application didReceiveRemoteNotification:(NSDictionary *)userInfo {
+  if ([[userInfo objectForKey:@"sender"] isEqualToString:@"popdeem"]) {
+    [PopdeemSDK handleRemoteNotification:userInfo];
+    return;
+  }
 }
 
 

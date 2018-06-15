@@ -1,6 +1,6 @@
 {
   "name": "PopdeemSDK",
-  "version": "1.1.20",
+  "version": "1.1.21",
   "summary": "PopdeemSDK is used to interact with the Popdeem Product on iOS.",
   "description": "For detailed instructions, see http://www.popdeem.com/developer",
   "homepage": "https://github.com/Popdeem/Popdeem-SDK-iOS.git",
@@ -18,7 +18,7 @@
   },
   "source": {
     "git": "https://github.com/Popdeem/Popdeem-SDK-iOS.git",
-    "tag": "1.1.20"
+    "tag": "1.1.21"
   },
   "resources": [
     "PopdeemSDK/UIKit/*{xib,png,json}",
@@ -50,13 +50,13 @@
         "PopdeemSDK/*.h"
       ],
       "dependencies": {
-        "STTwitter": [
-
-        ],
         "FBSDKLoginKit": [
 
         ],
         "FBSDKCoreKit": [
+
+        ],
+        "FBSDKShareKit": [
 
         ],
         "Bolts": [
@@ -72,6 +72,9 @@
 
         ],
         "Realm": [
+
+        ],
+        "TwitterKit": [
 
         ]
       }
