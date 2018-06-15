@@ -63,22 +63,23 @@
 		3975B474203C927300459709 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3975B473203C927300459709 /* main.m */; };
 		3975B479203C964000459709 /* theme.json in Resources */ = {isa = PBXBuildFile; fileRef = 3975B478203C964000459709 /* theme.json */; };
 		3975B47B203C96EC00459709 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3975B47A203C96EC00459709 /* Localizable.strings */; };
-		3988AB4D2035DD6700DC2102 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3988AB4C2035DD6700DC2102 /* AppDelegate.m */; };
-		3988AB502035DD6700DC2102 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3988AB4F2035DD6700DC2102 /* ViewController.m */; };
-		3988AB532035DD6700DC2102 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3988AB512035DD6700DC2102 /* Main.storyboard */; };
-		3988AB552035DD6700DC2102 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3988AB542035DD6700DC2102 /* Assets.xcassets */; };
-		3988AB582035DD6700DC2102 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3988AB562035DD6700DC2102 /* LaunchScreen.storyboard */; };
-		3988AB5B2035DD6700DC2102 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3988AB5A2035DD6700DC2102 /* main.m */; };
-		3988AB602035E2B100DC2102 /* theme.json in Resources */ = {isa = PBXBuildFile; fileRef = 3988AB5F2035E2B100DC2102 /* theme.json */; };
-		3988AB622035E2B900DC2102 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3988AB612035E2B900DC2102 /* Localizable.strings */; };
 		399EEDCA205ED3AA00EC92FB /* HVD Fonts - BrandonGrotesque-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 399EEDC8205ED3AA00EC92FB /* HVD Fonts - BrandonGrotesque-Bold.otf */; };
 		399EEDCB205ED3AA00EC92FB /* HVD Fonts - BrandonGrotesque-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 399EEDC9205ED3AA00EC92FB /* HVD Fonts - BrandonGrotesque-Regular.otf */; };
+		39AA146220CFDA2D008353B8 /* loc.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 39AA146120CFDA2D008353B8 /* loc.gpx */; };
 		39AFC7D720518DD8005B9B5F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 39AFC7D620518DD8005B9B5F /* AppDelegate.m */; };
 		39AFC7DA20518DD8005B9B5F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 39AFC7D920518DD8005B9B5F /* ViewController.m */; };
 		39AFC7DD20518DD8005B9B5F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39AFC7DB20518DD8005B9B5F /* Main.storyboard */; };
 		39AFC7DF20518DD8005B9B5F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39AFC7DE20518DD8005B9B5F /* Assets.xcassets */; };
 		39AFC7E220518DD8005B9B5F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39AFC7E020518DD8005B9B5F /* LaunchScreen.storyboard */; };
 		39AFC7E520518DD8005B9B5F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 39AFC7E420518DD8005B9B5F /* main.m */; };
+		39BC01C020D3B9B800003701 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 39BC01BF20D3B9B800003701 /* AppDelegate.m */; };
+		39BC01C320D3B9B800003701 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 39BC01C220D3B9B800003701 /* ViewController.m */; };
+		39BC01C620D3B9B800003701 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39BC01C420D3B9B800003701 /* Main.storyboard */; };
+		39BC01C820D3B9BB00003701 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39BC01C720D3B9BB00003701 /* Assets.xcassets */; };
+		39BC01CB20D3B9BB00003701 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39BC01C920D3B9BB00003701 /* LaunchScreen.storyboard */; };
+		39BC01CE20D3B9BB00003701 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 39BC01CD20D3B9BB00003701 /* main.m */; };
+		39BC01D320D3BB7800003701 /* theme.json in Resources */ = {isa = PBXBuildFile; fileRef = 39BC01D220D3BB7800003701 /* theme.json */; };
+		39BC01D520D3BC9400003701 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 39BC01D420D3BC9400003701 /* Localizable.strings */; };
 		39D937EC2052871F007B10EC /* theme.json in Resources */ = {isa = PBXBuildFile; fileRef = 39D937EB2052871F007B10EC /* theme.json */; };
 		39D937EE20528827007B10EC /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 39D937ED20528827007B10EC /* Localizable.strings */; };
 		4F180C88B714F501766B459C /* Pods_Hunter_Barrell.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 426A2F4A608D9F8D662EA585 /* Pods_Hunter_Barrell.framework */; };
@@ -86,7 +87,7 @@
 		6A154DD72CBBFDEE786C800B /* Pods_SwiftSample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 880EA8AED984EA56FD5A3F8F /* Pods_SwiftSample.framework */; };
 		7128AE5E714C195A9DC2C6CB /* Pods_Ribs___Burgers.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B633783239C10CDC261E0E2 /* Pods_Ribs___Burgers.framework */; };
 		794AD91FDF17328645F09A84 /* Pods_Tabbed_Sample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 381400A79C04325F1B9E509F /* Pods_Tabbed_Sample.framework */; };
-		C03C307403099BC8A595E527 /* Pods_Spoons.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1FE28D831A63F7D23C1C95C9 /* Pods_Spoons.framework */; };
+		949D0793D7507BC348DDA8AB /* Pods_Spoons.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1FE28D831A63F7D23C1C95C9 /* Pods_Spoons.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -167,7 +168,6 @@
 		3975B473203C927300459709 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		3975B478203C964000459709 /* theme.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = theme.json; sourceTree = "<group>"; };
 		3975B47A203C96EC00459709 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
-		3988AB492035DD6700DC2102 /* Spoons.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Spoons.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3988AB4B2035DD6700DC2102 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		3988AB4C2035DD6700DC2102 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		3988AB4E2035DD6700DC2102 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
@@ -181,6 +181,7 @@
 		3988AB612035E2B900DC2102 /* Localizable.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
 		399EEDC8205ED3AA00EC92FB /* HVD Fonts - BrandonGrotesque-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HVD Fonts - BrandonGrotesque-Bold.otf"; sourceTree = "<group>"; };
 		399EEDC9205ED3AA00EC92FB /* HVD Fonts - BrandonGrotesque-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HVD Fonts - BrandonGrotesque-Regular.otf"; sourceTree = "<group>"; };
+		39AA146120CFDA2D008353B8 /* loc.gpx */ = {isa = PBXFileReference; lastKnownFileType = text; path = loc.gpx; sourceTree = "<group>"; };
 		39AFC7D320518DD7005B9B5F /* Grounds of Alexandria.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Grounds of Alexandria.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		39AFC7D520518DD8005B9B5F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		39AFC7D620518DD8005B9B5F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -191,9 +192,21 @@
 		39AFC7E120518DD8005B9B5F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		39AFC7E320518DD8005B9B5F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		39AFC7E420518DD8005B9B5F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		39BC01BC20D3B9B800003701 /* Spoons.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Spoons.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		39BC01BE20D3B9B800003701 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		39BC01BF20D3B9B800003701 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		39BC01C120D3B9B800003701 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		39BC01C220D3B9B800003701 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		39BC01C520D3B9B800003701 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		39BC01C720D3B9BB00003701 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		39BC01CA20D3B9BB00003701 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		39BC01CC20D3B9BB00003701 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39BC01CD20D3B9BB00003701 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		39BC01D220D3BB7800003701 /* theme.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = theme.json; sourceTree = "<group>"; };
+		39BC01D420D3BC9400003701 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
 		39D937EB2052871F007B10EC /* theme.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = theme.json; sourceTree = "<group>"; };
 		39D937ED20528827007B10EC /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
-		3B633783239C10CDC261E0E2 /* Pods_Ribs___Burgers.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Ribs___Burgers.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3B633783239C10CDC261E0E2 /* Pods_Ribs___Burgers.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = "Pods_Ribs___Burgers.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		426A2F4A608D9F8D662EA585 /* Pods_Hunter_Barrell.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Hunter_Barrell.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		45E1B610D407100892096EB7 /* Pods-Kung Fu Tea.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Kung Fu Tea.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Kung Fu Tea/Pods-Kung Fu Tea.debug.xcconfig"; sourceTree = "<group>"; };
 		482B376A05F6968B271AFB6B /* Pods-Spoons.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Spoons.release.xcconfig"; path = "Pods/Target Support Files/Pods-Spoons/Pods-Spoons.release.xcconfig"; sourceTree = "<group>"; };
@@ -255,19 +268,19 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3988AB462035DD6700DC2102 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				C03C307403099BC8A595E527 /* Pods_Spoons.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		39AFC7D020518DD7005B9B5F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				528DB06A12461BD8D2496BE7 /* Pods_Grounds_of_Alexandria.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		39BC01B920D3B9B800003701 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				949D0793D7507BC348DDA8AB /* Pods_Spoons.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -337,8 +350,8 @@
 				390E5862207248E200639410 /* Main.storyboard */,
 				390E5867207248E200639410 /* LaunchScreen.storyboard */,
 				390E586A207248E200639410 /* Info.plist */,
-				390E586B207248E200639410 /* main.m */,
 				390E587020724C0900639410 /* theme.json */,
+				390E586B207248E200639410 /* main.m */,
 				3938E4C8207D12290077AC20 /* Localizable.strings */,
 			);
 			path = "Kung Fu Tea";
@@ -366,6 +379,7 @@
 		392BB4D420037E5900995769 = {
 			isa = PBXGroup;
 			children = (
+				39AA146120CFDA2D008353B8 /* loc.gpx */,
 				392BB4F920037EAD00995769 /* Podfile */,
 				392BB4DF20037E5900995769 /* Tabbed Sample */,
 				3988AB4A2035DD6700DC2102 /* Sweet&Coffee */,
@@ -374,6 +388,7 @@
 				39AFC7D420518DD8005B9B5F /* Grounds of Alexandria */,
 				390E585B207248E200639410 /* Kung Fu Tea */,
 				393CE44420C9C3470030000D /* SwiftSample */,
+				39BC01BD20D3B9B800003701 /* Spoons */,
 				392BB4DE20037E5900995769 /* Products */,
 				286B2DB78CF3B008A90E2E26 /* Pods */,
 				086FE1F3008739444A68B88D /* Frameworks */,
@@ -384,12 +399,12 @@
 			isa = PBXGroup;
 			children = (
 				392BB4DD20037E5900995769 /* Tabbed Sample.app */,
-				3988AB492035DD6700DC2102 /* Spoons.app */,
 				3975B462203C927200459709 /* Hunter&Barrell.app */,
 				3916FF2320471BAD00FCA385 /* Ribs & Burgers.app */,
 				39AFC7D320518DD7005B9B5F /* Grounds of Alexandria.app */,
 				390E585A207248E200639410 /* Kung Fu Tea.app */,
 				393CE44320C9C3460030000D /* SwiftSample.app */,
+				39BC01BC20D3B9B800003701 /* Spoons.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -490,6 +505,24 @@
 			path = "Grounds of Alexandria";
 			sourceTree = "<group>";
 		};
+		39BC01BD20D3B9B800003701 /* Spoons */ = {
+			isa = PBXGroup;
+			children = (
+				39BC01BE20D3B9B800003701 /* AppDelegate.h */,
+				39BC01BF20D3B9B800003701 /* AppDelegate.m */,
+				39BC01C120D3B9B800003701 /* ViewController.h */,
+				39BC01C220D3B9B800003701 /* ViewController.m */,
+				39BC01C420D3B9B800003701 /* Main.storyboard */,
+				39BC01C720D3B9BB00003701 /* Assets.xcassets */,
+				39BC01C920D3B9BB00003701 /* LaunchScreen.storyboard */,
+				39BC01CC20D3B9BB00003701 /* Info.plist */,
+				39BC01CD20D3B9BB00003701 /* main.m */,
+				39BC01D220D3BB7800003701 /* theme.json */,
+				39BC01D420D3BC9400003701 /* Localizable.strings */,
+			);
+			path = Spoons;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -503,7 +536,6 @@
 				390E5858207248E200639410 /* Resources */,
 				1BE2927399F5986828843652 /* [CP] Embed Pods Frameworks */,
 				390E58752073A1D200639410 /* ShellScript */,
-				B4BB58BA227889AFA0B06D1A /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -524,7 +556,6 @@
 				3916FF2120471BAD00FCA385 /* Resources */,
 				F62BBC817ED64A7AD0237E30 /* [CP] Embed Pods Frameworks */,
 				3916FF3D2047214900FCA385 /* ShellScript */,
-				7B7740BFEF477E3B140ACC1B /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -545,7 +576,6 @@
 				392BB4DB20037E5900995769 /* Resources */,
 				195D67CE8E4283D35715176B /* [CP] Embed Pods Frameworks */,
 				392D8F6620323E5E00BDC764 /* ShellScript */,
-				9A4621FB9364AEC46CE2867A /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -565,7 +595,6 @@
 				393CE44020C9C3460030000D /* Frameworks */,
 				393CE44120C9C3460030000D /* Resources */,
 				514DB777B796A211B2C49546 /* [CP] Embed Pods Frameworks */,
-				6F85160AA064083B5A606960 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -586,7 +615,6 @@
 				3975B460203C927200459709 /* Resources */,
 				3E0F582CAD781211CDF89944 /* [CP] Embed Pods Frameworks */,
 				3975B47C203C980400459709 /* ShellScript */,
-				7D7AF4A9998B74F5348E096C /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -595,27 +623,6 @@
 			name = "Hunter&Barrell";
 			productName = "Hunter&Barrell";
 			productReference = 3975B462203C927200459709 /* Hunter&Barrell.app */;
-			productType = "com.apple.product-type.application";
-		};
-		3988AB482035DD6700DC2102 /* Spoons */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 3988AB5E2035DD6700DC2102 /* Build configuration list for PBXNativeTarget "Spoons" */;
-			buildPhases = (
-				1C4703FC2D8A41EE58002F56 /* [CP] Check Pods Manifest.lock */,
-				3988AB452035DD6700DC2102 /* Sources */,
-				3988AB462035DD6700DC2102 /* Frameworks */,
-				3988AB472035DD6700DC2102 /* Resources */,
-				3988AB632035E67100DC2102 /* ShellScript */,
-				4A4222F0DFBB1F6453F0B619 /* [CP] Embed Pods Frameworks */,
-				182D7D5863EAC96D30C0C6B7 /* [CP] Copy Pods Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = Spoons;
-			productName = "Sweet&Coffee";
-			productReference = 3988AB492035DD6700DC2102 /* Spoons.app */;
 			productType = "com.apple.product-type.application";
 		};
 		39AFC7D220518DD7005B9B5F /* Grounds of Alexandria */ = {
@@ -628,7 +635,6 @@
 				39AFC7D120518DD7005B9B5F /* Resources */,
 				EC79BA6AADAF8420E4EED52F /* [CP] Embed Pods Frameworks */,
 				39D937EF20528959007B10EC /* ShellScript */,
-				AE908D73EAE69ACCC16F8698 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -637,6 +643,26 @@
 			name = "Grounds of Alexandria";
 			productName = "Grounds of Alexandria";
 			productReference = 39AFC7D320518DD7005B9B5F /* Grounds of Alexandria.app */;
+			productType = "com.apple.product-type.application";
+		};
+		39BC01BB20D3B9B800003701 /* Spoons */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 39BC01CF20D3B9BB00003701 /* Build configuration list for PBXNativeTarget "Spoons" */;
+			buildPhases = (
+				6F81797ADAD2509230A6BE2B /* [CP] Check Pods Manifest.lock */,
+				39BC01B820D3B9B800003701 /* Sources */,
+				39BC01B920D3B9B800003701 /* Frameworks */,
+				39BC01BA20D3B9B800003701 /* Resources */,
+				1E1885E3D635F8D463A17827 /* [CP] Embed Pods Frameworks */,
+				39FA56C120D3D7CC00E2084D /* Fabric */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Spoons;
+			productName = Spoons;
+			productReference = 39BC01BC20D3B9B800003701 /* Spoons.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -667,15 +693,15 @@
 					};
 					3975B461203C927200459709 = {
 						CreatedOnToolsVersion = 9.2;
-						ProvisioningStyle = Manual;
-					};
-					3988AB482035DD6700DC2102 = {
-						CreatedOnToolsVersion = 9.2;
-						ProvisioningStyle = Manual;
+						ProvisioningStyle = Automatic;
 					};
 					39AFC7D220518DD7005B9B5F = {
 						CreatedOnToolsVersion = 9.2;
 						ProvisioningStyle = Manual;
+					};
+					39BC01BB20D3B9B800003701 = {
+						CreatedOnToolsVersion = 9.4;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
@@ -693,12 +719,12 @@
 			projectRoot = "";
 			targets = (
 				392BB4DC20037E5900995769 /* Tabbed Sample */,
-				3988AB482035DD6700DC2102 /* Spoons */,
 				3975B461203C927200459709 /* Hunter&Barrell */,
 				3916FF2220471BAD00FCA385 /* Ribs & Burgers */,
 				39AFC7D220518DD7005B9B5F /* Grounds of Alexandria */,
 				390E5859207248E200639410 /* Kung Fu Tea */,
 				393CE44220C9C3460030000D /* SwiftSample */,
+				39BC01BB20D3B9B800003701 /* Spoons */,
 			);
 		};
 /* End PBXProject section */
@@ -751,6 +777,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3905BE9C200383AD0054638F /* theme.json in Resources */,
+				39AA146220CFDA2D008353B8 /* loc.gpx in Resources */,
 				3963575C202C5B6C00BF494B /* Localizable.strings in Resources */,
 				392BB4F020037E5A00995769 /* LaunchScreen.storyboard in Resources */,
 				392BB4ED20037E5A00995769 /* Assets.xcassets in Resources */,
@@ -781,18 +808,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3988AB472035DD6700DC2102 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				3988AB622035E2B900DC2102 /* Localizable.strings in Resources */,
-				3988AB582035DD6700DC2102 /* LaunchScreen.storyboard in Resources */,
-				3988AB602035E2B100DC2102 /* theme.json in Resources */,
-				3988AB552035DD6700DC2102 /* Assets.xcassets in Resources */,
-				3988AB532035DD6700DC2102 /* Main.storyboard in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		39AFC7D120518DD7005B9B5F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -802,6 +817,18 @@
 				39D937EC2052871F007B10EC /* theme.json in Resources */,
 				39AFC7DF20518DD8005B9B5F /* Assets.xcassets in Resources */,
 				39AFC7DD20518DD8005B9B5F /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		39BC01BA20D3B9B800003701 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				39BC01D520D3BC9400003701 /* Localizable.strings in Resources */,
+				39BC01CB20D3B9BB00003701 /* LaunchScreen.storyboard in Resources */,
+				39BC01D320D3BB7800003701 /* theme.json in Resources */,
+				39BC01C820D3B9BB00003701 /* Assets.xcassets in Resources */,
+				39BC01C620D3B9B800003701 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -826,26 +853,6 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		182D7D5863EAC96D30C0C6B7 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-Spoons/Pods-Spoons-resources.sh",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework/TwitterShareExtensionUIResources.bundle",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TwitterKitResources.bundle",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TwitterShareExtensionUIResources.bundle",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Spoons/Pods-Spoons-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		195D67CE8E4283D35715176B /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -856,30 +863,24 @@
 				"${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework",
 				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework",
 				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework",
-				"${BUILT_PRODUCTS_DIR}/FBSDKShareKit/FBSDKShareKit.framework",
 				"${BUILT_PRODUCTS_DIR}/JSONModel/JSONModel.framework",
 				"${BUILT_PRODUCTS_DIR}/PopdeemSDK/PopdeemSDK.framework",
 				"${BUILT_PRODUCTS_DIR}/Realm/Realm.framework",
+				"${BUILT_PRODUCTS_DIR}/STTwitter/STTwitter.framework",
 				"${BUILT_PRODUCTS_DIR}/Shimmer/Shimmer.framework",
 				"${BUILT_PRODUCTS_DIR}/TOCropViewController/TOCropViewController.framework",
-				"${PODS_ROOT}/TwitterCore/iOS/TwitterCore.framework",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework",
-				"${BUILT_PRODUCTS_DIR}/STTwitter/STTwitter.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Bolts.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKCoreKit.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKLoginKit.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKShareKit.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JSONModel.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PopdeemSDK.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Realm.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/STTwitter.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Shimmer.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TOCropViewController.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwitterCore.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwitterKit.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/STTwitter.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -896,50 +897,62 @@
 				"${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework",
 				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework",
 				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework",
-				"${BUILT_PRODUCTS_DIR}/FBSDKShareKit/FBSDKShareKit.framework",
 				"${BUILT_PRODUCTS_DIR}/JSONModel/JSONModel.framework",
 				"${BUILT_PRODUCTS_DIR}/PopdeemSDK/PopdeemSDK.framework",
 				"${BUILT_PRODUCTS_DIR}/Realm/Realm.framework",
+				"${BUILT_PRODUCTS_DIR}/STTwitter/STTwitter.framework",
 				"${BUILT_PRODUCTS_DIR}/Shimmer/Shimmer.framework",
 				"${BUILT_PRODUCTS_DIR}/TOCropViewController/TOCropViewController.framework",
-				"${PODS_ROOT}/TwitterCore/iOS/TwitterCore.framework",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Bolts.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKCoreKit.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKLoginKit.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKShareKit.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JSONModel.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PopdeemSDK.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Realm.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/STTwitter.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Shimmer.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TOCropViewController.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwitterCore.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwitterKit.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Kung Fu Tea/Pods-Kung Fu Tea-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		1C4703FC2D8A41EE58002F56 /* [CP] Check Pods Manifest.lock */ = {
+		1E1885E3D635F8D463A17827 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
+				"${SRCROOT}/Pods/Target Support Files/Pods-Spoons/Pods-Spoons-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework",
+				"${BUILT_PRODUCTS_DIR}/JSONModel/JSONModel.framework",
+				"${BUILT_PRODUCTS_DIR}/PopdeemSDK/PopdeemSDK.framework",
+				"${BUILT_PRODUCTS_DIR}/Realm/Realm.framework",
+				"${BUILT_PRODUCTS_DIR}/STTwitter/STTwitter.framework",
+				"${BUILT_PRODUCTS_DIR}/Shimmer/Shimmer.framework",
+				"${BUILT_PRODUCTS_DIR}/TOCropViewController/TOCropViewController.framework",
 			);
-			name = "[CP] Check Pods Manifest.lock";
+			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Spoons-checkManifestLockResult.txt",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Bolts.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKCoreKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKLoginKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JSONModel.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PopdeemSDK.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Realm.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/STTwitter.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Shimmer.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TOCropViewController.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Spoons/Pods-Spoons-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		390E58752073A1D200639410 /* ShellScript */ = {
@@ -994,19 +1007,6 @@
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Fabric/run\" f3e1331a9e08ff100bf63475f5ac2f67675253d6 350a323fe2e39bc479beb4a3dce17913883bc2eec777e0ccb9b59d1507686dca";
 		};
-		3988AB632035E67100DC2102 /* ShellScript */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Fabric/run\" f3e1331a9e08ff100bf63475f5ac2f67675253d6 350a323fe2e39bc479beb4a3dce17913883bc2eec777e0ccb9b59d1507686dca";
-		};
 		39D937EF20528959007B10EC /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -1020,6 +1020,20 @@
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Fabric/run\" f3e1331a9e08ff100bf63475f5ac2f67675253d6 350a323fe2e39bc479beb4a3dce17913883bc2eec777e0ccb9b59d1507686dca";
 		};
+		39FA56C120D3D7CC00E2084D /* Fabric */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = Fabric;
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Type a script or drag a script file from your workspace to insert its path.\n";
+		};
 		3E0F582CAD781211CDF89944 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -1030,28 +1044,24 @@
 				"${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework",
 				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework",
 				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework",
-				"${BUILT_PRODUCTS_DIR}/FBSDKShareKit/FBSDKShareKit.framework",
 				"${BUILT_PRODUCTS_DIR}/JSONModel/JSONModel.framework",
 				"${BUILT_PRODUCTS_DIR}/PopdeemSDK/PopdeemSDK.framework",
 				"${BUILT_PRODUCTS_DIR}/Realm/Realm.framework",
+				"${BUILT_PRODUCTS_DIR}/STTwitter/STTwitter.framework",
 				"${BUILT_PRODUCTS_DIR}/Shimmer/Shimmer.framework",
 				"${BUILT_PRODUCTS_DIR}/TOCropViewController/TOCropViewController.framework",
-				"${PODS_ROOT}/TwitterCore/iOS/TwitterCore.framework",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Bolts.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKCoreKit.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKLoginKit.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKShareKit.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JSONModel.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PopdeemSDK.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Realm.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/STTwitter.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Shimmer.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TOCropViewController.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwitterCore.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwitterKit.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -1076,44 +1086,6 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		4A4222F0DFBB1F6453F0B619 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-Spoons/Pods-Spoons-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework",
-				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework",
-				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework",
-				"${BUILT_PRODUCTS_DIR}/FBSDKShareKit/FBSDKShareKit.framework",
-				"${BUILT_PRODUCTS_DIR}/JSONModel/JSONModel.framework",
-				"${BUILT_PRODUCTS_DIR}/PopdeemSDK/PopdeemSDK.framework",
-				"${BUILT_PRODUCTS_DIR}/Realm/Realm.framework",
-				"${BUILT_PRODUCTS_DIR}/Shimmer/Shimmer.framework",
-				"${BUILT_PRODUCTS_DIR}/TOCropViewController/TOCropViewController.framework",
-				"${PODS_ROOT}/TwitterCore/iOS/TwitterCore.framework",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Bolts.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKCoreKit.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKLoginKit.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKShareKit.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JSONModel.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PopdeemSDK.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Realm.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Shimmer.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TOCropViewController.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwitterCore.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwitterKit.framework",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Spoons/Pods-Spoons-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		514DB777B796A211B2C49546 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -1124,152 +1096,46 @@
 				"${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework",
 				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework",
 				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework",
-				"${BUILT_PRODUCTS_DIR}/FBSDKShareKit/FBSDKShareKit.framework",
 				"${BUILT_PRODUCTS_DIR}/JSONModel/JSONModel.framework",
 				"${BUILT_PRODUCTS_DIR}/PopdeemSDK/PopdeemSDK.framework",
 				"${BUILT_PRODUCTS_DIR}/Realm/Realm.framework",
+				"${BUILT_PRODUCTS_DIR}/STTwitter/STTwitter.framework",
 				"${BUILT_PRODUCTS_DIR}/Shimmer/Shimmer.framework",
 				"${BUILT_PRODUCTS_DIR}/TOCropViewController/TOCropViewController.framework",
-				"${PODS_ROOT}/TwitterCore/iOS/TwitterCore.framework",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Bolts.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKCoreKit.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKLoginKit.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKShareKit.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JSONModel.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PopdeemSDK.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Realm.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/STTwitter.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Shimmer.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TOCropViewController.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwitterCore.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwitterKit.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-SwiftSample/Pods-SwiftSample-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		6F85160AA064083B5A606960 /* [CP] Copy Pods Resources */ = {
+		6F81797ADAD2509230A6BE2B /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-SwiftSample/Pods-SwiftSample-resources.sh",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework/TwitterShareExtensionUIResources.bundle",
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
 			);
-			name = "[CP] Copy Pods Resources";
+			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TwitterKitResources.bundle",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TwitterShareExtensionUIResources.bundle",
+				"$(DERIVED_FILE_DIR)/Pods-Spoons-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-SwiftSample/Pods-SwiftSample-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		7B7740BFEF477E3B140ACC1B /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-Ribs & Burgers/Pods-Ribs & Burgers-resources.sh",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework/TwitterShareExtensionUIResources.bundle",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TwitterKitResources.bundle",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TwitterShareExtensionUIResources.bundle",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Ribs & Burgers/Pods-Ribs & Burgers-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		7D7AF4A9998B74F5348E096C /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-Hunter&Barrell/Pods-Hunter&Barrell-resources.sh",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework/TwitterShareExtensionUIResources.bundle",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TwitterKitResources.bundle",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TwitterShareExtensionUIResources.bundle",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Hunter&Barrell/Pods-Hunter&Barrell-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		9A4621FB9364AEC46CE2867A /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-Tabbed Sample/Pods-Tabbed Sample-resources.sh",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework/TwitterShareExtensionUIResources.bundle",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TwitterKitResources.bundle",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TwitterShareExtensionUIResources.bundle",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Tabbed Sample/Pods-Tabbed Sample-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		AE908D73EAE69ACCC16F8698 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-Grounds of Alexandria/Pods-Grounds of Alexandria-resources.sh",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework/TwitterShareExtensionUIResources.bundle",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TwitterKitResources.bundle",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TwitterShareExtensionUIResources.bundle",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Grounds of Alexandria/Pods-Grounds of Alexandria-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		B4BB58BA227889AFA0B06D1A /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-Kung Fu Tea/Pods-Kung Fu Tea-resources.sh",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework/TwitterShareExtensionUIResources.bundle",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TwitterKitResources.bundle",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TwitterShareExtensionUIResources.bundle",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Kung Fu Tea/Pods-Kung Fu Tea-resources.sh\"\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 		DDDF28FCE8B91C861400F214 /* [CP] Check Pods Manifest.lock */ = {
@@ -1354,28 +1220,24 @@
 				"${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework",
 				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework",
 				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework",
-				"${BUILT_PRODUCTS_DIR}/FBSDKShareKit/FBSDKShareKit.framework",
 				"${BUILT_PRODUCTS_DIR}/JSONModel/JSONModel.framework",
 				"${BUILT_PRODUCTS_DIR}/PopdeemSDK/PopdeemSDK.framework",
 				"${BUILT_PRODUCTS_DIR}/Realm/Realm.framework",
+				"${BUILT_PRODUCTS_DIR}/STTwitter/STTwitter.framework",
 				"${BUILT_PRODUCTS_DIR}/Shimmer/Shimmer.framework",
 				"${BUILT_PRODUCTS_DIR}/TOCropViewController/TOCropViewController.framework",
-				"${PODS_ROOT}/TwitterCore/iOS/TwitterCore.framework",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Bolts.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKCoreKit.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKLoginKit.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKShareKit.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JSONModel.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PopdeemSDK.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Realm.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/STTwitter.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Shimmer.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TOCropViewController.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwitterCore.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwitterKit.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -1392,28 +1254,24 @@
 				"${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework",
 				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework",
 				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework",
-				"${BUILT_PRODUCTS_DIR}/FBSDKShareKit/FBSDKShareKit.framework",
 				"${BUILT_PRODUCTS_DIR}/JSONModel/JSONModel.framework",
 				"${BUILT_PRODUCTS_DIR}/PopdeemSDK/PopdeemSDK.framework",
 				"${BUILT_PRODUCTS_DIR}/Realm/Realm.framework",
+				"${BUILT_PRODUCTS_DIR}/STTwitter/STTwitter.framework",
 				"${BUILT_PRODUCTS_DIR}/Shimmer/Shimmer.framework",
 				"${BUILT_PRODUCTS_DIR}/TOCropViewController/TOCropViewController.framework",
-				"${PODS_ROOT}/TwitterCore/iOS/TwitterCore.framework",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Bolts.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKCoreKit.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKLoginKit.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKShareKit.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JSONModel.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PopdeemSDK.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Realm.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/STTwitter.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Shimmer.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TOCropViewController.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwitterCore.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwitterKit.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -1473,16 +1331,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3988AB452035DD6700DC2102 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				3988AB502035DD6700DC2102 /* ViewController.m in Sources */,
-				3988AB5B2035DD6700DC2102 /* main.m in Sources */,
-				3988AB4D2035DD6700DC2102 /* AppDelegate.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		39AFC7CF20518DD7005B9B5F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -1490,6 +1338,16 @@
 				39AFC7DA20518DD8005B9B5F /* ViewController.m in Sources */,
 				39AFC7E520518DD8005B9B5F /* main.m in Sources */,
 				39AFC7D720518DD8005B9B5F /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		39BC01B820D3B9B800003701 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				39BC01C320D3B9B800003701 /* ViewController.m in Sources */,
+				39BC01CE20D3B9BB00003701 /* main.m in Sources */,
+				39BC01C020D3B9B800003701 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1604,6 +1462,22 @@
 			isa = PBXVariantGroup;
 			children = (
 				39AFC7E120518DD8005B9B5F /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		39BC01C420D3B9B800003701 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				39BC01C520D3B9B800003701 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		39BC01C920D3B9BB00003701 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				39BC01CA20D3B9BB00003701 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -1877,15 +1751,16 @@
 			baseConfigurationReference = F5C33031B6CF99E6C0BC0BD5 /* Pods-Hunter&Barrell.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = S648X26U8J;
 				INFOPLIST_FILE = "Hunter&Barrell/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Popdeem.Hunter-Barrell";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "f5fd080c-f538-4f69-a6f5-3df70ec0a69f";
-				PROVISIONING_PROFILE_SPECIFIER = HunterBarrel;
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -1895,50 +1770,17 @@
 			baseConfigurationReference = FABDD5D20CA2FF2565FC2F23 /* Pods-Hunter&Barrell.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = S648X26U8J;
 				INFOPLIST_FILE = "Hunter&Barrell/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Popdeem.Hunter-Barrell";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "f5fd080c-f538-4f69-a6f5-3df70ec0a69f";
-				PROVISIONING_PROFILE_SPECIFIER = HunterBarrel;
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = 1;
-			};
-			name = Release;
-		};
-		3988AB5C2035DD6700DC2102 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2C40DDCB2DB54DC127AA3A1B /* Pods-Spoons.debug.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = S648X26U8J;
-				INFOPLIST_FILE = "Sweet&Coffee/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Popdeem.Spoons;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "73ffaba9-c51e-458c-812a-82b8150550f8";
-				PROVISIONING_PROFILE_SPECIFIER = "Spoons-Dev";
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		3988AB5D2035DD6700DC2102 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 482B376A05F6968B271AFB6B /* Pods-Spoons.release.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = S648X26U8J;
-				INFOPLIST_FILE = "Sweet&Coffee/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Popdeem.Spoons;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "73ffaba9-c51e-458c-812a-82b8150550f8";
-				PROVISIONING_PROFILE_SPECIFIER = "Spoons-Dev";
-				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -1974,6 +1816,44 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "6f10a7fe-f11d-43a7-98da-021413027ff0";
 				PROVISIONING_PROFILE_SPECIFIER = "Grounds Test";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		39BC01D020D3B9BB00003701 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2C40DDCB2DB54DC127AA3A1B /* Pods-Spoons.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = S648X26U8J;
+				INFOPLIST_FILE = Spoons/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.popdeem.Spoons;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		39BC01D120D3B9BB00003701 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 482B376A05F6968B271AFB6B /* Pods-Spoons.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = S648X26U8J;
+				INFOPLIST_FILE = Spoons/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.popdeem.Spoons;
+				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -2035,20 +1915,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3988AB5E2035DD6700DC2102 /* Build configuration list for PBXNativeTarget "Spoons" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				3988AB5C2035DD6700DC2102 /* Debug */,
-				3988AB5D2035DD6700DC2102 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		39AFC7E820518DD8005B9B5F /* Build configuration list for PBXNativeTarget "Grounds of Alexandria" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				39AFC7E620518DD8005B9B5F /* Debug */,
 				39AFC7E720518DD8005B9B5F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		39BC01CF20D3B9BB00003701 /* Build configuration list for PBXNativeTarget "Spoons" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				39BC01D020D3B9BB00003701 /* Debug */,
+				39BC01D120D3B9BB00003701 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

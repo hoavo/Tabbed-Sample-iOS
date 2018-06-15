@@ -32,8 +32,6 @@ target 'Spoons' do
   pod 'PopdeemSDK', :path => '../../Popdeem-SDK-iOS/PopdeemSDK.podspec'
   pod 'Fabric'
   pod 'Crashlytics'
-  pod 'FBSDKLoginKit', '< 4.30'
-  pod 'FBSDKCoreKit', '< 4.30'
 end
 
 target 'Kung Fu Tea' do

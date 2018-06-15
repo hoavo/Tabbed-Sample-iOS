@@ -65,15 +65,16 @@
 
 - (BOOL) application:(UIApplication *)app openURL:(NSURL *)url options:(NSDictionary<NSString *, id> *)options
 {
+  BOOL handled = [[FBSDKApplicationDelegate sharedInstance] application:app openURL:url options:options
+                  ];
+  // Add any custom logic here.
+  if (handled) return handled;
   
   if ([PopdeemSDK application:app canOpenUrl:url options:options]) {
     return [PopdeemSDK application:app openURL:url options:options];
   }
   
-  BOOL handled = [[FBSDKApplicationDelegate sharedInstance] application:app openURL:url options:options
-                  ];
-  // Add any custom logic here.
-  return handled;
+  return NO;
 }
 
 

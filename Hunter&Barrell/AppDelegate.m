@@ -26,6 +26,7 @@
   [PopdeemSDK enableSocialLoginWithNumberOfPrompts:300];
   [[FBSDKApplicationDelegate sharedInstance] application:application
                            didFinishLaunchingWithOptions:launchOptions];
+  [PopdeemSDK setThirdPartyUserToken:@"SAMPLE_THIRD_PARTY_TOKEN"];
   [Fabric with:@[[Crashlytics class]]];
   return YES;
 }
@@ -62,13 +63,14 @@
   sourceApplication:(NSString *)sourceApplication
          annotation:(id)annotation {
   
-  BOOL handled = [[FBSDKApplicationDelegate sharedInstance] application:application
-                                                                openURL:url
-                                                      sourceApplication:sourceApplication
-                                                             annotation:annotation
-                  ];
+  BOOL handled = [[FBSDKApplicationDelegate sharedInstance] application:application openURL:url sourceApplication:sourceApplication annotation:annotation];
   // Add any custom logic here.
-  return handled;
+  if (handled) return handled;
+  
+  if ([PopdeemSDK canOpenUrl:url sourceApplication:sourceApplication annotation:annotation]) {
+    return [PopdeemSDK application:application openURL:url sourceApplication:sourceApplication annotation:annotation];
+  }
+  return NO;
 }
 
 @end

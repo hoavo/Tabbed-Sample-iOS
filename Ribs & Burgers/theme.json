@@ -1,22 +1,26 @@
 {
   "popdeem" : {
     "colors" : {
-      "primaryAppColor" : "#FFFFFF",
-      "secondaryAppColor" : "#3AAFE0",
-      "primaryInverseColor" : "#3AAFE0",
-      "viewBackgroundColor" : "#e9e9e9",
+      "primaryAppColor" : "#0D4A6F",
+      "secondaryAppColor" : "#0D4A6F",
+      "primaryInverseColor" : "#FFFFFF",
+      "viewBackgroundColor" : "#FFFFFF",
       "primaryFontColor" : "#000000",
-      "secondaryFontColor" : "#656565",
+      "secondaryFontColor" : "#A2A4A6",
       "tableViewCellBackgroundColor" : "#FFFFFF",
-      "navBarTintColor" : "#3AAFE0",
+      "navBarTintColor" : "#0D4A6F",
       "segmentedControlBackgroundColor" : "#FFFFFF",
-      "segmentedControlForegroundColor" : "#3AAFE0",
+      "segmentedControlForegroundColor" : "#0D4A6F",
       "homeHeaderTextColor" : "#FFFFFF"
     },
     "images" : {
-      "loginImage" : "randb_login_image",
+      "loginImage" : "r&b_login_image",
       "defaultItemImage" : "pduikit_starG",
-      "homeHeaderImage" : "r&b_home_header"
+      "homeHeaderImage" : "randb_home_header",
+      "gratitudeConnect1" : "ambassador_icon_default",
+      "gratitudeCoupon1" : "ambassador_icon_default",
+      "gratitudeCreditCoupon1" : "ambassador_icon_default",
+      "gratitudeSweepstake1" : "ambassador_icon_default"
     },
     "fonts" : {
       "primaryFont" : "Avenir-Book",

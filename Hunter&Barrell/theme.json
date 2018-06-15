@@ -8,15 +8,30 @@
       "primaryFontColor" : "#000000",
       "secondaryFontColor" : "#656565",
       "tableViewCellBackgroundColor" : "#FFFFFF",
-      "navBarTintColor" : "#0F0F0F",
+      "navBarTintColor" : "#E62A37",
       "segmentedControlBackgroundColor" : "#FFFFFF",
       "segmentedControlForegroundColor" : "#0F0F0F",
       "homeHeaderTextColor" : "#FFFFFF"
     },
     "images" : {
-      "loginImage" : "hunter&barrel_login_image",
+      "loginImage" : "hb_login_image1",
       "defaultItemImage" : "pduikit_starG",
-      "homeHeaderImage" : "hunter&barrel_home_header"
+      "homeHeaderImage" : "hb_header_image",
+      "socialLogin1" : "hb_login_image1",
+      "socialLogin2" : "hb_login_image2",
+      "socialLogin3" : "hb_login_image3",
+      "gratitudeConnect1" : "gratitudeCoupon1",
+      "gratitudeConnect2" : "gratitudeCoupon1",
+      "gratitudeConnect3" : "gratitudeCoupon1",
+      "gratitudeCoupon1" : "gratitudeCoupon1",
+      "gratitudeCoupon2" : "gratitudeCoupon1",
+      "gratitudeCoupon3" : "gratitudeCoupon1",
+      "gratitudeCreditCoupon1" : "gratitudeCoupon1",
+      "gratitudeCreditCoupon2" : "gratitudeCoupon1",
+      "gratitudeCreditCoupon3" : "gratitudeCoupon1",
+      "gratitudeSweepstake1" : "gratitudeCoupon1",
+      "gratitudeSweepstake2" : "gratitudeCoupon1",
+      "gratitudeSweepstake3" : "gratitudeCoupon1"
     },
     "fonts" : {
       "primaryFont" : "Avenir-Book",

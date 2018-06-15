@@ -17,7 +17,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.25</string>
+	<string>1.29</string>
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
@@ -79,16 +79,16 @@
 	</dict>
 	<key>NSCameraUsageDescription</key>
 	<string>We use your camera to take photos</string>
-	<key>TwitterCallbackScheme</key>
-	<string>kungfutea</string>
-	<key>TwitterAppConsumerKey</key>
-	<string>144pFFdkYjC9p4J61YHubqKux</string>
-	<key>TwitterAppConsumerSecret</key>
-	<string>ynGwNExKrhd2q0oDriut1MrLrkXSA78j78FnSrBkFON0QV0TUh</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>We use your location to deliver local rewards</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>We use your photo library to upload images</string>
+	<key>TwitterAppConsumerKey</key>
+	<string>144pFFdkYjC9p4J61YHubqKux</string>
+	<key>TwitterAppConsumerSecret</key>
+	<string>ynGwNExKrhd2q0oDriut1MrLrkXSA78j78FnSrBkFON0QV0TUh</string>
+	<key>TwitterCallbackScheme</key>
+	<string>https://api.twitter.com/oauth/request_token</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>HWT Artz.ttf</string>

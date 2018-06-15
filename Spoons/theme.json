@@ -1,0 +1,47 @@
+{
+  "popdeem" : {
+    "colors" : {
+      "primaryAppColor" : "#6A2A5C",
+      "secondaryAppColor" : "#6A2A5C",
+      "primaryInverseColor" : "#FFFFFF",
+      "viewBackgroundColor" : "#FFFFFF",
+      "primaryFontColor" : "#000000",
+      "secondaryFontColor" : "#A2A4A6",
+      "tableViewCellBackgroundColor" : "#FFFFFF",
+      "navBarTintColor" : "#6A2A5C",
+      "segmentedControlBackgroundColor" : "#FFFFFF",
+      "segmentedControlForegroundColor" : "#6A2A5C",
+      "homeHeaderTextColor" : "#FFFFFF"
+    },
+    "images" : {
+      "loginImage" : "spoons_login_image1",
+      "socialLogin1" : "spoons_login_image1",
+      "socialLogin2" : "spoons_login_image2",
+      "socialLogin3" : "spoons_login_image3",
+      "defaultItemImage" : "pduikit_starG",
+      "homeHeaderImage" : "spoons_header_image",
+      "ambassadorIconImage" : "gratitudeCoupon1",
+      "gratitudeConnect1" : "gratitudeCoupon1",
+      "gratitudeConnect2" : "gratitudeCoupon1",
+      "gratitudeConnect3" : "gratitudeCoupon1",
+      "gratitudeCoupon1" : "gratitudeCoupon1",
+      "gratitudeCoupon2" : "gratitudeCoupon1",
+      "gratitudeCoupon3" : "gratitudeCoupon1",
+      "gratitudeCreditCoupon1" : "gratitudeCoupon1",
+      "gratitudeCreditCoupon2" : "gratitudeCoupon1",
+      "gratitudeCreditCoupon3" : "gratitudeCoupon1",
+      "gratitudeSweepstake1" : "gratitudeCoupon1",
+      "gratitudeSweepstake2" : "gratitudeCoupon1",
+      "gratitudeSweepstake3" : "gratitudeCoupon1"
+    },
+    "fonts" : {
+      "primaryFont" : "Nunito-Regular",
+      "boldFont" : "Nunito-Bold",
+      "lightFont" : "Nunito-Light",
+      "navbarFont" : "HWT Artz"
+    },
+    "nav" : {
+      "useTheme" : "true"
+    }
+  }
+}
