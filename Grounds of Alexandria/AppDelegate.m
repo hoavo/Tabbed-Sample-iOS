@@ -18,10 +18,9 @@
 
 @implementation AppDelegate
 
-
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
   // Override point for customization after application launch.
-  [PopdeemSDK withAPIKey:@"c076299f-8dc0-4e0c-b070-d171ca4891c9" env:PDEnvStaging];
+  [PopdeemSDK withAPIKey:@"eb86ebfc-3116-4c6d-a674-b37d581b2794" env:PDEnvProduction];
   [PopdeemSDK setUpThemeFile:@"theme"];
   [PopdeemSDK enableSocialLoginWithNumberOfPrompts:300];
   [[FBSDKApplicationDelegate sharedInstance] application:application
@@ -62,14 +61,19 @@
             openURL:(NSURL *)url
   sourceApplication:(NSString *)sourceApplication
          annotation:(id)annotation {
-  
-  BOOL handled = [[FBSDKApplicationDelegate sharedInstance] application:application
-                                                                openURL:url
-                                                      sourceApplication:sourceApplication
-                                                             annotation:annotation
-                  ];
-  // Add any custom logic here.
-  return handled;
+    
+    BOOL handled = [[FBSDKApplicationDelegate sharedInstance] application:application
+                                                                  openURL:url
+                                                        sourceApplication:sourceApplication
+                                                               annotation:annotation
+                    ];
+    if (handled) return handled;
+    
+    if ([PopdeemSDK canOpenUrl:url sourceApplication:sourceApplication annotation:annotation]) {
+        return [PopdeemSDK application:application openURL:url sourceApplication:sourceApplication annotation:annotation];
+    }
+    return NO;
 }
+
 
 @end
