@@ -4,7 +4,7 @@ platform :ios, '9.0'
 target 'SwiftSample' do
   use_frameworks!
   # Pods for Tabbed Sample
-  pod 'PopdeemSDK', :path => '../../Popdeem-SDK-iOS/PopdeemSDK.podspec'
+  pod 'PopdeemSDK', :path => '../Popdeem-SDK-iOS/PopdeemSDK.podspec'
   pod 'Fabric'
   pod 'Crashlytics'
   pod 'FBSDKLoginKit', '< 4.30'
@@ -16,7 +16,7 @@ target 'Tabbed Sample' do
   use_frameworks!
 
   # Pods for Tabbed Sample
-  pod 'PopdeemSDK', :path => '../../Popdeem-SDK-iOS/PopdeemSDK.podspec'
+  pod 'PopdeemSDK', :path => '../Popdeem-SDK-iOS/PopdeemSDK.podspec'
   pod 'Fabric'
   pod 'Crashlytics'
   pod 'FBSDKLoginKit', '< 4.30'
@@ -29,7 +29,7 @@ target 'Spoons' do
   use_frameworks!
   
   # Pods for Tabbed Sample
-  pod 'PopdeemSDK', :path => '../../Popdeem-SDK-iOS/PopdeemSDK.podspec'
+  pod 'PopdeemSDK', :path => '../Popdeem-SDK-iOS/PopdeemSDK.podspec'
   pod 'Fabric'
   pod 'Crashlytics'
 end
@@ -38,7 +38,7 @@ target 'Kung Fu Tea' do
   use_frameworks!
   
   # Pods for Tabbed Sample
-  pod 'PopdeemSDK', :path => '../../Popdeem-SDK-iOS/PopdeemSDK.podspec'
+  pod 'PopdeemSDK', :path => '../Popdeem-SDK-iOS/PopdeemSDK.podspec'
   pod 'Fabric'
   pod 'Crashlytics'
 end
@@ -47,7 +47,7 @@ target 'Hunter&Barrell' do
   use_frameworks!
   
   # Pods for Tabbed Sample
-  pod 'PopdeemSDK', :path => '../../Popdeem-SDK-iOS/PopdeemSDK.podspec'
+  pod 'PopdeemSDK', :path => '../Popdeem-SDK-iOS/PopdeemSDK.podspec'
   pod 'Fabric'
   pod 'Crashlytics'
 end
@@ -56,7 +56,7 @@ target 'Ribs & Burgers' do
   use_frameworks!
   
   # Pods for Tabbed Sample
-  pod 'PopdeemSDK', :path => '../../Popdeem-SDK-iOS/PopdeemSDK.podspec'
+  pod 'PopdeemSDK', :path => '../Popdeem-SDK-iOS/PopdeemSDK.podspec'
   pod 'Fabric'
   pod 'Crashlytics'
 end
@@ -65,7 +65,7 @@ target 'Grounds of Alexandria' do
   use_frameworks!
   
   # Pods for Tabbed Sample
-  pod 'PopdeemSDK', :path => '../../Popdeem-SDK-iOS/PopdeemSDK.podspec'
+  pod 'PopdeemSDK', :path => '../Popdeem-SDK-iOS/PopdeemSDK.podspec'
   pod 'Fabric'
   pod 'Crashlytics'
 end

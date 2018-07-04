@@ -17,7 +17,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.30</string>
+	<string>1.45</string>
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
@@ -25,7 +25,6 @@
 			<array>
 				<string>twitterkit-144pFFdkYjC9p4J61YHubqKux</string>
 				<string>fb1706317436274686kungfutea</string>
-				<string>kungfuteatwitter</string>
 			</array>
 		</dict>
 	</array>
@@ -87,8 +86,6 @@
 	<string>144pFFdkYjC9p4J61YHubqKux</string>
 	<key>TwitterAppConsumerSecret</key>
 	<string>ynGwNExKrhd2q0oDriut1MrLrkXSA78j78FnSrBkFON0QV0TUh</string>
-	<key>TwitterCallbackScheme</key>
-	<string>https://api.twitter.com/oauth/request_token</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>HWT Artz.ttf</string>

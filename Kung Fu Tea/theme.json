@@ -14,12 +14,13 @@
       "homeHeaderTextColor" : "#FFFFFF"
     },
     "images" : {
-      "loginImage" : "kungfutea_login_image",
-      "socialLogin1" : "kungfutea_login_1",
-      "socialLogin2" : "kungfutea_login_2",
-      "socialLogin3" : "kungfutea_login_3",
+      "loginImage" : "kft_login_image1",
+      "socialLogin1" : "kft_login_image2",
+      "socialLogin2" : "kft_login_image3",
+      "socialLogin3" : "kft_login_image4",
+      "socialLogin4" : "kft_login_image5",
       "defaultItemImage" : "pduikit_starG",
-      "homeHeaderImage" : "kungfutea_home_header",
+      "homeHeaderImage" : "kft_header_image",
       "ambassadorIconImage" : "kft_gratitude_logo",
       "gratitudeConnect1" : "kungfutea_gratitude_1",
       "gratitudeConnect2" : "kungfutea_gratitude_2",

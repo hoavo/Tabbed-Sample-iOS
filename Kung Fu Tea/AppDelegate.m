@@ -21,7 +21,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
   // Override point for customization after application launch.
-  [PopdeemSDK withAPIKey:@"4d71afe2-da51-4217-bf7e-afcc0ce4226c" env:PDEnvStaging];
+  [PopdeemSDK withAPIKey:@"4d71afe2-da51-4217-bf7e-afcc0ce4226c" env:PDEnvProduction];
   [PopdeemSDK setUpThemeFile:@"theme"];
   [PopdeemSDK setDebug:YES];
   [PopdeemSDK enableSocialLoginWithNumberOfPrompts:300];
