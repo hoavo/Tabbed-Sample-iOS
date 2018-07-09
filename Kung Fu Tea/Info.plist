@@ -24,7 +24,7 @@
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>twitterkit-144pFFdkYjC9p4J61YHubqKux</string>
-				<string>fb1706317436274686kungfutea</string>
+				<string>fb264687327447841kungfutea</string>
 			</array>
 		</dict>
 	</array>
@@ -45,7 +45,7 @@
 		</array>
 	</dict>
 	<key>FacebookAppID</key>
-	<string>1706317436274686</string>
+	<string>264687327447841</string>
 	<key>FacebookDisplayName</key>
 	<string>Popdeem</string>
 	<key>FacebookUrlSchemeSuffix</key>
