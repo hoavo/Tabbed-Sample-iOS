@@ -47,15 +47,6 @@
 		381BA3B52105F0380003813D /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 381BA3B42105F0380003813D /* Info.plist */; };
 		381BA3B82105F21E0003813D /* theme.json in Resources */ = {isa = PBXBuildFile; fileRef = 381BA3B62105F21D0003813D /* theme.json */; };
 		381BA3B92105F21E0003813D /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 381BA3B72105F21E0003813D /* Localizable.strings */; };
-		382D936C2111F42F00FA9F23 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 382D936B2111F42F00FA9F23 /* AppDelegate.m */; };
-		382D936F2111F42F00FA9F23 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 382D936E2111F42F00FA9F23 /* ViewController.m */; };
-		382D93722111F42F00FA9F23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 382D93702111F42F00FA9F23 /* Main.storyboard */; };
-		382D93742111F43000FA9F23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 382D93732111F43000FA9F23 /* Assets.xcassets */; };
-		382D93772111F43000FA9F23 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 382D93752111F43000FA9F23 /* LaunchScreen.storyboard */; };
-		382D937A2111F43000FA9F23 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 382D93792111F43000FA9F23 /* main.m */; };
-		382D93812111F75800FA9F23 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 382D93802111F75700FA9F23 /* Localizable.strings */; };
-		382D93832111F7B400FA9F23 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 382D93822111F7B400FA9F23 /* Info.plist */; };
-		382D93852111F80100FA9F23 /* theme.json in Resources */ = {isa = PBXBuildFile; fileRef = 382D93842111F80100FA9F23 /* theme.json */; };
 		382D93C72126C98800FA9F23 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 382D93C62126C98800FA9F23 /* AppDelegate.m */; };
 		382D93CA2126C98800FA9F23 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 382D93C92126C98800FA9F23 /* ViewController.m */; };
 		382D93CD2126C98800FA9F23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 382D93CB2126C98800FA9F23 /* Main.storyboard */; };
@@ -65,20 +56,6 @@
 		382D93DB2126C9C200FA9F23 /* theme.json in Resources */ = {isa = PBXBuildFile; fileRef = 382D93D92126C9BF00FA9F23 /* theme.json */; };
 		382D93DC2126C9C200FA9F23 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 382D93DA2126C9C100FA9F23 /* Localizable.strings */; };
 		382D93DE2126C9E400FA9F23 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 382D93DD2126C9E400FA9F23 /* Info.plist */; };
-		382D93E72126D7F100FA9F23 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 382D93E62126D7F100FA9F23 /* AppDelegate.m */; };
-		382D93EA2126D7F100FA9F23 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 382D93E92126D7F100FA9F23 /* ViewController.m */; };
-		382D93ED2126D7F100FA9F23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 382D93EB2126D7F100FA9F23 /* Main.storyboard */; };
-		382D93EF2126D7F300FA9F23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 382D93EE2126D7F300FA9F23 /* Assets.xcassets */; };
-		382D93F22126D7F300FA9F23 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 382D93F02126D7F300FA9F23 /* LaunchScreen.storyboard */; };
-		382D93F52126D7F300FA9F23 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 382D93F42126D7F300FA9F23 /* main.m */; };
-		382D93FA2126D97C00FA9F23 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 382D93F92126D97C00FA9F23 /* Info.plist */; };
-		382D93FD2126D99800FA9F23 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 382D93FB2126D99400FA9F23 /* Localizable.strings */; };
-		382D93FE2126D99800FA9F23 /* theme.json in Resources */ = {isa = PBXBuildFile; fileRef = 382D93FC2126D99700FA9F23 /* theme.json */; };
-		382D94012126F65800FA9F23 /* WebpageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 382D94002126F65800FA9F23 /* WebpageViewController.m */; };
-		382D940A2126FDA200FA9F23 /* ConciergeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 382D94092126FDA200FA9F23 /* ConciergeViewController.m */; };
-		382D94102127163600FA9F23 /* ProximaNova-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 382D940C2127162E00FA9F23 /* ProximaNova-Light.ttf */; };
-		382D94112127163600FA9F23 /* ProximaNova-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 382D940D2127163100FA9F23 /* ProximaNova-Bold.ttf */; };
-		382D94122127163600FA9F23 /* ProximaNova-Reg.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 382D940E2127163300FA9F23 /* ProximaNova-Reg.ttf */; };
 		382D941E2130026100FA9F23 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 382D941D2130026100FA9F23 /* AppDelegate.m */; };
 		382D94212130026100FA9F23 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 382D94202130026100FA9F23 /* ViewController.m */; };
 		382D94242130026100FA9F23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 382D94222130026100FA9F23 /* Main.storyboard */; };
@@ -176,7 +153,6 @@
 		39D937EE20528827007B10EC /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 39D937ED20528827007B10EC /* Localizable.strings */; };
 		480248AAAF80BA782C724D33 /* Pods_Yogurt_Persa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E3B1A91D86E8E342EC87C690 /* Pods_Yogurt_Persa.framework */; };
 		4F180C88B714F501766B459C /* Pods_Hunter_Barrell.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 426A2F4A608D9F8D662EA585 /* Pods_Hunter_Barrell.framework */; };
-		4F511FDA7ECC0CDB82D0A79D /* Pods_Popdeem_Social_Rewards.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7ED4A02F8A4C7362145BD881 /* Pods_Popdeem_Social_Rewards.framework */; };
 		528DB06A12461BD8D2496BE7 /* Pods_Grounds_of_Alexandria.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A6AC3E7C1345D2E5FB303CAF /* Pods_Grounds_of_Alexandria.framework */; };
 		6A154DD72CBBFDEE786C800B /* Pods_SwiftSample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 880EA8AED984EA56FD5A3F8F /* Pods_SwiftSample.framework */; };
 		794AD91FDF17328645F09A84 /* Pods_Tabbed_Sample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 381400A79C04325F1B9E509F /* Pods_Tabbed_Sample.framework */; };
@@ -186,7 +162,6 @@
 		9A9868D6788BE65A77355BE6 /* Pods_Ribs_and_Burgers.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D4ED8E556AECF1449068D3D /* Pods_Ribs_and_Burgers.framework */; };
 		9E30FDEFD5C04E0AB1A56C0A /* Pods_Heine_Bros.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C8837FF4F186BA39BB9EA77C /* Pods_Heine_Bros.framework */; };
 		B00A53FF62F160ED18DF0027 /* Pods_Butcher_and_the_Farmer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2898DBCF95913D987BF5CD4C /* Pods_Butcher_and_the_Farmer.framework */; };
-		B6615259B443F5EA9352BC19 /* Pods_Miss_Jones_Rewards.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9CB44CA07C5F81C3A0A87D08 /* Pods_Miss_Jones_Rewards.framework */; };
 		CFB309F436AF50D77A3E1B0A /* Pods_ProperWhiskey.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD8366A5F85CC5844DE85852 /* Pods_ProperWhiskey.framework */; };
 /* End PBXBuildFile section */
 
@@ -250,18 +225,6 @@
 		381BA3B42105F0380003813D /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		381BA3B62105F21D0003813D /* theme.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = theme.json; sourceTree = "<group>"; };
 		381BA3B72105F21E0003813D /* Localizable.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
-		382D93682111F42F00FA9F23 /* Popdeem-Social-Rewards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Popdeem-Social-Rewards.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		382D936A2111F42F00FA9F23 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		382D936B2111F42F00FA9F23 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		382D936D2111F42F00FA9F23 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		382D936E2111F42F00FA9F23 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		382D93712111F42F00FA9F23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		382D93732111F43000FA9F23 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		382D93762111F43000FA9F23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		382D93792111F43000FA9F23 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		382D93802111F75700FA9F23 /* Localizable.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
-		382D93822111F7B400FA9F23 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		382D93842111F80100FA9F23 /* theme.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = theme.json; sourceTree = "<group>"; };
 		382D93C32126C98800FA9F23 /* Ribs and Burgers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ribs and Burgers.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		382D93C52126C98800FA9F23 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		382D93C62126C98800FA9F23 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -274,25 +237,6 @@
 		382D93D92126C9BF00FA9F23 /* theme.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = theme.json; sourceTree = "<group>"; };
 		382D93DA2126C9C100FA9F23 /* Localizable.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
 		382D93DD2126C9E400FA9F23 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		382D93E32126D7F100FA9F23 /* Miss Jones Rewards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Miss Jones Rewards.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		382D93E52126D7F100FA9F23 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		382D93E62126D7F100FA9F23 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		382D93E82126D7F100FA9F23 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		382D93E92126D7F100FA9F23 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		382D93EC2126D7F100FA9F23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		382D93EE2126D7F300FA9F23 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		382D93F12126D7F300FA9F23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		382D93F42126D7F300FA9F23 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		382D93F92126D97C00FA9F23 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		382D93FB2126D99400FA9F23 /* Localizable.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
-		382D93FC2126D99700FA9F23 /* theme.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = theme.json; sourceTree = "<group>"; };
-		382D93FF2126F65800FA9F23 /* WebpageViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WebpageViewController.h; sourceTree = "<group>"; };
-		382D94002126F65800FA9F23 /* WebpageViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WebpageViewController.m; sourceTree = "<group>"; };
-		382D94082126FDA200FA9F23 /* ConciergeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ConciergeViewController.h; sourceTree = "<group>"; };
-		382D94092126FDA200FA9F23 /* ConciergeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ConciergeViewController.m; sourceTree = "<group>"; };
-		382D940C2127162E00FA9F23 /* ProximaNova-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ProximaNova-Light.ttf"; sourceTree = "<group>"; };
-		382D940D2127163100FA9F23 /* ProximaNova-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ProximaNova-Bold.ttf"; sourceTree = "<group>"; };
-		382D940E2127163300FA9F23 /* ProximaNova-Reg.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ProximaNova-Reg.ttf"; sourceTree = "<group>"; };
 		382D941A2130025F00FA9F23 /* Yogurt Persa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Yogurt Persa.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		382D941C2130026100FA9F23 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		382D941D2130026100FA9F23 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -401,17 +345,6 @@
 		3975B473203C927300459709 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		3975B478203C964000459709 /* theme.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = theme.json; sourceTree = "<group>"; };
 		3975B47A203C96EC00459709 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
-		3988AB4B2035DD6700DC2102 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		3988AB4C2035DD6700DC2102 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		3988AB4E2035DD6700DC2102 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		3988AB4F2035DD6700DC2102 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		3988AB522035DD6700DC2102 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		3988AB542035DD6700DC2102 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		3988AB572035DD6700DC2102 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		3988AB592035DD6700DC2102 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3988AB5A2035DD6700DC2102 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		3988AB5F2035E2B100DC2102 /* theme.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = theme.json; sourceTree = "<group>"; };
-		3988AB612035E2B900DC2102 /* Localizable.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
 		39AA146120CFDA2D008353B8 /* loc.gpx */ = {isa = PBXFileReference; lastKnownFileType = text; path = loc.gpx; sourceTree = "<group>"; };
 		39AFC7D320518DD7005B9B5F /* Grounds of Alexandria.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Grounds of Alexandria.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		39AFC7D520518DD8005B9B5F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -519,27 +452,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		382D93652111F42F00FA9F23 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				4F511FDA7ECC0CDB82D0A79D /* Pods_Popdeem_Social_Rewards.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		382D93C02126C98800FA9F23 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				9A9868D6788BE65A77355BE6 /* Pods_Ribs_and_Burgers.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		382D93E02126D7F100FA9F23 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				B6615259B443F5EA9352BC19 /* Pods_Miss_Jones_Rewards.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -761,24 +678,6 @@
 			path = "Heine Bros";
 			sourceTree = "<group>";
 		};
-		382D93692111F42F00FA9F23 /* Popdeem-Social-Rewards */ = {
-			isa = PBXGroup;
-			children = (
-				382D936A2111F42F00FA9F23 /* AppDelegate.h */,
-				382D936B2111F42F00FA9F23 /* AppDelegate.m */,
-				382D936D2111F42F00FA9F23 /* ViewController.h */,
-				382D936E2111F42F00FA9F23 /* ViewController.m */,
-				382D93702111F42F00FA9F23 /* Main.storyboard */,
-				382D93732111F43000FA9F23 /* Assets.xcassets */,
-				382D93822111F7B400FA9F23 /* Info.plist */,
-				382D93842111F80100FA9F23 /* theme.json */,
-				382D93802111F75700FA9F23 /* Localizable.strings */,
-				382D93752111F43000FA9F23 /* LaunchScreen.storyboard */,
-				382D93792111F43000FA9F23 /* main.m */,
-			);
-			path = "Popdeem-Social-Rewards";
-			sourceTree = "<group>";
-		};
 		382D93C42126C98800FA9F23 /* Ribs and Burgers */ = {
 			isa = PBXGroup;
 			children = (
@@ -795,31 +694,6 @@
 				382D93D42126C98900FA9F23 /* main.m */,
 			);
 			path = "Ribs and Burgers";
-			sourceTree = "<group>";
-		};
-		382D93E42126D7F100FA9F23 /* Miss Jones Rewards */ = {
-			isa = PBXGroup;
-			children = (
-				382D940D2127163100FA9F23 /* ProximaNova-Bold.ttf */,
-				382D940C2127162E00FA9F23 /* ProximaNova-Light.ttf */,
-				382D940E2127163300FA9F23 /* ProximaNova-Reg.ttf */,
-				382D93E52126D7F100FA9F23 /* AppDelegate.h */,
-				382D93E62126D7F100FA9F23 /* AppDelegate.m */,
-				382D93E82126D7F100FA9F23 /* ViewController.h */,
-				382D93E92126D7F100FA9F23 /* ViewController.m */,
-				382D93EB2126D7F100FA9F23 /* Main.storyboard */,
-				382D93FF2126F65800FA9F23 /* WebpageViewController.h */,
-				382D94002126F65800FA9F23 /* WebpageViewController.m */,
-				382D93EE2126D7F300FA9F23 /* Assets.xcassets */,
-				382D93FB2126D99400FA9F23 /* Localizable.strings */,
-				382D93FC2126D99700FA9F23 /* theme.json */,
-				382D93F02126D7F300FA9F23 /* LaunchScreen.storyboard */,
-				382D93F92126D97C00FA9F23 /* Info.plist */,
-				382D93F42126D7F300FA9F23 /* main.m */,
-				382D94082126FDA200FA9F23 /* ConciergeViewController.h */,
-				382D94092126FDA200FA9F23 /* ConciergeViewController.m */,
-			);
-			path = "Miss Jones Rewards";
 			sourceTree = "<group>";
 		};
 		382D941B2130026000FA9F23 /* Yogurt Persa */ = {
@@ -927,7 +801,6 @@
 				39AA146120CFDA2D008353B8 /* loc.gpx */,
 				392BB4F920037EAD00995769 /* Podfile */,
 				392BB4DF20037E5900995769 /* Tabbed Sample */,
-				3988AB4A2035DD6700DC2102 /* Sweet&Coffee */,
 				3975B463203C927300459709 /* Hunter&Barrell */,
 				39AFC7D420518DD8005B9B5F /* Grounds of Alexandria */,
 				390E585B207248E200639410 /* Kung Fu Tea */,
@@ -938,9 +811,7 @@
 				381BA3572101E6A00003813D /* Casual Pint */,
 				381BA3772101EFDB0003813D /* Butcher and the Farmer */,
 				381BA39F2105EF0A0003813D /* Heine Bros */,
-				382D93692111F42F00FA9F23 /* Popdeem-Social-Rewards */,
 				382D93C42126C98800FA9F23 /* Ribs and Burgers */,
-				382D93E42126D7F100FA9F23 /* Miss Jones Rewards */,
 				382D941B2130026000FA9F23 /* Yogurt Persa */,
 				38C078FE217480A1002DCE65 /* ProperWhiskey */,
 				392BB4DE20037E5900995769 /* Products */,
@@ -963,9 +834,7 @@
 				381BA3562101E6A00003813D /* Casual Pint.app */,
 				381BA3762101EFDB0003813D /* Butcher and the Farmer.app */,
 				381BA39E2105EF0A0003813D /* Heine Bros.app */,
-				382D93682111F42F00FA9F23 /* Popdeem-Social-Rewards.app */,
 				382D93C32126C98800FA9F23 /* Ribs and Burgers.app */,
-				382D93E32126D7F100FA9F23 /* Miss Jones Rewards.app */,
 				382D941A2130025F00FA9F23 /* Yogurt Persa.app */,
 				38C078FD217480A1002DCE65 /* ProperWhiskey.app */,
 			);
@@ -1021,24 +890,6 @@
 				3975B47A203C96EC00459709 /* Localizable.strings */,
 			);
 			path = "Hunter&Barrell";
-			sourceTree = "<group>";
-		};
-		3988AB4A2035DD6700DC2102 /* Sweet&Coffee */ = {
-			isa = PBXGroup;
-			children = (
-				3988AB612035E2B900DC2102 /* Localizable.strings */,
-				3988AB5F2035E2B100DC2102 /* theme.json */,
-				3988AB4B2035DD6700DC2102 /* AppDelegate.h */,
-				3988AB4C2035DD6700DC2102 /* AppDelegate.m */,
-				3988AB4E2035DD6700DC2102 /* ViewController.h */,
-				3988AB4F2035DD6700DC2102 /* ViewController.m */,
-				3988AB512035DD6700DC2102 /* Main.storyboard */,
-				3988AB542035DD6700DC2102 /* Assets.xcassets */,
-				3988AB562035DD6700DC2102 /* LaunchScreen.storyboard */,
-				3988AB592035DD6700DC2102 /* Info.plist */,
-				3988AB5A2035DD6700DC2102 /* main.m */,
-			);
-			path = "Sweet&Coffee";
 			sourceTree = "<group>";
 		};
 		39AFC7D420518DD8005B9B5F /* Grounds of Alexandria */ = {
@@ -1162,26 +1013,6 @@
 			productReference = 381BA39E2105EF0A0003813D /* Heine Bros.app */;
 			productType = "com.apple.product-type.application";
 		};
-		382D93672111F42F00FA9F23 /* Popdeem-Social-Rewards */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 382D937D2111F43000FA9F23 /* Build configuration list for PBXNativeTarget "Popdeem-Social-Rewards" */;
-			buildPhases = (
-				E4E92EA2B61F53A661E17BF3 /* [CP] Check Pods Manifest.lock */,
-				382D93642111F42F00FA9F23 /* Sources */,
-				382D93652111F42F00FA9F23 /* Frameworks */,
-				382D93662111F42F00FA9F23 /* Resources */,
-				6809C3A0B78E86A51889E075 /* [CP] Embed Pods Frameworks */,
-				B5BF5D416B4F68C3AA3374C8 /* [CP] Copy Pods Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "Popdeem-Social-Rewards";
-			productName = "Popdeem-Social-Rewards";
-			productReference = 382D93682111F42F00FA9F23 /* Popdeem-Social-Rewards.app */;
-			productType = "com.apple.product-type.application";
-		};
 		382D93C22126C98800FA9F23 /* Ribs and Burgers */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 382D93D62126C98900FA9F23 /* Build configuration list for PBXNativeTarget "Ribs and Burgers" */;
@@ -1201,27 +1032,6 @@
 			name = "Ribs and Burgers";
 			productName = "Ribs and Burgers";
 			productReference = 382D93C32126C98800FA9F23 /* Ribs and Burgers.app */;
-			productType = "com.apple.product-type.application";
-		};
-		382D93E22126D7F100FA9F23 /* Miss Jones Rewards */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 382D93F62126D7F300FA9F23 /* Build configuration list for PBXNativeTarget "Miss Jones Rewards" */;
-			buildPhases = (
-				D5F59F45E7F1A941D546A8C9 /* [CP] Check Pods Manifest.lock */,
-				382D93DF2126D7F100FA9F23 /* Sources */,
-				382D93E02126D7F100FA9F23 /* Frameworks */,
-				382D93E12126D7F100FA9F23 /* Resources */,
-				773FC2B433C0E1254D9E9618 /* [CP] Embed Pods Frameworks */,
-				84E57E1C2D261CD61015E833 /* [CP] Copy Pods Resources */,
-				382D940B21270CCE00FA9F23 /* ShellScript */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "Miss Jones Rewards";
-			productName = "Miss Jones Rewards";
-			productReference = 382D93E32126D7F100FA9F23 /* Miss Jones Rewards.app */;
 			productType = "com.apple.product-type.application";
 		};
 		382D94192130025F00FA9F23 /* Yogurt Persa */ = {
@@ -1438,15 +1248,7 @@
 						CreatedOnToolsVersion = 9.3.1;
 						ProvisioningStyle = Automatic;
 					};
-					382D93672111F42F00FA9F23 = {
-						CreatedOnToolsVersion = 9.3.1;
-						ProvisioningStyle = Automatic;
-					};
 					382D93C22126C98800FA9F23 = {
-						CreatedOnToolsVersion = 9.3.1;
-						ProvisioningStyle = Manual;
-					};
-					382D93E22126D7F100FA9F23 = {
 						CreatedOnToolsVersion = 9.3.1;
 						ProvisioningStyle = Manual;
 					};
@@ -1517,10 +1319,8 @@
 				381BA3372101D0410003813D /* Reds Savoy Pizza */,
 				381BA3552101E6A00003813D /* Casual Pint */,
 				381BA3752101EFDB0003813D /* Butcher and the Farmer */,
-				382D93672111F42F00FA9F23 /* Popdeem-Social-Rewards */,
 				382D93C22126C98800FA9F23 /* Ribs and Burgers */,
 				381BA39D2105EF0A0003813D /* Heine Bros */,
-				382D93E22126D7F100FA9F23 /* Miss Jones Rewards */,
 				393CE44220C9C3460030000D /* SwiftSample */,
 				392BB4DC20037E5900995769 /* Tabbed Sample */,
 				382D94192130025F00FA9F23 /* Yogurt Persa */,
@@ -1584,19 +1384,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		382D93662111F42F00FA9F23 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				382D93812111F75800FA9F23 /* Localizable.strings in Resources */,
-				382D93772111F43000FA9F23 /* LaunchScreen.storyboard in Resources */,
-				382D93742111F43000FA9F23 /* Assets.xcassets in Resources */,
-				382D93852111F80100FA9F23 /* theme.json in Resources */,
-				382D93832111F7B400FA9F23 /* Info.plist in Resources */,
-				382D93722111F42F00FA9F23 /* Main.storyboard in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		382D93C12126C98800FA9F23 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -1607,22 +1394,6 @@
 				382D93DB2126C9C200FA9F23 /* theme.json in Resources */,
 				382D93CF2126C98900FA9F23 /* Assets.xcassets in Resources */,
 				382D93CD2126C98800FA9F23 /* Main.storyboard in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		382D93E12126D7F100FA9F23 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				382D93FD2126D99800FA9F23 /* Localizable.strings in Resources */,
-				382D94122127163600FA9F23 /* ProximaNova-Reg.ttf in Resources */,
-				382D94102127163600FA9F23 /* ProximaNova-Light.ttf in Resources */,
-				382D94112127163600FA9F23 /* ProximaNova-Bold.ttf in Resources */,
-				382D93FA2126D97C00FA9F23 /* Info.plist in Resources */,
-				382D93F22126D7F300FA9F23 /* LaunchScreen.storyboard in Resources */,
-				382D93FE2126D99800FA9F23 /* theme.json in Resources */,
-				382D93EF2126D7F300FA9F23 /* Assets.xcassets in Resources */,
-				382D93ED2126D7F100FA9F23 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2085,19 +1856,6 @@
 			shellPath = /bin/sh;
 			shellScript = "./Fabric.framework/run f3e1331a9e08ff100bf63475f5ac2f67675253d6 350a323fe2e39bc479beb4a3dce17913883bc2eec777e0ccb9b59d1507686dca";
 		};
-		382D940B21270CCE00FA9F23 /* ShellScript */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "./Fabric.framework/run f3e1331a9e08ff100bf63475f5ac2f67675253d6 350a323fe2e39bc479beb4a3dce17913883bc2eec777e0ccb9b59d1507686dca";
-		};
 		382D9415212C502900FA9F23 /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -2496,44 +2254,6 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		6809C3A0B78E86A51889E075 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-Popdeem-Social-Rewards/Pods-Popdeem-Social-Rewards-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework",
-				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework",
-				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework",
-				"${BUILT_PRODUCTS_DIR}/FBSDKShareKit/FBSDKShareKit.framework",
-				"${BUILT_PRODUCTS_DIR}/JSONModel/JSONModel.framework",
-				"${BUILT_PRODUCTS_DIR}/PopdeemSDK/PopdeemSDK.framework",
-				"${BUILT_PRODUCTS_DIR}/Realm/Realm.framework",
-				"${BUILT_PRODUCTS_DIR}/Shimmer/Shimmer.framework",
-				"${BUILT_PRODUCTS_DIR}/TOCropViewController/TOCropViewController.framework",
-				"${PODS_ROOT}/TwitterCore/iOS/TwitterCore.framework",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Bolts.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKCoreKit.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKLoginKit.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKShareKit.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JSONModel.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PopdeemSDK.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Realm.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Shimmer.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TOCropViewController.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwitterCore.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwitterKit.framework",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Popdeem-Social-Rewards/Pods-Popdeem-Social-Rewards-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		6D234583476AF4F40C68BDCB /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -2608,44 +2328,6 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Butcher and the Farmer/Pods-Butcher and the Farmer-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		773FC2B433C0E1254D9E9618 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-Miss Jones Rewards/Pods-Miss Jones Rewards-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework",
-				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework",
-				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework",
-				"${BUILT_PRODUCTS_DIR}/FBSDKShareKit/FBSDKShareKit.framework",
-				"${BUILT_PRODUCTS_DIR}/JSONModel/JSONModel.framework",
-				"${BUILT_PRODUCTS_DIR}/PopdeemSDK/PopdeemSDK.framework",
-				"${BUILT_PRODUCTS_DIR}/Realm/Realm.framework",
-				"${BUILT_PRODUCTS_DIR}/Shimmer/Shimmer.framework",
-				"${BUILT_PRODUCTS_DIR}/TOCropViewController/TOCropViewController.framework",
-				"${PODS_ROOT}/TwitterCore/iOS/TwitterCore.framework",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Bolts.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKCoreKit.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKLoginKit.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKShareKit.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JSONModel.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PopdeemSDK.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Realm.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Shimmer.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TOCropViewController.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwitterCore.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwitterKit.framework",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Miss Jones Rewards/Pods-Miss Jones Rewards-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		79AC3771FD5A3BA28E135995 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -2702,24 +2384,6 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Casual Pint/Pods-Casual Pint-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		84E57E1C2D261CD61015E833 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-Miss Jones Rewards/Pods-Miss Jones Rewards-resources.sh",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TwitterKitResources.bundle",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Miss Jones Rewards/Pods-Miss Jones Rewards-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		9F310DB2B62109B3D4831C02 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -2736,24 +2400,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		B5BF5D416B4F68C3AA3374C8 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-Popdeem-Social-Rewards/Pods-Popdeem-Social-Rewards-resources.sh",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TwitterKitResources.bundle",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Popdeem-Social-Rewards/Pods-Popdeem-Social-Rewards-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		BCCD7153D8A05A7777F5FE02 /* [CP] Embed Pods Frameworks */ = {
@@ -2830,24 +2476,6 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Pret/Pods-Pret-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		D5F59F45E7F1A941D546A8C9 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Miss Jones Rewards-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
 		DB4FCCE421866DC0664E80B8 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -2878,24 +2506,6 @@
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
 				"$(DERIVED_FILE_DIR)/Pods-Hunter&Barrell-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		E4E92EA2B61F53A661E17BF3 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Popdeem-Social-Rewards-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -3145,16 +2755,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		382D93642111F42F00FA9F23 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				382D936F2111F42F00FA9F23 /* ViewController.m in Sources */,
-				382D937A2111F43000FA9F23 /* main.m in Sources */,
-				382D936C2111F42F00FA9F23 /* AppDelegate.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		382D93BF2126C98800FA9F23 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -3162,18 +2762,6 @@
 				382D93CA2126C98800FA9F23 /* ViewController.m in Sources */,
 				382D93D52126C98900FA9F23 /* main.m in Sources */,
 				382D93C72126C98800FA9F23 /* AppDelegate.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		382D93DF2126D7F100FA9F23 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				382D940A2126FDA200FA9F23 /* ConciergeViewController.m in Sources */,
-				382D94012126F65800FA9F23 /* WebpageViewController.m in Sources */,
-				382D93EA2126D7F100FA9F23 /* ViewController.m in Sources */,
-				382D93F52126D7F300FA9F23 /* main.m in Sources */,
-				382D93E72126D7F100FA9F23 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3335,22 +2923,6 @@
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
-		382D93702111F42F00FA9F23 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				382D93712111F42F00FA9F23 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		382D93752111F43000FA9F23 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				382D93762111F43000FA9F23 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
 		382D93CB2126C98800FA9F23 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -3363,22 +2935,6 @@
 			isa = PBXVariantGroup;
 			children = (
 				382D93D12126C98900FA9F23 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-		382D93EB2126D7F100FA9F23 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				382D93EC2126D7F100FA9F23 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		382D93F02126D7F300FA9F23 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				382D93F12126D7F300FA9F23 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -3491,22 +3047,6 @@
 			isa = PBXVariantGroup;
 			children = (
 				3975B470203C927300459709 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-		3988AB512035DD6700DC2102 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				3988AB522035DD6700DC2102 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		3988AB562035DD6700DC2102 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				3988AB572035DD6700DC2102 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -3708,44 +3248,6 @@
 			};
 			name = Release;
 		};
-		382D937B2111F43000FA9F23 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = DF113A4987A7917617E67ECF /* Pods-Popdeem-Social-Rewards.debug.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = S648X26U8J;
-				INFOPLIST_FILE = "Popdeem-Social-Rewards/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.popdeem.Popdeem-Social-Rewards";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		382D937C2111F43000FA9F23 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 423BEF47536AF08820ADCCE0 /* Pods-Popdeem-Social-Rewards.release.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = S648X26U8J;
-				INFOPLIST_FILE = "Popdeem-Social-Rewards/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.popdeem.Popdeem-Social-Rewards";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Release;
-		};
 		382D93D72126C98900FA9F23 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 482084673AA7CDB439335DC1 /* Pods-Ribs and Burgers.debug.xcconfig */;
@@ -3785,48 +3287,6 @@
 				PROVISIONING_PROFILE = "f39ac287-3c57-4c3b-b6be-8a7ddb0793cf";
 				PROVISIONING_PROFILE_SPECIFIER = Reds;
 				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Release;
-		};
-		382D93F72126D7F300FA9F23 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FCEF5F3453D6BE712692300D /* Pods-Miss Jones Rewards.debug.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = S648X26U8J;
-				INFOPLIST_FILE = "Miss Jones Rewards/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.popdeem.Miss-Jones-Rewards";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "28ec6ac6-84ed-43d6-9e42-db54cd127bdc";
-				PROVISIONING_PROFILE_SPECIFIER = "Miss Jones";
-				TARGETED_DEVICE_FAMILY = 1;
-			};
-			name = Debug;
-		};
-		382D93F82126D7F300FA9F23 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6AB76D35A437E2A042E56883 /* Pods-Miss Jones Rewards.release.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = S648X26U8J;
-				INFOPLIST_FILE = "Miss Jones Rewards/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.popdeem.Miss-Jones-Rewards";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "28ec6ac6-84ed-43d6-9e42-db54cd127bdc";
-				PROVISIONING_PROFILE_SPECIFIER = "Miss Jones";
-				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -4328,29 +3788,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		382D937D2111F43000FA9F23 /* Build configuration list for PBXNativeTarget "Popdeem-Social-Rewards" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				382D937B2111F43000FA9F23 /* Debug */,
-				382D937C2111F43000FA9F23 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		382D93D62126C98900FA9F23 /* Build configuration list for PBXNativeTarget "Ribs and Burgers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				382D93D72126C98900FA9F23 /* Debug */,
 				382D93D82126C98900FA9F23 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		382D93F62126D7F300FA9F23 /* Build configuration list for PBXNativeTarget "Miss Jones Rewards" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				382D93F72126D7F300FA9F23 /* Debug */,
-				382D93F82126D7F300FA9F23 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
