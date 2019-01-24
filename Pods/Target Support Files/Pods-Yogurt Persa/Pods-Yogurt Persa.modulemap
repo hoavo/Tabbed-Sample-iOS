@@ -1,0 +1,6 @@
+framework module Pods_Yogurt_Persa {
+  umbrella header "Pods-Yogurt Persa-umbrella.h"
+
+  export *
+  module * { export * }
+}

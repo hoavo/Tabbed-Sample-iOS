@@ -1,48 +1,49 @@
 {
-  "popdeem" : {
-    "colors" : {
-      "primaryAppColor" : "#000000",
-      "secondaryAppColor" : "#E91F4A",
-      "primaryInverseColor" : "#E91F4A",
-      "viewBackgroundColor" : "#FFFFFF",
-      "primaryFontColor" : "#000000",
-      "secondaryFontColor" : "#A2A4A6",
-      "tableViewCellBackgroundColor" : "#FFFFFF",
-      "navBarTintColor" : "#000000",
-      "segmentedControlBackgroundColor" : "#FFFFFF",
-      "segmentedControlForegroundColor" : "#E91F4A",
-      "homeHeaderTextColor" : "#FFFFFF"
-    },
-    "images" : {
-      "loginImage" : "kft_login_image1",
-      "socialLogin1" : "kft_login_image2",
-      "socialLogin2" : "kft_login_image3",
-      "socialLogin3" : "kft_login_image4",
-      "socialLogin4" : "kft_login_image5",
-      "defaultItemImage" : "pduikit_starG",
-      "homeHeaderImage" : "kft_header_image",
-      "ambassadorIconImage" : "kft_gratitude_logo",
-      "gratitudeConnect1" : "kungfutea_gratitude_1",
-      "gratitudeConnect2" : "kungfutea_gratitude_2",
-      "gratitudeConnect3" : "kungfutea_gratitude_3",
-      "gratitudeCoupon1" : "kungfutea_gratitude_1",
-      "gratitudeCoupon2" : "kungfutea_gratitude_2",
-      "gratitudeCoupon3" : "kungfutea_gratitude_3",
-      "gratitudeCreditCoupon1" : "kungfutea_gratitude_1",
-      "gratitudeCreditCoupon2" : "kungfutea_gratitude_2",
-      "gratitudeCreditCoupon3" : "kungfutea_gratitude_3",
-      "gratitudeSweepstake1" : "kungfutea_gratitude_1",
-      "gratitudeSweepstake2" : "kungfutea_gratitude_2",
-      "gratitudeSweepstake3" : "kungfutea_gratitude_3"
-    },
-    "fonts" : {
-      "primaryFont" : "Nunito-Regular",
-      "boldFont" : "Nunito-Bold",
-      "lightFont" : "Nunito-Light",
-      "navbarFont" : "HWT Artz"
-    },
-    "nav" : {
-      "useTheme" : "true"
+    "popdeem" : {
+        "colors" : {
+            "primaryAppColor" : "#000000",
+            "secondaryAppColor" : "#E91F4A",
+            "primaryInverseColor" : "#E91F4A",
+            "viewBackgroundColor" : "#FFFFFF",
+            "primaryFontColor" : "#000000",
+            "secondaryFontColor" : "#A2A4A6",
+            "tableViewCellBackgroundColor" : "#FFFFFF",
+            "navBarTintColor" : "#000000",
+            "segmentedControlBackgroundColor" : "#FFFFFF",
+            "segmentedControlForegroundColor" : "#E91F4A",
+            "homeHeaderTextColor" : "#FFFFFF"
+        },
+        "images" : {
+            "loginImage" : "pd_social_login_image_1",
+            "socialLogin1" : "pd_social_login_image_2",
+            "socialLogin2" : "pd_social_login_image_3",
+            "socialLogin3" : "pd_social_login_image_4",
+            "socialLogin4" : "pd_social_login_image_5",
+            "defaultItemImage" : "default_reward_icon",
+            "homeHeaderImage" : "pd_header_image",
+            "ambassadorIconImage" : "pd_gratitude_coupon_image_1",
+            "gratitudeConnect1" : "pd_gratitude_coupon_image_2",
+            "gratitudeConnect2" : "pd_gratitude_coupon_image_3",
+            "gratitudeConnect3" : "pd_gratitude_coupon_image_4",
+            "gratitudeCoupon1" : "pd_gratitude_coupon_image_1",
+            "gratitudeCoupon2" : "pd_gratitude_coupon_image_2",
+            "gratitudeCoupon3" : "pd_gratitude_coupon_image_3",
+            "gratitudeCreditCoupon1" : "pd_gratitude_coupon_image_4",
+            "gratitudeCreditCoupon2" : "pd_gratitude_coupon_image_1",
+            "gratitudeCreditCoupon3" : "pd_gratitude_coupon_image_2",
+            "gratitudeSweepstake1" : "pd_gratitude_coupon_image_3",
+            "gratitudeSweepstake2" : "pd_gratitude_coupon_image_4",
+            "gratitudeSweepstake3" : "pd_gratitude_coupon_image_1"
+        },
+        "fonts" : {
+            "primaryFont" : "Nunito-Regular",
+            "boldFont" : "Nunito-Bold",
+            "lightFont" : "Nunito-Light",
+            "navbarFont" : "HWT Artz"
+        },
+        "nav" : {
+            "useTheme" : "true"
+        }
     }
-  }
 }
+

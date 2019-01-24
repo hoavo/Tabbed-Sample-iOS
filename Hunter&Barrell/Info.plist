@@ -23,7 +23,7 @@
 		<dict>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>fb1706317436274686hunterbarrel</string>
+				<string>fb796460714035610hunterbarrel</string>
 				<string>hunterbarrel</string>
 			</array>
 		</dict>
@@ -45,9 +45,9 @@
 		</array>
 	</dict>
 	<key>FacebookAppID</key>
-	<string>1706317436274686</string>
+	<string>796460714035610</string>
 	<key>FacebookDisplayName</key>
-	<string>Popdeem</string>
+	<string>Hunter &amp; Barrel</string>
 	<key>FacebookUrlSchemeSuffix</key>
 	<string>hunterbarrel</string>
 	<key>InstagramCallback</key>

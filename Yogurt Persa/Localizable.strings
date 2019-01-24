@@ -1,0 +1,198 @@
+
+"popdeem.home.header.titleText" = "Comparte tu experiencia Yogurt Persa en las redes sociales para ganar más premios.";
+"popdeem.home.title" = "Social";
+
+"popdeem.gratitude.creditCoupon.title.1" = "¡Eres brillante!";
+"popdeem.gratitude.creditCoupon.body.1" = "Gracias por compartir. %@ ha sido añadido a tu cuenta.";
+"popdeem.gratitude.creditCoupon.title.2" = "¡Gracias por compartir!";
+"popdeem.gratitude.creditCoupon.body.2" = "%@ ha sido añadido a tu cuenta";
+"popdeem.gratitude.creditCoupon.title.3" = "¡Fantástico¡";
+"popdeem.gratitude.creditCoupon.body.3" = "Gracias por compartir tu momento Yogurt Persa. %@ ha sido añadido a tu cuenta.";
+
+"popdeem.gratitude.coupon.title.1" = "¡Eres brillante!";
+"popdeem.gratitude.coupon.body.1" = "Gracias por compartir. Tu recompensa ha sido añadida a tu cuenta.";
+"popdeem.gratitude.coupon.title.2" = "Gracias por compartir";
+"popdeem.gratitude.coupon.body.2" = "Tu recompensa ha sido añadida a tu perfil";
+"popdeem.gratitude.coupon.title.3" = "¡Fantástico¡";
+"popdeem.gratitude.coupon.body.3" = "Gracias por compartir tu momento Yogurt Persa. Tu recompensa ha sido añadida a tu perfil.";
+
+"popdeem.gratitude.sweepstake.title.1" = "¡Eres brillante!";
+"popdeem.gratitude.sweepstake.body.1" = "Has participado con éxito en la competencia. Revisa tu perfil para saber cuando el ganador sea anunciado.";
+"popdeem.gratitude.sweepstake.title.2" = "¡Estas aquí!";
+"popdeem.gratitude.sweepstake.body.2" = "Has entrado en esta competencia. Te avisaremos si eres el ganador.";
+"popdeem.gratitude.sweepstake.title.3" = "Buenísimo";
+"popdeem.gratitude.sweepstake.body.3" = "Chequea tu cuenta para saber cuando el ganador sea anunciado.";
+
+"popdeem.gratitude.connect.title.1" = "Gracias por conectarte.";
+"popdeem.gratitude.connect.body.1" = "Ahora puedes ganar recompensas adicionales cuando compartes tu experiencia Yogur Persa";
+"popdeem.gratitude.connect.title.2" = "¡Estas aquí!";
+"popdeem.gratitude.connect.body.2" = "Comparte tu experiencia Yogurt Persa para ganar recompensas adicionales.";
+"popdeem.gratitude.connect.title.3" = "¡Éxito!";
+"popdeem.gratitude.connect.body.3" = "Ahora puedes ganar recompensas y premios adicionales cuando compartes tus momentos Yogurt Persa en las redes sociales.";
+
+"popdeem.sociallogin.title.1" = "Nuevo: Recompensas de Redes Sociales.";
+"popdeem.sociallogin.body.1" = "¡Conéctate con Yogurt Persa en las redes sociales para ganar premios adicionales!";
+"popdeem.sociallogin.title.2" = "Nuevo: Recompensas de Redes Sociales.";
+"popdeem.sociallogin.body.2" = "¡Conéctate con Yogurt Persa en las redes sociales para ganar premios adicionales!";
+"popdeem.sociallogin.title.3" = "Nuevo: Recompensas de Redes Sociales.";
+"popdeem.sociallogin.body.3" = "¡Conéctate con Yogurt Persa en las redes sociales para ganar premios adicionales!";
+
+
+//Twitter Connect Screen
+"popdeem.twitter.connect.read.labelText" ="Conecta tu cuenta de Twitter para ganar recompensas.";
+"popdeem.twitter.connect.read.actionButtonTitle" = "Continuar";
+"popdeem.twitter.loading.labelText" ="Conectando cuenta de Twitter.";
+"popdeem.twitter.loading.actionButtonTitle" = "Conectando...";
+//Facebook Connect Screen
+"popdeem.common.facebookLoginCancelledTitle" ="Inicio de sesión cancelado.";
+"popdeem.common.facebookLoginCancelledBody" ="Debes iniciar sesión con Facebook para hacer uso de tus recompensas de redes sociales.";
+"popdeem.facebook.connect.read.labelText" ="Debes iniciar sesión con tu cuenta de Facebook para reclamar este premio. Nunca haremos publicaciones en Facebook sin tu consentimiento explícito.";
+"popdeem.facebook.connect.read.actionButtonTitle" = "Continuar";
+"popdeem.facebook.connect.publish.labelText" ="Debes conceder permisos de publicación para poder reclamar este premio. Nunca haremos publicaciones en Facebook sin tu consentimiento explícito.";
+"popdeem.facebook.connect.publish.actionButtonTitle" = "Continuar";
+//Instagram Connect Screen
+"popdeem.instagram.connect.labelText" ="Conecta tu cuenta de Instagram para ganas premios.";
+"popdeem.instagram.connect.actionButtonTitle" = "Continuar";
+"popdeem.instagram.webview.title" ="Conecta tu cuenta de Instagram";
+//Instagram Share Screen
+"popdeem.instagram.share.stepOne.label1" = "Tu mensaje ha sido copiado en el portapapeles.";
+"popdeem.instagram.share.stepOne.label2" = "Ahora serás redirigido a Instagram, donde podrás pegar el mensaje. Haz clic sostenido para pegar tu mensaje.";
+"popdeem.instagram.share.stepOne.buttonText" = "Siguiente";
+"popdeem.instagram.share.stepTwo.label1" = "Asegúrate de que has iniciado sesión con la cuenta correcta de Instagram.";
+"popdeem.instagram.share.stepTwo.label2" = "Tu mensaje será publicado en cualquier cuenta a la que estés conectado actualmente en la aplicación de Instagram.";
+"popdeem.instagram.share.stepTwo.buttonText" = "Ok, entendido.";
+//Instagram Verify Screen
+"popdeem.instagram.verify.headerText" ="Verificar";
+"popdeem.instagram.verify.mustVerify.headerText" = "Verificar publicación";
+"popdeem.instagram.verify.mustVerify.messageText" = "¿Has completado tu publicación en Instagram? Si es así, haz clic en “Verificar” a continuación para que podamos chequear. Si no es así, haz clic en cualquier lugar fuera de esta tarjeta, y se te llevará de nuevo a la pantalla de reclamación, donde podrás hacer la publicación nuevamente.\n";
+"popdeem.instagram.verify.mustVerify.buttonText" = "Verifica ahora";
+"popdeem.instagram.verify.verifySuccess.headerText" = "¡Verificación exitosa!";
+"popdeem.instagram.verify.verifySuccess.messageText" = "¡Hemos encontrado tu publicación! Ahora puedes ir a la sección de premios para ver tu recompensa.\n";
+"popdeem.instagram.verify.verifySuccess.buttonText" = "Ir";
+"popdeem.instagram.verify.verifyFailure.headerText" = "Verifique el fallo";
+"popdeem.instagram.verify.verifyFailure.messageText" = "No pudimos encontrar tu publicación. Por favor, ve a Instagram y asegúrate de que su mensaje incluya el hashtag %@ e intenta verificar de nuevo. También puedes verificar esta publicación en una fecha posterior en la sección de premios.";
+"popdeem.instagram.verify.verifySuccess.buttonText" = "Ir";
+//Messages
+"popdeem.inbox.title" = "Bandeja de entrada";
+"popdeem.message.detail.senderTag" = "Remitente:";
+"popdeem.message.detail.dateTag" = "Fecha:";
+"popdeem.message.detail.titleTag" = "Título:";
+"popdeem.message.detail.bodyTag" = "Mensaje:";
+//Wallet Reward Cell
+"popdeem.wallet.sweepstake.redeemText" = "Has sido incluido en esta competencia.";
+"popdeem.wallet.coupon.redeemText" = "Canjear en el punto de venta.";
+//Wallet
+"popdeem.instagram.wallet.verifyButtonTitle" = "Verificar";
+"popdeem.instagram.wallet.unverified" = "Esta recompensa debe ser verificada.";
+"popdeem.wallet.creditRewardText" = "%@ Se añadirá a su saldo.";
+"popdeem.wallet.sweepstake.redeemText" = "Has sido incluido en esta competencia.";
+"popdeem.wallet.coupon.redeemText" = "Canjear en el punto de venta.";
+"popdeem.wallet.unlimitedReward.sweepstake.expiryString" = "No hay una fecha establecida para este sorteo.";
+"popdeem.wallet.unlimitedReward.coupon.expiryString" = "Esta recompensa no tiene fecha de caducidad.";
+"popdeem.wallet.reward.drawInXDays" = "Sorteo en %ld días";
+"popdeem.wallet.reward.expiresInXDays" = "Expira en %ld días";
+"popdeem.wallet.reward.expiresIn1Day" = "Expira en 1 día";
+"popdeem.wallet.reward.drawIn1Day" = "Sorteo en 1 día";
+"popdeem.wallet.drawHappened" = "El sorteo ha sido realizado. Espera…";
+"popdeem.wallet.reward.drawInXHours" = "Sorteo en %ld horas";
+"popdeem.wallet.reward.expiresInXHours" = "Expira en %ld horas";
+//Reward
+"popdeem.claim.action.photo" = "Foto Obligatoria";
+"popdeem.claim.action.checkinOrTweet" = "Check-in o Tweet requerido";
+"popdeem.claim.action.noAction" = "No se requiere ninguna acción";
+"popdeem.claim.action.tweet" = "Tweet Obligatorio";
+//Home
+"popdeem.home.title" = "Recompensas";
+"popdeem.home.segmentedControl.wallet" = "Historia";
+"popdeem.home.segmentedControl.rewards" = "Recompensas";
+"popdeem.home.segmentedControl.activity" = "Actividad";
+"popdeem.home.infoCell.noRewards" = "No hay recompensas disponibles ahora.\nPor favor, vuelve más tarde.";
+"popdeem.home.infoCell.noFeed" = "No hay nada en la bandeja de noticias en este momento. \nPor favor, vuelve más tarde..";
+"popdeem.home.infoCell.noWallet" = "No hay nada en tu historial en este momento.\nPor favor, vuelve más tarde.";
+"popdeem.rewards.title" = "Recompensas";
+"popdeem.home.header.titleText" = "Comparte tu experiencia en redes sociales para ganar más premios.";
+//Claim
+"popdeem.claim.verifyLocationFailed" = "Debes estar en este lugar para reclamar esta recompensa. Por favor intenta más tarde.";
+"popdeem.instagram.postVerified.title" = "Felicidades";
+"popdeem.instagram.postVerified.body" = "Su publicación ha sido exitosamente verificada.";
+"popdeem.claims.title" = "Reclamación";
+"popdeem.claim.verifyLocationFailed" = "Debes estar en este lugar para reclamar esta recompensa. Por favor, vuelve más tarde, o actualiza tu ubicación.";
+"popdeem.claim.addmessage" = "Agregar mensaje";
+"popdeem.claim.getreward" = "Reclamar recompensa";
+"popdeem.claim.text.placeholder" = "¿Que piensas hacer?";
+"popdeem.claim.reward.cant.deselect" = "No se puede anular la selección";
+"popdeem.claim.reward.facebookRequired" = "Este premio debe ser reclamado con un mensaje de Facebook. También puedes publicar en Twitter si lo deseas.";
+"popdeem.claim.connect.tweetRequired" = "Este premio debe ser reclamado con un Tweet. También puedes publicar en Facebook si lo deseas.";
+"popdeem.claim.reward.instagram.unavailable.title" = "Instagram no disponible";
+"popdeem.claim.reward.instagram.unavailable.message" = "Instagram no es una opción disponible para reclamar esta recompensa.";
+"popdeem.claim.action.photoMessage" = "Se requiere una foto para esta acción. Por favor, añade una foto.";
+"popdeem.claim.networkerror" = "No se ha seleccionado ninguna red social. Debes seleccionar al menos una para completar esta acción.";
+"popdeem.claim.twitter.check" = "Verificando Credenciales";
+"popdeem.claim.hashtagMissing.message" = "Parece que has olvidado añadir el hashtag requerido %@, por favor agrega esto a tu mensaje antes de publicar en Twitter.";
+"popdeem.claim.tweet.toolong" = "Tweet demasiado largo. Tu mensaje contiene más de los 140 caracteres permitidos. Por favor, hazlo más corto.";
+"popdeem.claim.tweet.emptyText" = "Debes introducir un texto para tu tweet.";
+"popdeem.claim.twitter.notconnected" = "Twitter no está conectado. Debes conectar tu cuenta de Twitter para hacer la publicación.";
+"popdeem.claim.reward.claiming" = "Reclamando Recompensa";
+"popdeem.claim.reward.claiming.message" = "Esto puede tardar hasta 30 segundos";
+"popdeem.claim.facebook.cannotConnect" = "No pudimos conectarte a Facebook";
+"popdeem.claim.reward.claimed" = "!Recompensa Redimida!";
+"popdeem.claim.reward.success" = "Puedes ver tu recompensa en la sección de premios";
+//Redeem
+"popdeem.redeem.title" = "Redimir";
+"popdeem.redeem.doneButton.title" = "Listo";
+"popdeem.redeem.timer.doneText" = "Temporizador listo";
+"popdeem.redeem.doneAlert.title" = "¿Has redimido tu recompensa?";
+"popdeem.redeem.doneAlert.body" = "No podrás canjear tu recompensa hasta salir de esta pantalla";
+"popdeem.redeem.doneAlert.cancelButtonText" = "Cancelar";
+"popdeem.redeem.doneAlert.okButtonText" = "¡Sí, dale!";
+//Login
+"popdeem.sociallogin.tagline" = "Nuevo: recompensas de redes sociales";
+"popdeem.sociallogin.heading" = "Conecta tu cuenta de red social para ganar recompensas adicionales.";
+"popdeem.sociallogin.body" = "Conecta tu cuenta de red social para activar sus funciones. Esto te dará acceso a contenidos exclusivos y nuevas recompensas sociales.";
+"popdeem.sociallogin.footer" = "Desarrollado por Popdeem";
+"popdeem.sociallogin.continue" = "Continuar a la App";
+"popdeem.sociallogin.body" = "Conecta tu cuenta de red social para activar sus funciones. Esto te dará acceso a contenidos exclusivos y nuevas recompensas sociales.";
+"popdeem.sociallogin.terms" = "Al acceder, estas aceptando los términos de nuestra política de privacidad.";
+"popdeem.sociallogin.success" = "¡Conectado!";
+"popdeem.sociallogin.success.description" = "Las recompensas están desbloqueadas. ¡Se te notificará cuando las nuevas recompensas estén disponibles!";
+//Scanning
+"popdeem.claim.reward.claimed" = "!Recompensa Redimida!";
+"popdeem.claim.reward.success" = "Puedes ver tu recompensa en la sección de premios";
+//Common
+"popdeem.common.ok" = "OK";
+"popdeem.common.sorry" = "Lo siento";
+"popdeem.common.facebookLoginCancelledTitle" = "Inicio de sesión cancelada";
+"popdeem.common.facebookLoginCancelledBody" = "YDebes iniciar sesión con Facebook para hacer uso de las recompensas sociales.";
+"popdeem.common.cantConnectTwitter" = "No pudimos conectarte a Twitter";
+"popdeem.common.cantConnectFacebook" = "No pudimos conectarte a Facebook";
+"popdeem.common.error" = "Error";
+"popdeem.common.wait" = "Por favor espera...";
+"popdeem.common.back" = "Atrás";
+"popdeem.common.something.wrong" = "Algo salió mal. Por favor, inténtelo de nuevo más tarde";
+"popdeem.common.loading" = "Cargando";
+//Locatiom
+"popdeem.location.denied.alert.title" = "Servicios de localización deshabilitados";
+"popdeem.location.denied.alert.body" = "Para reclamar esta recompensa, hay que verificar que te encuentras en este lugar. Por favor, activa los servicios de localización en la configuración de la App.";
+"popdeem.location.denied.alert.cancelButtonText" = "Ahora no";
+"popdeem.location.denied.alert.settingsButtonText" = "Ir a la configuración";
+
+"popdeem.claim.action.socialLogin" = "Inicio de sesión social";
+"popdeem.facebook.share.stepOne.label2" = "Tu mensaje debe incluir el %@, o no serás capaz de reclamar tu premio.";
+"popdeem.facebook.share.stepOne.label1" = "Comparte tu foto";
+"popdeem.gratitude.buttonTitle" = "Ir al Perfil";
+"popdeem.instagram.share.stepThree.label1" = "Asegúrate de seleccionar 'Feed' en la aplicación de instagram";
+"popdeem.instagram.share.stepThree.label2" = "Si publica su historia, no podremos detectar su publicación, y no podrá reclamar su recompensa";
+"popdeem.instagram.share.stepThree.buttonText" = "Ok, entendido.";
+"popdeem.claim.scanTitle" = "Escanear";
+"popdeem.claim.scanNow.title.photo" = "Escanear para la foto ya compartida";
+"popdeem.claim.shareTitle.photo" = "o, comparte foto ahora";
+"popdeem.claim.addPhoto.title" = "Añadir foto";
+"popdeem.claim.info.photo" = "La fotografía debe contener %@ en el pie de foto para redimir esta recompensa.";
+"popdeem.claim.continuebutton.text" = "Continuar";
+"popdeem.reward.expiry.days" = "⌚︎ Quedan %li días para reclamar";
+"popdeem.reward.expiry.hours" = "⌚︎ Quedan %li horas para reclamar";
+"popdeem.reward.expiry.weeks" = "⌚︎ Quedan %li semanas para reclamar";
+"popdeem.reward.expiry.months" = "⌚︎ Quedan %li meses para reclamar";
+"popdeem.reward.expiry.month" = "⌚︎ Queda 1 mes para reclamar";
+"popdeem.reward.expiry.week" = "⌚︎ Queda 1 semana para reclamar";
+

@@ -1,0 +1,6 @@
+framework module Pods_Miss_Jones_Rewards {
+  umbrella header "Pods-Miss Jones Rewards-umbrella.h"
+
+  export *
+  module * { export * }
+}

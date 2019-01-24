@@ -52,15 +52,6 @@ target 'Hunter&Barrell' do
   pod 'Crashlytics'
 end
 
-target 'Ribs & Burgers' do
-  use_frameworks!
-  
-  # Pods for Tabbed Sample
-  pod 'PopdeemSDK', :path => '../Popdeem-SDK-iOS/PopdeemSDK.podspec'
-  pod 'Fabric'
-  pod 'Crashlytics'
-end
-
 target 'Grounds of Alexandria' do
   use_frameworks!
   
@@ -69,3 +60,95 @@ target 'Grounds of Alexandria' do
   pod 'Fabric'
   pod 'Crashlytics'
 end
+
+target 'Pret' do
+    use_frameworks!
+    
+    # Pods for Tabbed Sample
+    pod 'PopdeemSDK', :path => '../Popdeem-SDK-iOS/PopdeemSDK.podspec'
+    pod 'Fabric'
+    pod 'Crashlytics'
+end
+
+target 'Reds Savoy Pizza' do
+    use_frameworks!
+    
+    # Pods for Tabbed Sample
+    pod 'PopdeemSDK', :path => '../Popdeem-SDK-iOS/PopdeemSDK.podspec'
+    pod 'Fabric'
+    pod 'Crashlytics'
+end
+
+target 'Casual Pint' do
+    use_frameworks!
+    
+    # Pods for Tabbed Sample
+    pod 'PopdeemSDK', :path => '../Popdeem-SDK-iOS/PopdeemSDK.podspec'
+    pod 'Fabric'
+    pod 'Crashlytics'
+end
+
+target 'Butcher and the Farmer' do
+    use_frameworks!
+    
+    # Pods for Tabbed Sample
+    pod 'PopdeemSDK', :path => '../Popdeem-SDK-iOS/PopdeemSDK.podspec'
+    pod 'Fabric'
+    pod 'Crashlytics'
+end
+
+target 'Heine Bros' do
+    use_frameworks!
+    
+    # Pods for Tabbed Sample
+    pod 'PopdeemSDK', :path => '../Popdeem-SDK-iOS/PopdeemSDK.podspec'
+    pod 'Fabric'
+    pod 'Crashlytics'
+end
+
+target 'Popdeem-Social-Rewards' do
+    use_frameworks!
+    
+    # Pods for Tabbed Sample
+    pod 'PopdeemSDK', :path => '../Popdeem-SDK-iOS/PopdeemSDK.podspec'
+    pod 'Fabric'
+    pod 'Crashlytics'
+end
+
+target 'Ribs and Burgers' do
+    use_frameworks!
+    
+    # Pods for Tabbed Sample
+    pod 'PopdeemSDK', :path => '../Popdeem-SDK-iOS/PopdeemSDK.podspec'
+    pod 'Fabric'
+    pod 'Crashlytics'
+end
+
+target 'Miss Jones Rewards' do
+    use_frameworks!
+    
+    # Pods for Tabbed Sample
+    pod 'PopdeemSDK', :path => '../Popdeem-SDK-iOS/PopdeemSDK.podspec'
+    pod 'Fabric'
+    pod 'Crashlytics'
+end
+
+target 'Yogurt Persa' do
+    use_frameworks!
+    
+    # Pods for Tabbed Sample
+    pod 'PopdeemSDK', :path => '../Popdeem-SDK-iOS/PopdeemSDK.podspec'
+    pod 'Fabric'
+    pod 'Crashlytics'
+end
+
+target 'ProperWhiskey' do
+    use_frameworks!
+    
+    # Pods for Tabbed Sample
+    pod 'PopdeemSDK', :path => '../Popdeem-SDK-iOS/PopdeemSDK.podspec'
+    pod 'Fabric'
+    pod 'Crashlytics'
+end
+
+

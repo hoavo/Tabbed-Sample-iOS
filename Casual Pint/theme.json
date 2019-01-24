@@ -1,0 +1,42 @@
+{
+    "popdeem" : {
+      "colors" : {
+        "primaryAppColor" : "#343435",
+        "secondaryAppColor" : "#F2931A",
+        "primaryInverseColor" : "#F2931A",
+        "viewBackgroundColor" : "#e9e9e9",
+        "primaryFontColor" : "#000000",
+        "secondaryFontColor" : "#656565",
+        "tableViewCellBackgroundColor" : "#FFFFFF",
+        "navBarTintColor" : "#F2931A",
+        "segmentedControlBackgroundColor" : "#343435",
+        "segmentedControlForegroundColor" : "#F2931A",
+        "homeHeaderTextColor" : "#FFFFFF"
+    },
+      "images" : {
+        "loginImage" : "pd_social_login_image_1",
+        "socialLogin1" : "pd_social_login_image_2",
+        "socialLogin2" : "pd_social_login_image_3",
+        "socialLogin3" : "pd_social_login_image_1",
+        "defaultItemImage" : "pduikit_starG",
+        "homeHeaderImage" : "pd_header_image",
+        "ambassadorIconImage" : "pd_gratitude_coupon_image_1",
+        "gratitudeConnect1" : "pd_gratitude_coupon_image_1",
+        "gratitudeConnect2" : "pd_gratitude_coupon_image_2",
+        "gratitudeConnect3" : "pd_gratitude_coupon_image_3",
+        "gratitudeCoupon1" : "pd_gratitude_coupon_image_1",
+        "gratitudeCoupon2" : "pd_gratitude_coupon_image_2",
+        "gratitudeCoupon3" : "pd_gratitude_coupon_image_3",
+        "gratitudeCreditCoupon1" : "pd_gratitude_coupon_image_1",
+        "gratitudeCreditCoupon2" : "pd_gratitude_coupon_image_2",
+        "gratitudeCreditCoupon3" : "pd_gratitude_coupon_image_3",
+        "gratitudeSweepstake1" : "pd_gratitude_coupon_image_1",
+        "gratitudeSweepstake2" : "pd_gratitude_coupon_image_2",
+        "gratitudeSweepstake3" : "pd_gratitude_coupon_image_3"
+      },
+      "nav" : {
+        "useTheme" : "true"
+      }
+    }
+  }
+  
