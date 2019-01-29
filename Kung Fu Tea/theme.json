@@ -39,7 +39,7 @@
             "primaryFont" : "Nunito-Regular",
             "boldFont" : "Nunito-Bold",
             "lightFont" : "Nunito-Light",
-            "navbarFont" : "HWT Artz"
+            "navbarFont" : "Nunito-Regular"
         },
         "nav" : {
             "useTheme" : "true"

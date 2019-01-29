@@ -196,3 +196,58 @@
 "popdeem.reward.expiry.month" = "⌚︎ Queda 1 mes para reclamar";
 "popdeem.reward.expiry.week" = "⌚︎ Queda 1 semana para reclamar";
 
+
+
+// New Additions to translations
+"popdeem.sociallogin.twitterButtonText" = "Iniciar sesión con Twitter";
+"popdeem.sociallogin.instagramButtonText" = "Iniciar sesión con Instagram";
+"popdeem.sociallogin.facebookButtonText" = "Iniciar sesión con Facebook";
+
+"popdeem.profile.connectSocialAccountsText" = "Conectar cuentas de redes sociales";
+"popdeem.profile.messagesTitleText" = "Mensajes";
+"popdeem.messages.noMessagesText" = "No tienes mensajes";
+"popdeem.messages.fetchMessagesText" = "Fetching messages...";
+"popdeem.profile.myHistoryText" = "MI HISTORIA";
+
+
+"popdeem.settings.logOutText" = "Cerrar sesión";
+"popdeem.settings.socialNetworksText" = "Redes Sociales";
+"popdeem.scan.scanFacebookText" = "Escanear Facebook";
+"popdeem.scan.scanTwitterText" = "Escanear Twitter";
+"popdeem.scan.scanInstagramText" = "Escanear Instagram";
+
+"popdeem.connect.connectInstagramText" = "Conecta tu cuenta de Instagram";
+"popdeem.connect.connectFacebookText" = "Conecta tu cuenta de Facebook";
+"popdeem.connect.connectTwitterText" = "Conecta tu cuenta de Twitter";
+"popdeem.redeem.redeemNowText" = "¿Canjear la recompensa ahora?";
+"popdeem.redeem.redeemSureText" = "¿Seguro que deseas canjear en este momento?";
+
+"popdeem.redeem.cancelText" = "Cancelar";
+"popdeem.redeem.redeemText" = "Redimir";
+"popdeem.claim.continuebutton.text" = "Continuar";
+
+"popdeem.scan.chooseNetworkToScanText" = "Elegir cuál es la red que ha compartido su foto con %@ a reclamar su premio:";
+"popdeem.scan.noteEligibilityText" = "Nota: Debe haber compartido su experiencia con %@ en las últimas 48 horas para ser elegible para una recompensa";
+"popdeem.scan.couldNotFindPostText" = "¡Oops! Lo sentimos %@, no pudimos encontrar una publicación de las últimas 48 horas con %@.";
+"popdeem.scan.ensureCorrectAccountText" = "Por favor asegúrese de que ha compartido desde la cuenta correcta de redes sociales y vuelve a intentarlo.";
+"popdeem.scan.foundPostWithText" = "Hey %@, encontramos una entrada con %@.";
+"popdeem.scan.thanksForSharingText" = "¡Gracias por compartir! Has desbloqueado tu recompensa.";
+
+"popdeem.loading.loggingInText" = "Iniciar sesión";
+"popdeem.loading.pleaseWaitText" = "Por favor espera mientras te registramos";
+
+"popdeem.sweepstake.sweepstakeEntryText" = "Entrada al sorteo";
+"popdeem.sweepstake.inTheDrawRewardText" = "- Ahora estas participando en el sorteo.\n- Se te notificará si eres el ganador.\n- %@";
+"popdeem.sweepstake.inTheDrawText" = "- Ahora estas participando en el sorteo.\n- Se te notificará si eres el ganador.";
+"popdeem.sweepstake.monthlyDrawText" = "El sorteo se lleva a cabo mensualmente.";
+"popdeem.sweepstake.drawTakesPlaceOnText" = "El sorteo se llevará a cabo el %@";
+"popdeem.sweepstake.drawInDaysText" = "El sorteo se realizará en %ld días";
+"popdeem.sweepstake.drawInHoursText" = "El sorteo se realizará en %ld horas";
+"popdeem.sweepstake.drawInOneDayText" = "Sorteo en 1 día";
+"popdeem.sweepstake.drawHasHappenedText" = "Se ha realizado el sorteo. Se te notificará si eres el ganador.";
+
+
+
+
+
+

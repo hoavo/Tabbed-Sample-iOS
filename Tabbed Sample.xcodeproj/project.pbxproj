@@ -64,7 +64,6 @@
 		382D942C2130026300FA9F23 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 382D942B2130026300FA9F23 /* main.m */; };
 		382D9432213002B500FA9F23 /* theme.json in Resources */ = {isa = PBXBuildFile; fileRef = 382D9430213002B100FA9F23 /* theme.json */; };
 		382D9433213002B500FA9F23 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 382D9431213002B500FA9F23 /* Localizable.strings */; };
-		382D94352130046200FA9F23 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 382D94342130046100FA9F23 /* Info.plist */; };
 		3848355D2175F3810019F66E /* NonPopdeemViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3848355C2175F3810019F66E /* NonPopdeemViewController.m */; };
 		38774D9D20FF6B250042EAFC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 38774D9C20FF6B250042EAFC /* AppDelegate.m */; };
 		38774DA020FF6B260042EAFC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 38774D9F20FF6B260042EAFC /* ViewController.m */; };
@@ -126,14 +125,6 @@
 		393CE44D20C9C3520030000D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 393CE44C20C9C3520030000D /* Assets.xcassets */; };
 		393CE45020C9C3520030000D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 393CE44E20C9C3520030000D /* LaunchScreen.storyboard */; };
 		3963575C202C5B6C00BF494B /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3963575B202C5B6C00BF494B /* Localizable.strings */; };
-		3975B466203C927300459709 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3975B465203C927300459709 /* AppDelegate.m */; };
-		3975B469203C927300459709 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3975B468203C927300459709 /* ViewController.m */; };
-		3975B46C203C927300459709 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3975B46A203C927300459709 /* Main.storyboard */; };
-		3975B46E203C927300459709 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3975B46D203C927300459709 /* Assets.xcassets */; };
-		3975B471203C927300459709 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3975B46F203C927300459709 /* LaunchScreen.storyboard */; };
-		3975B474203C927300459709 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3975B473203C927300459709 /* main.m */; };
-		3975B479203C964000459709 /* theme.json in Resources */ = {isa = PBXBuildFile; fileRef = 3975B478203C964000459709 /* theme.json */; };
-		3975B47B203C96EC00459709 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3975B47A203C96EC00459709 /* Localizable.strings */; };
 		39AA146220CFDA2D008353B8 /* loc.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 39AA146120CFDA2D008353B8 /* loc.gpx */; };
 		39AFC7D720518DD8005B9B5F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 39AFC7D620518DD8005B9B5F /* AppDelegate.m */; };
 		39AFC7DA20518DD8005B9B5F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 39AFC7D920518DD8005B9B5F /* ViewController.m */; };
@@ -152,7 +143,6 @@
 		39D937EC2052871F007B10EC /* theme.json in Resources */ = {isa = PBXBuildFile; fileRef = 39D937EB2052871F007B10EC /* theme.json */; };
 		39D937EE20528827007B10EC /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 39D937ED20528827007B10EC /* Localizable.strings */; };
 		480248AAAF80BA782C724D33 /* Pods_Yogurt_Persa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E3B1A91D86E8E342EC87C690 /* Pods_Yogurt_Persa.framework */; };
-		4F180C88B714F501766B459C /* Pods_Hunter_Barrell.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 426A2F4A608D9F8D662EA585 /* Pods_Hunter_Barrell.framework */; };
 		528DB06A12461BD8D2496BE7 /* Pods_Grounds_of_Alexandria.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A6AC3E7C1345D2E5FB303CAF /* Pods_Grounds_of_Alexandria.framework */; };
 		6A154DD72CBBFDEE786C800B /* Pods_SwiftSample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 880EA8AED984EA56FD5A3F8F /* Pods_SwiftSample.framework */; };
 		794AD91FDF17328645F09A84 /* Pods_Tabbed_Sample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 381400A79C04325F1B9E509F /* Pods_Tabbed_Sample.framework */; };
@@ -333,18 +323,6 @@
 		393CE44F20C9C3520030000D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		393CE45120C9C3520030000D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3963575B202C5B6C00BF494B /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
-		3975B462203C927200459709 /* Hunter&Barrell.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hunter&Barrell.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3975B464203C927300459709 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		3975B465203C927300459709 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		3975B467203C927300459709 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		3975B468203C927300459709 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		3975B46B203C927300459709 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		3975B46D203C927300459709 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		3975B470203C927300459709 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		3975B472203C927300459709 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3975B473203C927300459709 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		3975B478203C964000459709 /* theme.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = theme.json; sourceTree = "<group>"; };
-		3975B47A203C96EC00459709 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
 		39AA146120CFDA2D008353B8 /* loc.gpx */ = {isa = PBXFileReference; lastKnownFileType = text; path = loc.gpx; sourceTree = "<group>"; };
 		39AFC7D320518DD7005B9B5F /* Grounds of Alexandria.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Grounds of Alexandria.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		39AFC7D520518DD8005B9B5F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -505,14 +483,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				6A154DD72CBBFDEE786C800B /* Pods_SwiftSample.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		3975B45F203C927200459709 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				4F180C88B714F501766B459C /* Pods_Hunter_Barrell.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -801,7 +771,6 @@
 				39AA146120CFDA2D008353B8 /* loc.gpx */,
 				392BB4F920037EAD00995769 /* Podfile */,
 				392BB4DF20037E5900995769 /* Tabbed Sample */,
-				3975B463203C927300459709 /* Hunter&Barrell */,
 				39AFC7D420518DD8005B9B5F /* Grounds of Alexandria */,
 				390E585B207248E200639410 /* Kung Fu Tea */,
 				393CE44420C9C3470030000D /* SwiftSample */,
@@ -824,7 +793,6 @@
 			isa = PBXGroup;
 			children = (
 				392BB4DD20037E5900995769 /* Tabbed Sample.app */,
-				3975B462203C927200459709 /* Hunter&Barrell.app */,
 				39AFC7D320518DD7005B9B5F /* Grounds of Alexandria.app */,
 				390E585A207248E200639410 /* Kung Fu Tea.app */,
 				393CE44320C9C3460030000D /* SwiftSample.app */,
@@ -872,24 +840,6 @@
 				393CE45120C9C3520030000D /* Info.plist */,
 			);
 			path = SwiftSample;
-			sourceTree = "<group>";
-		};
-		3975B463203C927300459709 /* Hunter&Barrell */ = {
-			isa = PBXGroup;
-			children = (
-				3975B464203C927300459709 /* AppDelegate.h */,
-				3975B465203C927300459709 /* AppDelegate.m */,
-				3975B467203C927300459709 /* ViewController.h */,
-				3975B468203C927300459709 /* ViewController.m */,
-				3975B46A203C927300459709 /* Main.storyboard */,
-				3975B46D203C927300459709 /* Assets.xcassets */,
-				3975B46F203C927300459709 /* LaunchScreen.storyboard */,
-				3975B472203C927300459709 /* Info.plist */,
-				3975B473203C927300459709 /* main.m */,
-				3975B478203C964000459709 /* theme.json */,
-				3975B47A203C96EC00459709 /* Localizable.strings */,
-			);
-			path = "Hunter&Barrell";
 			sourceTree = "<group>";
 		};
 		39AFC7D420518DD8005B9B5F /* Grounds of Alexandria */ = {
@@ -1159,27 +1109,6 @@
 			productReference = 393CE44320C9C3460030000D /* SwiftSample.app */;
 			productType = "com.apple.product-type.application";
 		};
-		3975B461203C927200459709 /* Hunter&Barrell */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 3975B475203C927300459709 /* Build configuration list for PBXNativeTarget "Hunter&Barrell" */;
-			buildPhases = (
-				DDDF28FCE8B91C861400F214 /* [CP] Check Pods Manifest.lock */,
-				3975B45E203C927200459709 /* Sources */,
-				3975B45F203C927200459709 /* Frameworks */,
-				3975B460203C927200459709 /* Resources */,
-				3E0F582CAD781211CDF89944 /* [CP] Embed Pods Frameworks */,
-				3975B47C203C980400459709 /* ShellScript */,
-				42ADEB665238A2198294BB63 /* [CP] Copy Pods Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "Hunter&Barrell";
-			productName = "Hunter&Barrell";
-			productReference = 3975B462203C927200459709 /* Hunter&Barrell.app */;
-			productType = "com.apple.product-type.application";
-		};
 		39AFC7D220518DD7005B9B5F /* Grounds of Alexandria */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 39AFC7E820518DD8005B9B5F /* Build configuration list for PBXNativeTarget "Grounds of Alexandria" */;
@@ -1284,10 +1213,6 @@
 						CreatedOnToolsVersion = 9.4;
 						ProvisioningStyle = Automatic;
 					};
-					3975B461203C927200459709 = {
-						CreatedOnToolsVersion = 9.2;
-						ProvisioningStyle = Automatic;
-					};
 					39AFC7D220518DD7005B9B5F = {
 						CreatedOnToolsVersion = 9.2;
 						ProvisioningStyle = Automatic;
@@ -1311,7 +1236,6 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3975B461203C927200459709 /* Hunter&Barrell */,
 				39AFC7D220518DD7005B9B5F /* Grounds of Alexandria */,
 				390E5859207248E200639410 /* Kung Fu Tea */,
 				39BC01BB20D3B9B800003701 /* Spoons */,
@@ -1403,7 +1327,6 @@
 			files = (
 				382D9433213002B500FA9F23 /* Localizable.strings in Resources */,
 				382D94292130026300FA9F23 /* LaunchScreen.storyboard in Resources */,
-				382D94352130046200FA9F23 /* Info.plist in Resources */,
 				382D9432213002B500FA9F23 /* theme.json in Resources */,
 				382D94262130026300FA9F23 /* Assets.xcassets in Resources */,
 				382D94242130026100FA9F23 /* Main.storyboard in Resources */,
@@ -1488,18 +1411,6 @@
 				393CE45020C9C3520030000D /* LaunchScreen.storyboard in Resources */,
 				393CE44D20C9C3520030000D /* Assets.xcassets in Resources */,
 				393CE44B20C9C3470030000D /* Main.storyboard in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		3975B460203C927200459709 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				3975B47B203C96EC00459709 /* Localizable.strings in Resources */,
-				3975B471203C927300459709 /* LaunchScreen.storyboard in Resources */,
-				3975B479203C964000459709 /* theme.json in Resources */,
-				3975B46E203C927300459709 /* Assets.xcassets in Resources */,
-				3975B46C203C927300459709 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1934,19 +1845,6 @@
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Fabric/run\" f3e1331a9e08ff100bf63475f5ac2f67675253d6 350a323fe2e39bc479beb4a3dce17913883bc2eec777e0ccb9b59d1507686dca";
 		};
-		3975B47C203C980400459709 /* ShellScript */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Fabric/run\" f3e1331a9e08ff100bf63475f5ac2f67675253d6 350a323fe2e39bc479beb4a3dce17913883bc2eec777e0ccb9b59d1507686dca";
-		};
 		39D937EF20528959007B10EC /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 12;
@@ -1974,44 +1872,6 @@
 			shellPath = /bin/sh;
 			shellScript = "# Type a script or drag a script file from your workspace to insert its path.\n";
 		};
-		3E0F582CAD781211CDF89944 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-Hunter&Barrell/Pods-Hunter&Barrell-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework",
-				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework",
-				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework",
-				"${BUILT_PRODUCTS_DIR}/FBSDKShareKit/FBSDKShareKit.framework",
-				"${BUILT_PRODUCTS_DIR}/JSONModel/JSONModel.framework",
-				"${BUILT_PRODUCTS_DIR}/PopdeemSDK/PopdeemSDK.framework",
-				"${BUILT_PRODUCTS_DIR}/Realm/Realm.framework",
-				"${BUILT_PRODUCTS_DIR}/Shimmer/Shimmer.framework",
-				"${BUILT_PRODUCTS_DIR}/TOCropViewController/TOCropViewController.framework",
-				"${PODS_ROOT}/TwitterCore/iOS/TwitterCore.framework",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Bolts.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKCoreKit.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKLoginKit.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKShareKit.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JSONModel.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PopdeemSDK.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Realm.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Shimmer.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TOCropViewController.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwitterCore.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwitterKit.framework",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Hunter&Barrell/Pods-Hunter&Barrell-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		41F8EF810F020940C4874AC1 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -2028,24 +1888,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		42ADEB665238A2198294BB63 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-Hunter&Barrell/Pods-Hunter&Barrell-resources.sh",
-				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TwitterKitResources.bundle",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Hunter&Barrell/Pods-Hunter&Barrell-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		47EF518F40CB07021676F5A0 /* [CP] Embed Pods Frameworks */ = {
@@ -2494,24 +2336,6 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		DDDF28FCE8B91C861400F214 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Hunter&Barrell-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
 		E80302732FBA65D4C96A469C /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -2826,16 +2650,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3975B45E203C927200459709 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				3975B469203C927300459709 /* ViewController.m in Sources */,
-				3975B474203C927300459709 /* main.m in Sources */,
-				3975B466203C927300459709 /* AppDelegate.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		39AFC7CF20518DD7005B9B5F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -3031,22 +2845,6 @@
 			isa = PBXVariantGroup;
 			children = (
 				393CE44F20C9C3520030000D /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-		3975B46A203C927300459709 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				3975B46B203C927300459709 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		3975B46F203C927300459709 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				3975B470203C927300459709 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -3635,44 +3433,6 @@
 			};
 			name = Release;
 		};
-		3975B476203C927300459709 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = F5C33031B6CF99E6C0BC0BD5 /* Pods-Hunter&Barrell.debug.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = S648X26U8J;
-				INFOPLIST_FILE = "Hunter&Barrell/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.Popdeem.Hunter-Barrell";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "";
-				TARGETED_DEVICE_FAMILY = 1;
-			};
-			name = Debug;
-		};
-		3975B477203C927300459709 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FABDD5D20CA2FF2565FC2F23 /* Pods-Hunter&Barrell.release.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = S648X26U8J;
-				INFOPLIST_FILE = "Hunter&Barrell/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.Popdeem.Hunter-Barrell";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "";
-				TARGETED_DEVICE_FAMILY = 1;
-			};
-			name = Release;
-		};
 		39AFC7E620518DD8005B9B5F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 76695AB0C339F256A61F2024 /* Pods-Grounds of Alexandria.debug.xcconfig */;
@@ -3856,15 +3616,6 @@
 			buildConfigurations = (
 				393CE45220C9C3520030000D /* Debug */,
 				393CE45320C9C3520030000D /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		3975B475203C927300459709 /* Build configuration list for PBXNativeTarget "Hunter&Barrell" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				3975B476203C927300459709 /* Debug */,
-				3975B477203C927300459709 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
