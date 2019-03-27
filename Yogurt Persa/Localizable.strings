@@ -188,7 +188,6 @@
 "popdeem.claim.shareTitle.photo" = "o, comparte foto ahora";
 "popdeem.claim.addPhoto.title" = "Añadir foto";
 "popdeem.claim.info.photo" = "La fotografía debe contener %@ en el pie de foto para redimir esta recompensa.";
-"popdeem.claim.continuebutton.text" = "Continuar";
 "popdeem.reward.expiry.days" = "⌚︎ Quedan %li días para reclamar";
 "popdeem.reward.expiry.hours" = "⌚︎ Quedan %li horas para reclamar";
 "popdeem.reward.expiry.weeks" = "⌚︎ Quedan %li semanas para reclamar";
@@ -197,8 +196,6 @@
 "popdeem.reward.expiry.week" = "⌚︎ Queda 1 semana para reclamar";
 
 
-
-// New Additions to translations
 "popdeem.sociallogin.twitterButtonText" = "Iniciar sesión con Twitter";
 "popdeem.sociallogin.instagramButtonText" = "Iniciar sesión con Instagram";
 "popdeem.sociallogin.facebookButtonText" = "Iniciar sesión con Facebook";
@@ -206,7 +203,7 @@
 "popdeem.profile.connectSocialAccountsText" = "Conectar cuentas de redes sociales";
 "popdeem.profile.messagesTitleText" = "Mensajes";
 "popdeem.messages.noMessagesText" = "No tienes mensajes";
-"popdeem.messages.fetchMessagesText" = "Fetching messages...";
+"popdeem.messages.fetchMessagesText" = "Fecuperando mensajes...";
 "popdeem.profile.myHistoryText" = "MI HISTORIA";
 
 
@@ -230,8 +227,8 @@
 "popdeem.scan.noteEligibilityText" = "Nota: Debe haber compartido su experiencia con %@ en las últimas 48 horas para ser elegible para una recompensa";
 "popdeem.scan.couldNotFindPostText" = "¡Oops! Lo sentimos %@, no pudimos encontrar una publicación de las últimas 48 horas con %@.";
 "popdeem.scan.ensureCorrectAccountText" = "Por favor asegúrese de que ha compartido desde la cuenta correcta de redes sociales y vuelve a intentarlo.";
-"popdeem.scan.foundPostWithText" = "Hey %@, encontramos una entrada con %@.";
-"popdeem.scan.thanksForSharingText" = "¡Gracias por compartir! Has desbloqueado tu recompensa.";
+"popdeem.scan.foundPostWithText" = "Hey %@, encontramos una entrada con ";
+"popdeem.scan.thanksForSharingText" = " ¡Gracias por compartir! Has desbloqueado tu recompensa.";
 
 "popdeem.loading.loggingInText" = "Iniciar sesión";
 "popdeem.loading.pleaseWaitText" = "Por favor espera mientras te registramos";
@@ -246,8 +243,13 @@
 "popdeem.sweepstake.drawInOneDayText" = "Sorteo en 1 día";
 "popdeem.sweepstake.drawHasHappenedText" = "Se ha realizado el sorteo. Se te notificará si eres el ganador.";
 
+// New Additions to translations
 
+"popdeem.facebook.share.stepThree.buttonText" = "Ok, entendido.";
+"popdeem.facebook.share.stepThree.buttonText" = "Ok, entendido.";
+"popdeem.facebook.share.stepOne.label1.image" = "Comparte Tu Foto";
+"popdeem.claim.chooseNetwork" = "Elegir Red";
+"popdeem.noaction.cancelText" = "Cancelar";
+"popdeem.noaction.claimText" = "Reclamación";
 
-
-
-
+"popdeem.wallet.creditString" = "%@ fue agregado a su cuenta en %@";

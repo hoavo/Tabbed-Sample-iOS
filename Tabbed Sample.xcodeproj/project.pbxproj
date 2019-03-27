@@ -76,8 +76,11 @@
 		38774DB620FF76940042EAFC /* Interstate-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 38774DB320FF76910042EAFC /* Interstate-Bold.ttf */; };
 		38774DB720FF76940042EAFC /* Interstate-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 38774DB420FF76920042EAFC /* Interstate-Light.ttf */; };
 		38774DB820FF76940042EAFC /* Interstate-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 38774DB520FF76940042EAFC /* Interstate-Regular.ttf */; };
+		38AD9277220C71F10052C0B4 /* ProximaNova-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 38AD9274220C71F10052C0B4 /* ProximaNova-Light.ttf */; };
+		38AD9278220C71F10052C0B4 /* ProximaNova-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 38AD9275220C71F10052C0B4 /* ProximaNova-Bold.ttf */; };
+		38AD9279220C71F10052C0B4 /* ProximaNova-Reg.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 38AD9276220C71F10052C0B4 /* ProximaNova-Reg.ttf */; };
+		38AD927C22132BAD0052C0B4 /* ThirdPartyTokenViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 38AD927B22132BAD0052C0B4 /* ThirdPartyTokenViewController.m */; };
 		38C07901217480A1002DCE65 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 38C07900217480A1002DCE65 /* AppDelegate.m */; };
-		38C07904217480A1002DCE65 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 38C07903217480A1002DCE65 /* ViewController.m */; };
 		38C07907217480A1002DCE65 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38C07905217480A1002DCE65 /* Main.storyboard */; };
 		38C07909217480A2002DCE65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38C07908217480A2002DCE65 /* Assets.xcassets */; };
 		38C0790C217480A2002DCE65 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38C0790A217480A2002DCE65 /* LaunchScreen.storyboard */; };
@@ -256,14 +259,14 @@
 		38774DB320FF76910042EAFC /* Interstate-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Interstate-Bold.ttf"; sourceTree = "<group>"; };
 		38774DB420FF76920042EAFC /* Interstate-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Interstate-Light.ttf"; sourceTree = "<group>"; };
 		38774DB520FF76940042EAFC /* Interstate-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Interstate-Regular.ttf"; sourceTree = "<group>"; };
-		38BBCA3D21305DFC0048F884 /* Roboto-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Bold.ttf"; sourceTree = "<group>"; };
-		38BBCA3E21305E010048F884 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Regular.ttf"; sourceTree = "<group>"; };
-		38BBCA3F21305E0D0048F884 /* Roboto-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Light.ttf"; sourceTree = "<group>"; };
+		38AD9274220C71F10052C0B4 /* ProximaNova-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ProximaNova-Light.ttf"; sourceTree = "<group>"; };
+		38AD9275220C71F10052C0B4 /* ProximaNova-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ProximaNova-Bold.ttf"; sourceTree = "<group>"; };
+		38AD9276220C71F10052C0B4 /* ProximaNova-Reg.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ProximaNova-Reg.ttf"; sourceTree = "<group>"; };
+		38AD927A22132BAD0052C0B4 /* ThirdPartyTokenViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ThirdPartyTokenViewController.h; sourceTree = "<group>"; };
+		38AD927B22132BAD0052C0B4 /* ThirdPartyTokenViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ThirdPartyTokenViewController.m; sourceTree = "<group>"; };
 		38C078FD217480A1002DCE65 /* ProperWhiskey.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProperWhiskey.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		38C078FF217480A1002DCE65 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		38C07900217480A1002DCE65 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		38C07902217480A1002DCE65 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		38C07903217480A1002DCE65 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		38C07906217480A1002DCE65 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		38C07908217480A2002DCE65 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		38C0790B217480A2002DCE65 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -669,6 +672,9 @@
 		382D941B2130026000FA9F23 /* Yogurt Persa */ = {
 			isa = PBXGroup;
 			children = (
+				38AD9275220C71F10052C0B4 /* ProximaNova-Bold.ttf */,
+				38AD9274220C71F10052C0B4 /* ProximaNova-Light.ttf */,
+				38AD9276220C71F10052C0B4 /* ProximaNova-Reg.ttf */,
 				382D941C2130026100FA9F23 /* AppDelegate.h */,
 				382D941D2130026100FA9F23 /* AppDelegate.m */,
 				382D941F2130026100FA9F23 /* ViewController.h */,
@@ -678,9 +684,6 @@
 				382D9431213002B500FA9F23 /* Localizable.strings */,
 				382D9430213002B100FA9F23 /* theme.json */,
 				382D94272130026300FA9F23 /* LaunchScreen.storyboard */,
-				38BBCA3D21305DFC0048F884 /* Roboto-Bold.ttf */,
-				38BBCA3F21305E0D0048F884 /* Roboto-Light.ttf */,
-				38BBCA3E21305E010048F884 /* Roboto-Regular.ttf */,
 				382D94342130046100FA9F23 /* Info.plist */,
 				382D942B2130026300FA9F23 /* main.m */,
 			);
@@ -721,8 +724,8 @@
 				38C0791321748153002DCE65 /* theme.json */,
 				38C078FF217480A1002DCE65 /* AppDelegate.h */,
 				38C07900217480A1002DCE65 /* AppDelegate.m */,
-				38C07902217480A1002DCE65 /* ViewController.h */,
-				38C07903217480A1002DCE65 /* ViewController.m */,
+				38AD927A22132BAD0052C0B4 /* ThirdPartyTokenViewController.h */,
+				38AD927B22132BAD0052C0B4 /* ThirdPartyTokenViewController.m */,
 				38C07905217480A1002DCE65 /* Main.storyboard */,
 				38C07908217480A2002DCE65 /* Assets.xcassets */,
 				38C0790A217480A2002DCE65 /* LaunchScreen.storyboard */,
@@ -1327,8 +1330,11 @@
 			files = (
 				382D9433213002B500FA9F23 /* Localizable.strings in Resources */,
 				382D94292130026300FA9F23 /* LaunchScreen.storyboard in Resources */,
+				38AD9277220C71F10052C0B4 /* ProximaNova-Light.ttf in Resources */,
 				382D9432213002B500FA9F23 /* theme.json in Resources */,
+				38AD9278220C71F10052C0B4 /* ProximaNova-Bold.ttf in Resources */,
 				382D94262130026300FA9F23 /* Assets.xcassets in Resources */,
+				38AD9279220C71F10052C0B4 /* ProximaNova-Reg.ttf in Resources */,
 				382D94242130026100FA9F23 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -2614,7 +2620,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				38C07904217480A1002DCE65 /* ViewController.m in Sources */,
+				38AD927C22132BAD0052C0B4 /* ThirdPartyTokenViewController.m in Sources */,
 				38C0790F217480A2002DCE65 /* main.m in Sources */,
 				38C07901217480A1002DCE65 /* AppDelegate.m in Sources */,
 			);
@@ -3181,7 +3187,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = S648X26U8J;
 				INFOPLIST_FILE = ProperWhiskey/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.popdeem.ProperWhiskey;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -3200,7 +3206,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = S648X26U8J;
 				INFOPLIST_FILE = ProperWhiskey/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.popdeem.ProperWhiskey;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -3218,7 +3224,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = S648X26U8J;
 				INFOPLIST_FILE = "Kung Fu Tea/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.popdeem.Kung-Fu-Tea";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -3238,7 +3244,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = S648X26U8J;
 				INFOPLIST_FILE = "Kung Fu Tea/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.popdeem.Kung-Fu-Tea";
 				PRODUCT_NAME = "$(TARGET_NAME)";

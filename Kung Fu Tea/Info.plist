@@ -66,6 +66,8 @@
 		<string>fb-messenger-share-api</string>
 		<string>fbauth2</string>
 		<string>fbshareextension</string>
+		<string>twitter</string>
+		<string>twitterauth</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
@@ -83,6 +85,7 @@
 	<key>UIAppFonts</key>
 	<array>
 		<string>HWT Artz.ttf</string>
+		<string>Lobster.ttf</string>
 		<string>Nunito-Black.ttf</string>
 		<string>Nunito-Light.ttf</string>
 		<string>Nunito-Bold.ttf</string>

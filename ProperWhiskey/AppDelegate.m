@@ -7,24 +7,40 @@
 //
 #import "AppDelegate.h"
 #import "PopdeemSDK.h"
+#import "PopdeemSDK.h"
 #import <Fabric/Fabric.h>
 #import <Crashlytics/Crashlytics.h>
 #import <FBSDKCoreKit/FBSDKCoreKit.h>
+
+#import "PDSocialAPIService.h"
 
 @interface AppDelegate ()
 
 @end
 
-@implementation AppDelegate
+NSString *facebookUserID = @"105795063903763";
+NSString *facebookAccessToken = @"EAAYP4vypxZC4BAE09QxhZBLs8VBvBmaNAsWGyHvKUVa9yUWz5Uq6uCdUvo1k6ViTeYbPo6yTtd6UAGNCMuxHHZCupf1P2X7nOZAgvdztIpJUOBdXyMCUVrPxBsU7AeAfijNlGRf9ZBqwtf5m95WRS8JZCBeceRmQ2XusO1KZB5iAQrvmHuli1NZBMdfgEIBAk5ar2pl0brcBfeO2ZAR0JNUaSXvAB76ZCTaueFS9tN9aG5MonBh5RMsvIf";
 
+@implementation AppDelegate
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     [PopdeemSDK withAPIKey:@"e934194f-cf4d-4b79-8526-9ccbbc06d0c9" env:PDEnvProduction];
+    
+    // e934194f-cf4d-4b79-8526-9ccbbc06d0c9
+    
     [PopdeemSDK setUpThemeFile:@"theme"];
     [PopdeemSDK setDebug:YES];
+    
+    
     [PopdeemSDK enableSocialLoginWithNumberOfPrompts:300];
+    
+    
+    //[PopdeemSDK setFacebookCredentials:facebookAccessToken facebookId:facebookUserID];
+    
+    
+   
     [PopdeemSDK registerForPushNotificationsApplication:application];
     [[FBSDKApplicationDelegate sharedInstance] application:application
                              didFinishLaunchingWithOptions:launchOptions];

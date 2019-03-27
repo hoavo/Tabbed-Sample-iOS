@@ -24,18 +24,18 @@
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>twitterkit-e2NxY4qwpDlco6NQ2Nl8lPQop</string>
-				<string>fb1706317436274686pret</string>
+				<string>fb233904207486515butcherfarmer</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>FacebookAppID</key>
-	<string>1706317436274686</string>
+	<string>233904207486515</string>
 	<key>FacebookDisplayName</key>
-	<string>Popdeem</string>
+	<string>Butcher and the Farmer</string>
 	<key>FacebookUrlSchemeSuffix</key>
-	<string>pret</string>
+	<string>butcherfarmer</string>
 	<key>InstagramCallback</key>
 	<string>https://www.popdeem.com/igredirect</string>
 	<key>InstagramClientId</key>

@@ -81,7 +81,7 @@
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>We use your location to deliver local rewards</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>We use your photo library to upload images</string>
+	<string>We use your photos for sharing</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>Interstate-Light.ttf</string>

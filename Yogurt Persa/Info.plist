@@ -81,9 +81,9 @@
 	<string>ROJi9Z3jYUFDKa2Z56CHTLNoY69omddPYGbWCvYw5FpgAzL5uN</string>
 	<key>UIAppFonts</key>
 	<array>
-		<string>Roboto-Light.ttf</string>
-		<string>Roboto-Bold.ttf</string>
-		<string>Roboto-Regular.ttf</string>
+		<string>ProximaNova-Light.ttf</string>
+		<string>ProximaNova-Bold.ttf</string>
+		<string>ProximaNova-Reg.ttf</string>
 	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>

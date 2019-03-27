@@ -35,10 +35,10 @@
             "gratitudeSweepstake3" : "pd_gratitude_coupon_image_1"
         },
         "fonts" : {
-            "primaryFont" : "Roboto-Regular",
-            "boldFont" : "Roboto-Bold",
-            "lightFont" : "Roboto-Light",
-            "navbarFont" : "Roboto-Regular"
+            "primaryFont" : "ProximaNova-Regular",
+            "boldFont" : "ProximaNova-Bold",
+            "lightFont" : "ProximaNova-Light",
+            "navbarFont" : "ProximaNova-Regular"
         },
         "nav" : {
             "useTheme" : "true"

@@ -43,3 +43,14 @@
 "popdeem.sociallogin.body.2" = "Connect with Proper Twelve on social media to earn additional rewards!";
 "popdeem.sociallogin.title.3" = "New: Proper Twelve Social Rewards.";
 "popdeem.sociallogin.body.3" = "Connect with Proper Twelve on social media to earn additional rewards!";
+
+
+
+
+"popdeem.sociallogin.instagramButtonText" = "Log in with Instagram";
+"popdeem.sociallogin.twitterButtonText" = "Log in with Twitter";
+"popdeem.sociallogin.facebookButtonText" = "Log in with Facebook";
+
+"popdeem.claim.claimRewardsText" = "Claim Reward";
+"popdeem.claim.continuebutton.text" = "Continue...";
+"popdeem.claim.closeButtonText" = "Close";
